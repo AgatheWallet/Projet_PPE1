@@ -2,7 +2,7 @@
 Projet encadré PPE1 
 
 ## Membres du groupe
-Florian Jacquot (INALCO)
+Florian Jacquot (INALCO)  
 Agathe Wallet (Inalco)
 
 ## Mot envisagé
