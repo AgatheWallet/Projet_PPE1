@@ -2,9 +2,7 @@
 Projet encadré PPE1 
 
 ## Membres du groupe
-Fanny Bachey  
-Florian Jacquot  
-Agathe Wallet  
+
 
 ## Mot envisagé
 Féminisme
