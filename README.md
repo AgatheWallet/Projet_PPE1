@@ -2,7 +2,7 @@
 Projet encadré PPE1 
 
 ## Membres du groupe
-
+Florian Jacquot (INALCO)
 
 ## Mot envisagé
 Féminisme
