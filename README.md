@@ -3,7 +3,7 @@ Projet encadré PPE1
 
 ## Membres du groupe
 Florian Jacquot (INALCO)  
-Agathe Wallet (Inalco)
+Agathe Wallet (Inalco)  
 Fanny BACHEY (Inalco)
 
 ## Mot envisagé
