@@ -12,3 +12,5 @@ Fanny :
 Fanny : 
 - Création d'un fichier "index.html" afin de créer une page web pour le projet. 
 - To do : continuer de trouver des liens, affiner les explications sur le pourquoi du choix du mot. 
+- C'est une défaite, je n'arrive pas à créer un site web, il semblerait que seul le propriétaire du dépôt puisse le faire (je ne trouve pas l'onglet settings)
+
