@@ -1,0 +1,14 @@
+# JOURNAL DE BORD 
+## Mot = Féminisme 
+## Langues : Florian (Japonais) / Agathe (Coréen) / Fanny (Portugais et français) 
+
+## 1er novembre 
+Fanny : 
+- Ajout d'URL pour alimenter le corpus en Portugais. 
+- Création d'un fichier féminisme, quelques recherches sur la définition et l'histoire du mot féminisme en France. 
+- Création d'un fichier question, à alimenter avec nos questions et nos remarques. 
+
+## 21 novembre 
+Fanny : 
+- Création d'un fichier "index.html" afin de créer une page web pour le projet. 
+- To do : continuer de trouver des liens, affiner les explications sur le pourquoi du choix du mot. 
