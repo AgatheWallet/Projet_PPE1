@@ -1,6 +1,6 @@
 # JOURNAL DE BORD 
 ## Mot = Féminisme 
-## Langues : Florian (Japonais) / Agathe (Coréen) / Fanny (Portugais et français) 
+## Langues : Florian (Japonais) / Agathe (Coréen et français) / Fanny (Portugais et français) 
 
 ## 1er novembre 
 Fanny : 
@@ -15,3 +15,9 @@ Fanny :
 - C'est une défaite, je n'arrive pas à créer un site web, il semblerait que seul le propriétaire du dépôt puisse le faire (je ne trouve pas l'onglet settings)
 - ajout de liens pour le corpus en portugais. 
 Questionnement : nécessité de faire un corpus en français ? 
+
+## 22 novembre
+Agathe : 
+- Création d'un répertoire pour le site
+- Activation des pages git
+- Création du fichier tableau.html
