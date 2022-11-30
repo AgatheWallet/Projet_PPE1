@@ -41,7 +41,7 @@ while read -r URL; do
 	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)
 	# charset=$(curl -ILs -o /dev/null -w "%{content_type}" $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
 	
-	nb_occ=$(curl $URL | grep -o 'feminismo' | wc)
+	nb_occ=$(curl $URL | grep -o '$mot' | wc)
 
 	echo -e "\tcode : $code";
 
