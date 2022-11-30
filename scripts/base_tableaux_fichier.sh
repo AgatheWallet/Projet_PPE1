@@ -27,7 +27,7 @@ echo "<html><body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table>" >> $fichier_tableau
-echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>occurrences</th></tr>" >> $fichier_tableau
+echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>aspiration</th><th>dump-text</th><th>occurrences</th></tr>" >> $fichier_tableau
 
 lineno=1;
 while read -r URL; do
@@ -74,7 +74,7 @@ while read -r URL; do
 	#echo "$dump" >> "dumps-text/$basename-$lineno.txt"
 	#echo "$contenu" >> "aspirations/$basename-$lineno.txt"
 
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td>$nb_occ</td></tr>" >> $fichier_tableau
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=../aspirations/$basename-$lineno.html>aspiration</a></td><td><a href=../dumps-text/$basename-$lineno.txt>dump</td><td>$nb_occ</td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls
