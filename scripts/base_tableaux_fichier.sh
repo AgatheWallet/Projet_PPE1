@@ -35,14 +35,13 @@ while read -r URL; do
 	# la façon attendue, sans l'option -w de cURL
 	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 	charset=$(curl -ILs $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
-	contenu=$(curl $URL) 
+	#contenu=$(curl $URL) 
 
 	# autre façon, avec l'option -w de cURL
 	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)
 	# charset=$(curl -ILs -o /dev/null -w "%{content_type}" $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
 	
-	nb_occ=$(curl $URL | grep -o '$mot' | wc)
-
+	
 	echo -e "\tcode : $code";
 
 	if [[ ! $charset ]]
@@ -63,12 +62,17 @@ while read -r URL; do
 			dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)
 	
 		fi
+		curl $URL > ./aspirations/$basename-$lineno.html
+		echo "$dump" > ./dumps-text/$basename-$lineno.txt
+		nb_occ=$(echo "$dump" | egrep -o "$mot" | wc -w)
 	else
 		echo -e "\tcode différent de 200 utilisation d'un dump vide"
+		dump=""
+		charset=""
 	fi
 	
-	echo "$dump" >> "dumps-text/$basename-$lineno.txt"
-	echo "$contenu" >> "aspirations/$basename-$lineno.txt"
+	#echo "$dump" >> "dumps-text/$basename-$lineno.txt"
+	#echo "$contenu" >> "aspirations/$basename-$lineno.txt"
 
 	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td>$nb_occ</td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
