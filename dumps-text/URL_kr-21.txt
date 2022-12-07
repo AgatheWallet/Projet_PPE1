@@ -1,272 +1,233 @@
-UTF-8 and Unicode
-
-   Unicode Transformation Format 8-bit is a variable-width encoding that
-   can represent every character in the Unicode character set. It was
-   designed for backward compatibility with ASCII and to avoid the
-   complications of endianness and byte order marks in UTF-16 and UTF-32.
-   ^[1]
-
-   UTF-8 encodes each Unicode character as a variable number of 1 to 4
-   octets, where the number of octets depends on the integer value
-   assigned to the Unicode character. It is an efficient encoding of
-   Unicode documents that use mostly US-ASCII characters because it
-   represents each character in the range U+0000 through U+007F as a
-   single octet.
-
-   UTF-8 is the default encoding for XML and since 2010 has become the
-   dominant character set on the Web.
-
-Standards
-
-     * RFC 3629: UTF-8, a transformation format of ISO 10646. November
-       2003.
-     * The Unicode Standard 5.0, November 2006. [purchase from Amazon.com]
-          + In particular, see the informal description of UTF-8 in
-            sections 2.5 and 2.6, pages 30-32, and a much more formal
-            definition in sections 3.9 and 3.10, pages 77-81.
-
-Articles and background reading
-
-     * UTF-8 and Unicode FAQ for Unix/Linux by Markus Kuhn
-     * Forms of Unicode, an excellent overview by Mark Davis
-     * Wikipedia UTF-8 contains a good discussion of why five- and
-       six-octet sequences are now illegal UTF-8
-     * Unicode Transformation Formats [czyborra.com]
-     * The Absolute Minimum Every Software Developer Absolutely,
-       Positively Must Know About Unicode and Character Sets (No
-       Excuses!), an amusing and informative article by Joel Spolsky
-
-Character Sets
-
-   The MIME character set attribute for UTF-8 is UTF-8. Character sets are
-   case-insensitive, so utf-8 is equally valid. [IANA Character Sets].
-
-   In a modern HTML 5 page, place this tag inside <head> ... </head>:
-<meta charset="UTF-8">
-
-   In an XML prolog, the encoding is typically specified as an attribute:
-<?xml version="1.0" encoding="UTF-8" ?>
-     __________________________________________________________________
-
-   Last modified: Wed Jan 5 12:57:21 PST 2022
-
-   (BUTTON) �
-     * ���
-     * �
-          + �
-          + ���
-          + ��
-          + ���
-          + �in ���
-          + �, � � �
-          + �� �� �
-          + , ��
-          + �
-          + ��
-          + �in� �
-     * ��
-          + �
-          +
-          + �
-          + �
-          +
-          + �
-          + �
+   (BUTTON) ×
+     * 전체기사
+     * 기획
+          + 전체
+          + 기획연재
+          + 문화기획
+          + 포토기획
+          + 인천in 갤러리
+          + 작은책방, 그 너머의 기록
+          + 송수연의 인문학 산책
+          + 마을정책, 듣다
+          + 기획
+          + 문화산책
+          + 인천in이 만난 사람
+     * 뉴스
+          + 전체
+          + 정치
+          + 경제
+          + 사회
+          + 자치행정
+          + 문화
+          + 교육
           + NGO
-          + ���
-          + �
-          + ��
-          + �� ��
-          + 4.15�
-          + ��
-          + 6�1 ���
-          + ����
-     * ��
-          + �
-          + ���
-          + ����
-          + ���
-          + ��
-          + ��
-          + ���
-          + ��
-          + ��
-          + ��
-          + ���
-          + �� ��
-          + �� ��
-          + ���
-          + �� ��
-          + �
-          + ���
-          + ��
-          + ��
-          + , ��
-          + ��� ���
-     * ��
-          + �
-          + ��
-          +
-          +
-          + ��
-          + �in� �
-          + � ��
-          + �� �
-          + ��
-     * ��&�
-          + �
-          + ��
-          +
-          + ��
-          +
-          +
-          + ���
-          +
-          + ����
-          + �
-     * �
-          + �
-          + ���
-          + � ����
-          + �����
-          + ��
-          + ��
-          + �� �����
-     * �
+          + 스포츠
+          + 과학
+          + 포토
+          + 터덜터덜 걷기
+          + 4.15총선
+          + 날씨
+          + 6·1 지방선거
+          + 포토에세이
+     * 칼럼
+          + 전체
+          + 인천칼럼
+          + 여성칼럼
+          + 청년칼럼
+          + 생태칼럼
+          + 문화세상
+          + 경제노트
+          + 독자칼럼
+          + 기자수첩
+          + 의학칼럼
+          + 노동칼럼
+          + 릴레이 기고
+          + 사회적경제 칼럼
+          + 건강칼럼
+          + 다문화 칼럼
+          + 뉴욕에서
+          + 부동산칼럼
+          + 기고
+          + 소통과 대화
+          + 마을정책, 듣다
+          + 장애아동과 우리사회
+          + 배다리 책방거리에서
+     * 사람들
+          + 전체
+          + 인사
+          + 동정
+          + 부음
+          + 새인물
+          + 인천in이 만난사람
+          + 문화지대 사람들
+          + 우리 이웃
+          + 결혼
+     * 라이프&컬쳐
+          + 전체
+          + 라이프
+          + 영화
+          + 공연
+          + 전시
+          + 책
+          + 문화살롱
+          + 강좌
+          + 포토에세이
+          + 뮤직
+     * 학오름
+          + 전체
+          + 인터뷰
+          + 인천 인재·장학
+          + 성인문해교육
+          + 인천시민대학
+          + 대학생 서포터즈
+          + 인천시민대학 시민라이프칼리지
+     * 보도자료
 
-   UPDATED. 2022-11-30 19:00 ()
-     * ��
-     *
-     * ���
+   UPDATED. 2022-12-07 17:29 (수)
+     * 로그인
+     * 회원가입
+     * 모바일웹
 
-   �U9D��U9Cin �U8BU9C민�U9DU98 �U86U90�U9C��U9C �U8C�U93U9C�U8AU94
-   �U9D��U84��U84��U8B 문
-   (BUTTON) �
-     * ��
-          +
-          + �
-          + �
-          +
-          + �
-          + �
+   인천in 시민의 손으로 만드는 인터넷신문
+   (BUTTON) 전체
+     * 뉴스
+          + 정치
+          + 경제
+          + 사회
+          + 자치행정
+          + 문화
+          + 교육
           + NGO
-          + ���
-          + �
-          + ��
-          + 6�1 ���
-          + �� ��
-          + �in�
-     * �
-          + ���
-          + ��
-          + ���
-          + �in ���
-     * ��
-          + ���
-          + ����
-          + ���
-          + ��
-          + ��
-          + ���
-          + ��
-          + ��
-     * ��
-          + ��
-          +
-          +
-          + ��
-          + �in� �
-          + � ��
-          + ��
-     * ��&�
-          + ��
-          +
-          + ��
-          +
-          +
-     * �
-     *
-          + ��
-          + �� ��
+          + 스포츠
+          + 과학
+          + 포토
+          + 6·1 지방선거
+          + 터덜터덜 걷기
+          + 인천in알림
+     * 기획
+          + 기획연재
+          + 문화기획
+          + 포토기획
+          + 인천in 갤러리
+     * 칼럼
+          + 인천칼럼
+          + 여성칼럼
+          + 청년칼럼
+          + 생태칼럼
+          + 문화세상
+          + 경제노트
+          + 독자칼럼
+          + 기자수첩
+     * 사람들
+          + 인사
+          + 동정
+          + 부음
+          + 새인물
+          + 인천in이 만난사람
+          + 문화지대 사람들
+          + 날씨
+     * 라이프&컬쳐
+          + 라이프
+          + 영화
+          + 공연
+          + 전시
+          + 책
+     * 학오름
+     * 게시판
+          + 시민기자
+          + 주주 소통방
 
-   (BUTTON) �
+   (BUTTON) 검색버튼
 
-   �� ____________________ (BUTTON)
+   기사검색 ____________________ (BUTTON) 검색
 
-   (BUTTON) � (BUTTON) �
-   �U9D��U9Cin �U8BU9C민�U9DU98 �U86U90�U9C��U9C �U8C�U93U9C�U8AU94
-   �U9D��U84��U84��U8B 문
-   �� � �
-     * (BUTTON) ����
-     * (BUTTON) ��
-     * (BUTTON) ��
-     * (BUTTON) ������
-     * (BUTTON) URL��
+   (BUTTON) 이전 (BUTTON) 다음
+   인천in 시민의 손으로 만드는 인터넷신문
+   모두를 위한 페미니즘은 있다
+     * (BUTTON) 카카오톡
+     * (BUTTON) 페이스북
+     * (BUTTON) 트위터
+     * (BUTTON) 카카오스토리
+     * (BUTTON) URL복사
 
-     (BUTTON) �����
-   HOME �� ����
-   �� � �
-     * �
-     * �� 2022.11.10 12:10
-     * 0
+     (BUTTON) 기사공유하기
+   상태바
+   HOME 칼럼 여성칼럼
+   모두를 위한 페미니즘은 있다
+     * 박교연
+     * 승인 2022.11.10 12:10
+     * 댓글 0
 
-     * (BUTTON) ����
-     * (BUTTON) ��
-     * (BUTTON) ��
-     * (BUTTON) ������
-     * (BUTTON) URL��
-     * (BUTTON) �����
-     * (BUTTON) ���
+     * (BUTTON) 카카오톡
+     * (BUTTON) 페이스북
+     * (BUTTON) 트위터
+     * (BUTTON) 카카오스토리
+     * (BUTTON) URL복사
+     * (BUTTON) 기사공유하기
+     * (BUTTON) 스크랩
 
-     (BUTTON) ��
+     (BUTTON) 프린트
 
-     (BUTTON) ����
+     (BUTTON) 메일보내기
 
-     (BUTTON) ����
+     (BUTTON) 글씨키우기
      * (*)
      * ( )
      * ( )
      * ( )
      * ( )
 
-   � ��� ����
+   이 기사를 공유합니다
    (BUTTON)
-   ���� (BUTTON)
-   �� (BUTTON)
-   �� (BUTTON)
-   ������ (BUTTON)
-   URL��
-   (BUTTON) �
+   카카오톡 (BUTTON)
+   페이스북 (BUTTON)
+   트위터 (BUTTON)
+   카카오스토리 (BUTTON)
+   URL복사
+   (BUTTON) ×
      __________________________________________________________________
 
-   [����]
-   � / '��'
+   [여성칼럼]
+   박교연 / '페이지터너' 활동가
 
-   ��� �� �� � �. � �� � ��, �� ��� � � � �� ��. ��� �, � � � � � �, � � �
-   � � ��. � � � � ��� � �� ��� � �.
-   �� �� ����, � � � � � ��� �. ��� �� � � , � � � �� ��. � ��. �� ��� �.
-   �� � 4B � �� � � �� �. 4B � ��, ��, �, � � ���. �� �� , � �.( B� ���� �
-   �.) � �� ��� �� �� �� ��� ��, �� � �� ��. ��� �� � ��.
+   어려운 일이지만 모두를 위한 페미니즘은 있다. 게임 비즈니스 모델로 예를 들자면, 게임은 모바일로 넘어오면서 다양한 사람을
+   대상으로 삼고 발전해왔다. 돈은 적지만 여유시간이 많은 사람, 일 시간은 길지만 업무 강도가 낮아서 게임을 병행할 수 있는
+   사람, 돈은 많지만 시간이 없는 사람 등을 나눠서 각각에 맞추어 접근한다. 덕분에 누구나 자신에게 맞는 세상에 접속해서 본인이
+   편한 방식으로 성취를 얻을 수 있다.
+   이걸 인문학에 적용해보면, 누구나 각자의 자리에서 할 수 있는 만큼의 혁신을 이루면 된다. 그러다 보면 그게 쌓여서 제도적,
+   사회 문화적 개혁으로 이어질 것이다. 페미니즘도 마찬가지고. 모든 것은 작은 실천으로부터 출발한다.
+   그런 의미에서 4B 운동 같은 과격한 지향점을 갖는 운동은 좋은 전략이 아니다. 4B 운동은 비연애, 비섹스, 비혼, 비출산을
+   지향하는 운동이다. 거기에 보통 비소비, 비돕비를 더한다.(비돕비는 B운동 참여자끼리 서로 돕는 걸 말한다.) 가부장제의 근본을
+   결혼제도라 보고 거기에 반기를 들겠다는 생각은 이해하나, 이건 비즈니스 모델로서 최악이다. 광고효과나 전시효과도 썩 좋지
+   못하다.
 
-   � � � � � �� � �. ��� �� �� ��. � � � � � �. ���� � ��� � �� � � ��� ��
-   �. ���� �� ��� �� �, �� ��� � � �� �� �. � ��� �� � � �, �� � � ���� ��
-   �
-   �� � 4B � � � � �� � �� � �� �. �� � � ��� ��� � � ��� �, � �� �����
-   ��� � �� � � ���. �� ��� �� �� �? � �. � �� �� � � � �.
-   � � ��(BM) � �. �� �� �, �� � �� ���� �� �� ��. , �� �. � ��� �� �, �,
-   �� ��� � �, �� �� �� � ��� � ��� �� �.
-   � ���� �� � � �� �� ���. ��� 2021 6 �� ���� ��, �� �� � ��� � � ���. ��
-   � �� �� �� ��, �� �� �� �� � � �� 42.8% 41.7% �� ��.
-   � �� � � � �� � � �� , �� �� �� � � ���. ���� � �� �, �� � � � �� �.
-   �� �� ��, �� � �� �. � � � ��� � � �, �� �� �� �, ��� �� � � �� � �� �
-   ���. �� � � �� ��� ��. . . ��. � �� �� ��� �� ��.
+   개인적 삶의 선택은 결코 대중운동의 지향점이 될 수 없다. 그리고 도식화된 모델은 많은 이탈자를 낳는다. 페미니즘 운동의 목적은
+   모두의 상식을 개선하는 것에 있다. 그러려면 일상에 침투하여 누구나 실천할 수 있고 누구나 사유할 수 있어야 한다. 그러려면
+   단계적으로 실천방안이 제시되어야 하며, 운동이 도달해야 할 최종단계가 열린 상태여야 한다. 오늘도 조그맣게 이바지했다는 보람을
+   느끼게 하고, 유대감과 연대감을 저금통에 동전을 모으듯이 쌓아가게 하여야 한다
+   그런 의미에서 4B 운동은 마치 첫 만남에 인생의 모든 것을 정형화된 틀에 맞춰 살라는 것이나 다름이 없다. 심지어 이게
+   와전되어 페미니스트의 성취척도를 가늠하는 데 쓰이고 있어서, 훌륭한 기혼 페미니스트들이 온라인 운동을 포기하는 데에 크게
+   기여했다. 그럼 이들이 그들의 공백을 잘 메꿨느냐? 그렇지 않다. 한 명 한 명이 귀한 운동영역에서 누군가를 대체하는 건 쉽지
+   않다.
+   마케팅 영역에서 비즈니스 모델(BM)은 만드는 게 끝이 아니다. 어떻게 단계적으로 제시하고, 사람들의 삶에 매끄럽게 스며들까를
+   고민하는 후속 과정이 남아있다. 아니, 후속 과정이 더 중요하다. 훌륭한 사유를 통해 코르셋도, 가부장제도, 자본주의도
+   거부하겠다는 건 좋으나, 그걸 어떻게 많은 여성의 삶에 녹여낼지는 더 큰 고민이 필요하다고 느낀다.
+   작년 한 해 동안 재보궐선거 및 국민의 힘 전당대회 등을 거치며 페미니즘이 정치권의 화두로 등장했다. 그리고 2021년 6월
+   한국리서치의 여론조사 결과, 국민의 절반 이상이 페미니즘 및 페미니스트에 대한 거부감을 가진 것으로 드러났다. 남성은 전
+   세대에서 거부감이 든다는 응답이 높았으며, 여성도 거부감이 든다는 응답과 그렇지 않다는 응답이 각각 42.8%와 41.7%로
+   팽팽히 맞섰다.
+   정치권에 불려 나가 자극적인 의제로 소모된 페미니즘을 다시 우리의 삶의 주요한 명제로 돌려주는 것, 그것이 지금의 페미니즘이
+   마주하고 있는 가장 큰 과제이다. 여성혐오를 분석하고 모든 세대, 모든 성별에게 더 나은 삶의 방식을 제시해야 한다.
+   물론 이건 한 단체가, 한 개인이 할 수 있는 일이 아니다. 일상에서 겪는 작은 차별을 포착하고 그에 저항하는 경험, 그런
+   용기에 공감하고 응원하는 경험, 그리고 그걸 널리 알리는 경험이 모두에게 쌓여야 가능한 일이다. 그런 의미에서 오늘 작은
+   차별부터 개선해보는 게 어떨까. 작은 생각. 작은 말. 작은 용기. 그 모든 게 결국 우리를 구원할 것이다.
 
 
 
 
-   � �in ��� ���
-   �U95�U90�U97�
-   � ���� ��
+   저작권자 © 인천in 무단전재 및 재배포 금지
+   박교연
+   박교연 다른기사 보기
    [index.php?reg_date=2022-11-10&modify_date=2022-11-10&seq_local=8&seq_p
    ost=91978&url=http%3A%2F%2Fwww.incheonin.com&title=%EB%AA%A8%EB%91%90%E
    B%A5%BC+%EC%9C%84%ED%95%9C+%ED%8E%98%EB%AF%B8%EB%8B%88%EC%A6%98%EC%9D%8
@@ -301,102 +262,101 @@ Character Sets
    %EC%8C%93%EC%97%AC%EC%84%9C+%EC%A0%9C%EB%8F%84%EC%A0%81%2C+%EC%82%AC&se
    q_news=80&movie=n&view_url=http%3A%2F%2Fwww.incheonin.com%2Fnews%2Farti
    cleView.html%3Fidxno%3D91978&photo=202211%2F91978_130637_384.jpg]
-     * (BUTTON) ����
-     * (BUTTON) ��
-     * (BUTTON) ��
-     * (BUTTON) ������
-     * (BUTTON) URL��
-     * (BUTTON) �����
+     * (BUTTON) 카카오톡
+     * (BUTTON) 페이스북
+     * (BUTTON) 트위터
+     * (BUTTON) 카카오스토리
+     * (BUTTON) URL복사
+     * (BUTTON) 기사공유하기
 
-   �
-   � � ��� ��.
-   � ���?
+   댓글삭제
+   삭제한 댓글은 다시 복구할 수 없습니다.
+   그래도 삭제하시겠습니까?
 
-   �
+   비밀번호
    ____________________
 
-   (BUTTON)  �
-   (BUTTON) �
-   0 (BUTTON) � � ��.
-   ��
-   � __________ � __________
-   ��
+   (BUTTON)  삭제
+   (BUTTON) ×
+   댓글 0 (BUTTON) 댓글입력 권한이 없습니다.
+   로그인
+   이름 __________ 비밀번호 __________
+   내용
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   0 / 400 (BUTTON)  �
-   ��
-   �� ���� ��
-   ��� ��.
-   ��
+   0 / 400 (BUTTON)  등록
+   댓글쓰기
+   계정을 선택하시면 로그인·계정인증을 통해
+   댓글을 남기실 수 있습니다.
+   회원 로그인
      __________________________________________________________________
 
-   �
+   이름
    ____________________
 
-   �
+   비밀번호
    ____________________
 
-   ��
+   자동등록방지
      __________________________________________________________________
 
-   (BUTTON)  �
-   (BUTTON) �
+   (BUTTON)  확인
+   (BUTTON) ×
    [INS: :INS]
      __________________________________________________________________
 
    [INS: :INS]
    [INS: :INS]
-   � � ��
-   1 �� 1�� � 8�� ��
-   2 �� ��... ��� � �
-   3 �� � � ... GTX-B, 2��� �?
-   4 � ���� � ��� 6�
-   5 "���� � �� "
-   6 � 5 � �� 25 ��
-   7 � ��� 2025 ��, 2028 �... 17�, 8� �
-   8 � � � � � �� ��
-   9 ��... � 12 3� �
-   10 1�� �� �� �... ��� ��
+   많이 본 뉴스
+   1 송도 아파트값 어쩌나... '아트윈푸르지오’ 106㎡ 1년새 7억 뚝
+   2 송도서도 세입자 모시기 전쟁... 84㎡ 전세 2억까지 추락
+   3 의료원·영상단지·리조트... 영종 주요 사업 되는 게 없다
+   4 인천시민단체, GTX-D Y자 노선 촉구 챌린지 시작
+   5 당뇨와 이별하게 해주는 아침 주스
+   6 인천시, '벤스코리아'(벤스가구) 피해주의보 발령
+   7 철도노조 파업 하루 앞으로... 1호선 이용 인천시민들 '산 넘어 산'
+   8 철도노조 파업 초읽기... 수도권 전철 이용 시민들 출퇴근 비상
+   9 인천 서부산단 산업단지계획 대폭 변경
+   10 영종 인스파이어 리조트에 1만5천석 공연장 내년 개장
    [INS: :INS]
-   ���
-   � � '' ��
-   � ���, ����
-   �� � � � , �� �
-   �� 1�... �� �� ���
-   ��
-   � �, �� �� � �� ��
-   � ��, �� �� ��
+   포토기획
+   칠흑 같은 밤, 초승 자월에 전율하다
+   우리들의 따뜻한 보금자리 선물, 만수3지구
+   치유의 섬 자월도에서 '도도하게' 하룻밤
+   부평의 영롱한 그라운드, 신트리공원
+   칼럼
+   대화는 인간관계의 기본, 일상생활의 기반
+   안전운임제 확대, 그리고 화물연대와의 협상을 촉구한다
    [INS: :INS]
-   �in���
-   � � �� � �
-   � ... ���
-   � ���() � ���
-   � '�' - � �
+   인천in갤러리
+   마을의 풍년과 평온을 가져다 준 문학동 은행나무
+   첫눈 같은 하얀색... 주인공 같은 색
+   가을 낙조 같은 장모루촌(정서진) 사랑 이야기
+   높은 곳 '수리' - 소래에서 가을과 축제를
    [INS: :INS]
 
-   �� � ��� �� 5,000� � �
-   301-0040-4504-51 / �����
+   시민과 함께하는 인터넷 뉴스 월 5,000원으로 소통하는 자발적 후원독자 모집
+   301-0040-4504-51 / 인사이트인천
 
-   �U9D��U9Cin �U8BU9C민�U9DU98 �U86U90�U9C��U9C �U8C�U93U9C�U8AU94
-   �U9D��U84��U84��U8B 문
-   �� �� � ����� ���
+   인천in 시민의 손으로 만드는 인터넷신문
+   인천인 소개 광고안내 후원독자모집 개인정보취급방침 청소년보호정책
 
 
-     * �� �� 78 ������ 1001�
-     * (�)�����
-     * �in
-     * ��� : 131-86-18415
-     * � �� : �
-     * : 032-439-4432
-     * ���(�,�) : insightic@naver.com
-     * ��� : �
-     * �� : 01032
-     * �� : 2009-12-23
-     * � : 2009-12-23
-     * Copyright � 2022 �in. All rights reserved. mail to
+     * 인천광역시 미추홀구 석바위로 78 인천문화콘텐츠산업지원센터 1001호
+     * (주)인사이트인천
+     * 인천in
+     * 사업자등록번호 : 131-86-18415
+     * 발행인 및 편집인 : 송정로
+     * 대표전화 : 032-439-4432
+     * 공용메일(제보,보도자료) : insightic@naver.com
+     * 청소년보호책임자 : 송정로
+     * 등록번호 : 아01032
+     * 등록일 : 2009-12-23
+     * 발행일 : 2009-12-23
+     * Copyright © 2022 인천in. All rights reserved. mail to
        intersin@daum.net
 
-   ND�U86U8C�U94U84�U8A�
+   ND소프트
 
-   (BUTTON)
+   (BUTTON) 위로

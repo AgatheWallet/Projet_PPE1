@@ -35,7 +35,7 @@ while read -r URL; do
 	echo -e "\tURL : $URL";
 	# la façon attendue, sans l'option -w de cURL
 	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
-	charset=$(curl -ILs $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
+	charset=$(curl -ILs $URL | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
 	#contenu=$(curl $URL) 
 
 	# autre façon, avec l'option -w de cURL
@@ -72,9 +72,9 @@ while read -r URL; do
 		charset=""
 	fi
 	
-	#echo "$dump" >> "dumps-text/$basename-$lineno.txt"
-	#echo "$contenu" >> "aspirations/$basename-$lineno.txt"
-
+	# Met l'encodage en majuscule
+	charset=$(echo ${charset^^})
+	# Remplit le tableau avec les informations récupérés pour l'URL en cours de lecture
 	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=../aspirations/$basename-$lineno.html>aspiration</a></td><td><a href=../dumps-text/$basename-$lineno.txt>dump</td><td>$nb_occ</td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));

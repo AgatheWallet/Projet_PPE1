@@ -1,588 +1,270 @@
-    #publisher L'Obs alternate alternate
+Révolution Permanente
 
-   L'Obs en numérique Lire le magazine [ ]
+   Révolution Permanente
+   Red Internacional
+   ____________________ (BUTTON)
 
-   (BUTTON) ____________________
-     * [ ] société
-          + Société
-          + Justice
-          + Faits divers
-          + Éducation
-          + Santé
-          + Rue89 - Vies intimes
-          + Féminisme
-          + Sciences
-          + Sport
-     * [ ] politique
-          + Politique
-          + Élection présidentielle 2022
-          + Élections régionales 2021
-     * [ ] écologie
-          + Écologie
-          + Environnement
-          + Écologie politique
-          + La vie en vert
-          + Combien tu pollues ?
-          + Animaux
-     * [ ] international
-          + International
-          + Europe
-          + Guerre en Ukraine
-          + Moyen-Orient
-          + Etats-Unis
-          + Chine
-          + Amérique
-          + Afrique
-          + Asie
-     * [ ] économie
-          + Économie
-          + Entreprises
-          + Social
-          + Numérique
-          + Immobilier
-          + Conso
-          + Votre argent
-     * [ ] opinions
-          + Opinions
-          + Éditos
-          + Chroniques
-          + Tribunes
-          + Dissensus
-          + Idées
-     * [ ] culture
-          + Culture
-          + BibliObs
-          + TéléObs
-          + Cinéma
-          + Musique
-          + Tendances
-          + Programme TV
-     * en 2049
-     * podcasts
-     * videos
-     * dossier
-     * [ ] services
-          + Services
-          + Services L'Obs
-          + Mots croisés
-          + Programme TV
-          + Mon compte
-          + Newsletters
-          + Applications mobiles
-          + Club Abonnés
-          + Conjugaison et synonymes
-          + Traducteur
-          + Lettres gratuites
-          + Dictionnaire
-          + Services partenaires
-          + Shopping
-          + Black Friday
-          + Codes promo
-          + Codes promo Cdiscount
-          + Codes promo Amazon
-          + Codes promo Rakuten
-          + Cours d'Anglais
-          + Cours d'Allemand
-          + Cours d'Espagnol
-
-       L’Obs du 24 novembre 2022
-       L’Obs
-   TeleObs du 24 novembre 2022
-       TeleObs
-   Hors Series du 13 octobre 2022
-       Hors Series
-
-   Toute l'actualité en continu avec l'OBS
-   CONNEXION Je m'abonne sans engagement
-
-   [ ]
-
-   Toute l'actualité en continu avec l'OBS
-   ____________________ (BUTTON) RECHERCHER
-
-   Toute l'actualité en continu avec l'OBS
-     * FIL INFO
-     * société
-     * politique
-     * écologie
-     * international
-     * économie
-     * opinions
-     * culture
-     * en 2049
-     * services
-
-   CONNEXION Je m'abonne sans engagement
-
-     * Société
-       Justice Faits divers Éducation Santé Rue89 - Vies intimes Féminisme
-       Sciences Sports
-     * Écologie
-       Environnement Écologie politique La vie en vert Combien tu
-       pollues ? Animaux
+   (BUTTON) Menu
+     * Politique
+     * Notre classe
      * International
-       Europe Guerre en Ukraine Moyen-Orient États-Unis Chine Amérique
-       Afrique Asie
-     * Économie
-       Entreprises Social Numérique Immobilier Conso Votre argent
-     * Opinions
-       Éditos Chroniques Tribunes Dissensus Idées Histoire
+     * Racisme et violences d'Etat
+     * Genres et sexualités
+     * Écologie
+     * Jeunesse
      * Culture
-       BibliObs TéléObs Cinéma Musique Tendances Programme TV
-     * Services L'Obs
-          + Mots croisés
-          + Programme TV
-          + Applications mobiles
-          + Traducteur
-          + Mon compte
-          + Club Abonnés
-          + Lettres gratuites
-          + Mes newsletters
-          + Conjugaison et synonymes
-          + Dictionnaire
-       Services partenaires
-          + Shopping
-          + Black Friday
-          + Codes promo
-          + Codes promo Cdiscount
-          + Codes promo Amazon
-          + Codes promo Rakuten
-          + Cours d'Espagnol
-          + Cours d'Allemand
-          + Cours d'Anglais
+     * Débats
+     * RP dimanche
 
-     * 11:00
-       « Le Lycéen », « Fumer fait tousser », « Annie colère »… Les …
-     * 10:00
-       Dans la famille fait divers, je demande la mère
-     * 09:56
-       L’ex-président chinois Jiang Zemin est mort
-     * 09:01
-       Le youtubeur Leo Grasset visé par une enquête pour viol
-     * 08:39
-       A Canton en Chine, des heurts ont éclaté entre la police et …
-       VOIR PLUS
+   Réseau International
+     * Argentine
+     * Mexique
+     * Brésil
+     * Chili
+     * Uruguay
+     * Venezuela
+     * Bolivie
+     * État Espagnol
+     * Allemagne
+     * États Unis
+     * Italie
+     * Costa Rica
+     * Pérou
 
-     * L'OBS
-     * BibliObs
-
-« Il n’y a rien de contradictoire à soutenir le droit des femmes à porter un
-voile en France, et à ne pas en porter en Iran », par Joan W. Scott et Eric
-Fassin
-
-   TRIBUNE
-
-Eric Fassin,
-Joan W. Scott
-
-   [ ] [ ]
-     * Abonnez vous pour ajouter à vos favoris
-       Favoris
-     *
-     * Partager
-     *
-     * Commenter
-     *
-     * Nous suivre
-
+   Qui sommes nous
      *
      *
      *
 
-   Tribune. Se couvrir les cheveux n’est pas oppressif en soi, défendent
-   l’historienne américaine et le sociologue français : la question est
-   toujours celle de la liberté qui est laissée aux femmes.
-   Publié le 29 octobre 2022 à 11h16
-   Temps de lecture 3 min
+   ____________________ (BUTTON)
 
-     *
+   ^
+
+Genres et sexualités
+
+Aéronautique
+
+« Féminiser la filière » : Airbus instrumentalise le féminisme pour plus de
+précarité et de bas salaires
+
+   Les opérations de recrutement visant les femmes se multiplient dans le
+   secteur aéronautique. Derrière une communication appelant à la «
+   féminisation de la filière » au nom de la « mixité », c'est bien la
+   réalité d'une crise de recrutement due aux bas salaires et aux
+   conditions de travail de misère qui se cache.
+
+   Gabriella Manouchki
+
+   Rozenn Kevel
+
+   jeudi 27 octobre
+   Compartir
      *
      *
      *
      *
      *
 
-   Depuis la mort de Mahsa Amani, l’Iran vit une révolution féministe. Des
-   femmes jettent leur voile au feu ; et bientôt, avec la prison d’Evin,
-   c’est la Bastille qui brûle. « Femme, vie, liberté » : à partir d’un
-   enjeu féministe, un désir de démocratie embrase tout le pays révolté
-   contre un régime théocratique. Les féministes du monde entier,
-   unanimes, célèbrent donc avec admiration ce mouvement contre
-   l’obligation de porter le voile.
+   Photo : CHARLY TRIBALLEAU / AFP
 
-   En France, pourtant, c’est l’occasion de relancer une campagne contre
-   celles qui défendent en même temps le droit de porter le voile : ce
-   vêtement aurait toujours et partout la même signification oppressive.
-   La journaliste et ancienne élue Céline Pina, dans « Causeur »,
-   stigmatise ainsi « l’embarras de la gauche française qui a défendu la
-   liberté de le porter ». Pour cette collaboratrice de « Front
-   populaire », la revue de Michel Onfray, « la révolte des femmes en Iran
-   est en train de déchirer le discours absurde des néoféministes en
-   politique et de les mettre en face de leur trahison : pour récupérer le
-   vote musulman, celles-ci ont abandonné la cause des femmes. »
+   Vendredi 21 octobre, Olivier Dussopt, ministre du Travail, était à
+   Toulouse pour visiter un site d’Airbus, accompagné par le DRH de
+   l’entreprise Thierry Barril. Une occasion de promouvoir le projet de
+   « féminiser les effectifs » dans le cadre de « l’insertion
+   professionnelle des publics éloignés de l’emploi ». Cette opération de
+   communication chez le donneur d’ordre de l’aéro, accompagnée par le
+   gouvernement, prend place dans une série d’initiatives du même type. Le
+   13 septembre dernier, dans un centre AFPA toulousain, des rencontres
+   étaient organisées entre des femmes en recherche d’emploi et des
+   recruteurs de l’aéronautique, rassemblant une agence travaillant pour
+   Airbus et les représentants de différentes entreprises sous-traitantes
+   telles que Satys, Airbus Atlantic, AviaComp, le Groupe Rossi Aéro ou
+   encore le Groupe ADF. Il y a quelques semaines, c’était l’organisation
+   patronale du secteur de la peinture aéronautique, le GIEQ Occitanie,
+   qui lançait une promotion d’apprentis peintres aéronautiques uniquement
+   féminine. Dans le même sens, le sous-traitant gersois Air Support a
+   mené il y a quelques mois dans ses locaux une opération de présentation
+   de ses métiers spécifiquement réservée aux femmes, suivi d’un job
+   dating pour des postes de préparatrices aéronautiques notamment.
 
-   La suite après la publicité
+Derrière un discours d’apparence féministe, les patrons de l’aéro à la
+recherche d’un « vivier féminin » pour pallier le « manque de bras »
 
-L’universalisme n’est pas une marque déposée
+   Lors de ces opérations, comme le rapporte Actu Toulouse, les recruteurs
+   se révèlent soudainement concernés par la place des femmes dans la
+   filière aéronautique, se montrant comme le DRH d’Airbus très attachés à
+   la « parité », en particulier dans le domaine de la production : « Il
+   faut être une entreprise qui donne envie aux jeunes femmes de choisir
+   nos formations et nos métiers », a-t-il affirmé. Et le ministre de
+   surenchérir sur le terrain de « lutte contre les discriminations » en
+   rappelant que les recruteurs doivent également veiller à employer « des
+   travailleurs en situation de handicap, des seniors en recherche
+   d’emploi… ». Dans cet esprit, Nathalie Dousset, responsable du
+   Programme Quality Manager chez Airbus, expliquait déjà en 2019 que « la
+   diversité de genre au travail rend les collaborateurs plus optimistes
+   et plus respectueux entre eux, créant ainsi une véritable synergie dans
+   les équipes, qui deviennent alors plus performantes, plus innovantes ».
 
-   Pour sa part, le journaliste et essayiste Jean Birnbaum affirme dans
-   « le Monde » que « la gauche dite “postcoloniale” » reprendrait à son
-   compte le discours des ayatollahs. C’est faire revivre l’offensive
-   gouvernementale contre « l’islamo-gauchisme » : prises entre
-   « islamisme d’un côté, gauche radicale de l’autre », les « féministes
-   universalistes ont été condamnées à une invisibilisation inexorable ».
-   Pourtant, en 2021, elles étaient 55 à signer, dans « le Point », un
-   manifeste appelant à durcir le projet de loi « séparatisme », en
-   particulier contre les mamans voilées qui accompagnent des sorties
-   scolaires : « Nous, féministes universalistes ».
+   Mais ce type de discours, qui derrière l’apparence d’une rhétorique
+   progressiste n’hésite pas à mobiliser des stéréotypes de genre sur les
+   prétendues « qualités » intrinsèques des femmes, masque mal des
+   préoccupations beaucoup plus pragmatiques : il s’agit de mobiliser le
+   « vivier féminin » pour pallier le manque de bras. Comme l’explique
+   Olivier Dussopt, toujours selon Actu Toulouse, « la féminisation est
+   une piste » pour pallier ces difficultés à recruter : « Pour reprendre
+   l’expression de Guillaume Faury : il manque des bras partout ! »,
+   assume le ministre en visite chez Airbus. « C’est vrai que nous que
+   nous n’avons pas assez de vivier féminin et pourtant les opportunités
+   sont là du moment que la personne a les compétences. Chez Airbus
+   Opérations, nous avons rentré 550 intérimaires depuis le début de
+   l’année 2022 et nous avons encore des besoins à hauteur de 250, tous
+   métiers confondus. Recruter des femmes serait une bonne chose. Par
+   exemple, sur notre usine de Saint-Éloi, seulement 8% des effectifs sont
+   des femmes mais nous voulons monter ce chiffre à 30% », détaille
+   Laurent Raynaud, responsable du recrutement par intérim chez Airbus
+   Opérations à Toulouse.
 
-   Mais c’est précisément là que l’analyse de Jean Birnbaum bute sur un
-   problème de méthode : les qualifier sans guillemets de féministes
-   universalistes revient à prendre leur label polémique pour un concept
-   analytique. C’est un peu comme confondre les citoyens qui adhèrent à
-   l’idéal républicain avec les membres du parti qui s’appelle Les
-   Républicains. Car il s’agit en fait d’un slogan visant à disqualifier
-   d’autres féministes, qualifiées d’« intersectionnelles ». Il entre en
-   résonance avec les attaques d’Emmanuel Macron : « Nous ne pouvons pas
-   céder à une forme de retour en arrière de cet universalisme. » Le
-   président dénonce « une logique intersectionnelle qui fracture tout. »
-   « Soyons fiers de combattre les discriminations », par Agathe Cagé
+Une opération de communication du patronat et du gouvernement au service d’un
+objectif : imposer la précarité et les bas salaires
 
-   Mais l’universalisme n’est pas une marque déposée : leur histoire a
-   appris aux féministes à se défier de telles appropriations. Ce n’est
-   pas une position particulière ; c’est un enjeu partagé, autour duquel
-   s’affrontent des féminismes. Ainsi, il n’y a pas un féminisme
-   « pro-voile » (pas plus qu’un féminisme « pro-avortement ») ; il s’agit
-   toujours d’un féminisme « pro-choix ». C’est bien de liberté qu’il est
-   question – autrement dit, d’une valeur universaliste. Voilà pourquoi il
-   n’y a rien de contradictoire à soutenir le droit des femmes à porter un
-   voile ici, et à ne pas en porter là-bas, bref, de se vêtir comme elles
-   le veulent. Dans un cas comme dans l’autre, les féministes protestent
-   contre un Etat qui entrave la liberté de leur choix. Dans les deux cas,
-   elles combattent toutes les formes de domination patriarcale, le voile
-   imposé comme le dévoilement contraint.
+   Ainsi, loin de toute préoccupation féministe, c’est bien la nécessité
+   de combler le manque d’effectifs pour remplir les carnets de commande
+   qui intéresse les patrons de l’aéronautique. Et pour cause : après
+   avoir massivement licencié et précarisé à coup d’accords de performance
+   collective quand la production était ralentie par les confinements,
+   après avoir augmenté les cadences dans des conditions de travail
+   dégradées à l’occasion d’une reprise marquée par l’inflation, le
+   patronat cherche de nouvelles solutions pour maximiser ses profits.
 
-Grille de lecture venue de France
+   Utiliser les femmes comme variable d’ajustement pour maintenir des bas
+   salaires et des conditions de travail déplorables reste de tout temps
+   sa solution privilégiée, car c’est la plus économique. D’après
+   l’INSEE : « En France, les femmes salariées du secteur privé gagnent en
+   moyenne 16,8 % de moins que les hommes en équivalent temps plein,
+   c’est-à-dire pour un même volume de travail. À cet écart de salaire
+   s’ajoutent des inégalités de volume de travail, les femmes étant bien
+   plus souvent à temps partiel et moins souvent en emploi dans l’année
+   que les hommes. Au total, les femmes perçoivent une rémunération
+   inférieure de 28,5 % à celle des hommes ». L’aéronautique n’échappe pas
+   à la règle : à Airbus SAS, d’après la CGT, les écarts de salaires entre
+   les hommes et les femmes sont de -25% en équivalent temps plein.
 
-   Bien sûr, la France n’est pas l’Iran. Mais justement : la liberté ne
-   prend sens qu’en fonction des contextes : contre un régime islamique,
-   ou contre des politiques ciblant les musulmans, et singulièrement les
-   musulmanes. De fait, ce que leurs critiques reprochent aux féministes
-   qui se disent aujourd’hui « universalistes », c’est de ne pas l’être.
-   Le problème, c’est leur ethnocentrisme. N’est-il pas absurde
-   d’appliquer une grille de lecture venue de France à la situation en
-   Iran ? Politiquement, faire abstraction du contexte n’a aucun sens.
-   C’est pourquoi nous tombons d’accord avec Jean Birnbaum sur un point :
-   en 1979, il est juste, en tant que féministe, de « soutenir les femmes
-   qui ont été à l’avant-garde du soulèvement contre le chah », aux côtés
-   des mollahs, « et qui protestent maintenant contre l’emprise du nouveau
-   gouvernement islamique ».
-   « Soyons fiers de combattre les discriminations », par Agathe Cagé
+   Lors de la rencontre citée plus haut, la directrice des centres AFPA
+   Annie Brinet mettait en garde les demandeuses d’emplois : « les
+   pré-requis pour intégrer les formations sont d’avoir une grosse
+   motivation et un vrai savoir-être » : de la motivation il en faudra
+   face aux bas salaires et aux conditions de travail de misère, et ce
+   d’autant plus alors que les prix flambent ! Une rhétorique patronale
+   des plus hypocrites quand on sait que les femmes sont toujours les
+   premières à être impactées par la crise économique : quand il faut
+   recruter, elles sont payées au rabais ; quand il faut licencier, elles
+   seront les premières visées ; et quand l’inflation frappe, elles sont
+   aussi en première ligne de l’augmentation des prix.
 
-   On ne peut donc pas interpréter le voile hors du temps et de l’espace,
-   comme affublé d’une majuscule à la manière d’une idée platonicienne :
-   le Voile. S’il y a contradiction, c’est bien lorsqu’on prétend
-   sacraliser la Laïcité… Il en va de même pour l’Universalisme : le
-   définir de manière transcendante, en surplomb de toute réalité
-   politique, c’est embrasser un universalisme théologique, fondé sur une
-   vérité absolue. La leçon des sciences sociales, qu’il s’agisse
-   d’histoire ou de sociologie, est inverse : les concepts n’existent pas
-   dans le vide ; ils prennent sens dans l’immanence de configurations
-   sociales particulières. Ce n’est pas un universalisme théologique,
-   peuplé de majestueuses majuscules, qui permettra de combattre
-   efficacement un régime théocratique. Pas de concepts sans contextes :
-   tel est le principe, en minuscules, qui définit un universalisme
-   historique dont s’arme ici et là, hier comme aujourd’hui, le féminisme.
+   Une autre solution existe pourtant face à la prétendue « pénurie de
+   main d’œuvre » : augmenter les salaires ! Ce que les patrons se gardent
+   bien de faire, alors même que les salariés de différents sous-traitants
+   ont fait grève pour les salaires depuis la reprise post-Covid, comme
+   aux Ateliers de la Haute-Garonne, chez AAA, Satys ou encore Mecachrome.
+   Ces dernières semaines, suivant la voie ouverte par les raffineurs, des
+   grèves pour des augmentations de salaire à la hauteur de l’inflation
+   ont éclaté dans de nouveaux sous-traitants : chez Sabena Technics,
+   Daher, et maintenant Safran et Blanc Aéro… Mais aussi, plus récemment
+   et de façon inédite, chez le donneur d’ordre, à Airbus avec la grève
+   sur les chaînes d’assemblage de l’A380 pour 10% d’augmentation.
+   Interviewée par Révolution Permanente à ce sujet, une ex-gréviste du
+   sous-traitant aéronautique Daher explique : « On a fait grève mais la
+   direction ne nous écoute pas. Les intérimaires ne veulent pas signer de
+   contrats ici et les CDI démissionnent car les conditions de travail et
+   les payes sont scandaleuses ! ».
 
-   La suite après la publicité
+   Force est de constater que la solution n’est pas de « féminiser la
+   filière » dans le seul but de combler un manque de bras pour réussir à
+   respecter les carnets de commandes des patrons en maintenant des
+   conditions de travail précaires. Au contraire, la solution se trouve
+   dans les mobilisations des salariés de l’aéronautique, quel que soit
+   leur genre ou leur entreprise, pour des augmentations de salaires et
+   des conditions de travail dignes pour toutes et tous. Il est important
+   de dénoncer l’instrumentalisation d’une rhétorique féministe par les
+   patrons qui, comme le montre leur attitude vis-à-vis des grèves en
+   cours, n’ont que faire de la situation des femmes dans les entreprises.
+   À leur hypocrisie au service d’intérêts capitalistes, il s’agit
+   d’opposer un soutien sans faille aux mobilisations en cours et de
+   revendiquer des augmentations de salaire immédiates à hauteur de 400€
+   et leur indexation sur l’inflation, pour que les revalorisations
+   acquises ne soient pas absorbées par la hausse des prix. Parce que ce
+   n’est pas à nous de payer leur crise.
 
-   BIOS EXPRESS
+   Mots-clés
 
-   Professeur à l’université Paris 8, le sociologue Eric Fassin est
-   également membre senior de l’Institut universitaire de France. Il a
-   notamment coédité, avec Salima Amari, « Femmes en rupture de ban.
-   Entretiens inédits avec deux Algériennes », d’Abdelmalek Sayad (Raisons
-   d’agir, 2021).
+   Salaires   /    Oliver Dussopt   /    Airbus   /    Aéronautique   /
+   Genres et sexualités
 
-   Joan W. Scott, historienne, est professeure émérite à l’Institute for
-   Advanced Study (Princeton, New Jersey). Elle est notamment l’autrice de
-   « la Religion de la laïcité », traduit par Joëlle Marelli (Climats,
-   2018).
+Les plus lus dans cette section
 
-   Eric Fassin (sociologue (Paris 8)) et Joan W. Scott (historienne
-   (Princeton))
+     * 1Agressions sexuelles et ambiance sexiste : quand la télé-réalité
+       exacerbe les rapports patriarcaux
+     * 2Dissolution de la police des mœurs : une annonce ambiguë loin
+       d’éteindre la révolte iranienne
+     * 3La « grande famille prolétarienne ». Sur Alexandra Kollontaï
+     * 4Marxisme et intersectionnalité, quels combats contre les
+       oppressions et l’exploitation
+     * 5Russie. La « loi contre la propagande LGBTI » définitivement
+       adoptée, Poutine poursuit son offensive
 
-   Les plus lus
-     * « Vous êtes mariée ? Fidèle ? » : comment PPDA a fait du milieu
-       littéraire son terrain de chasse pendant 30 ans
-     * Bonne nouvelle : une deuxième vie humaine vient d’apparaître, la
-       vieillesse heureuse
-     * Les footballeurs restent-ils toujours des immigrés comme les
-       autres ?
+Sur le même sujet
 
-   Partenaires
-   Cours d'espagnol Gymglish Cours d'espagnol avec Gymglish.com
+     * Grève chez Sanofi : « il faut que les salaires soient indexés sur
+       l’inflation ! » Grève chez Sanofi : « il faut que les salaires
+       soient indexés sur l'inflation ! »
+     * Grève pour les salaires à Sanofi : « il y a un black-out des médias
+       français » Grève pour les salaires à Sanofi : « il y a un black-out
+       des médias français »
+     * Sandrine, gréviste à Sanofi : « Il faut sortir le médicament des
+       logiques de marché » Sandrine, gréviste à Sanofi : « Il faut sortir
+       le médicament des logiques de marché »
 
-   Dans la même rubrique
-     * Le match géopolitique : Iran - Etats-Unis, une « histoire
-       tumultueuse » et le Qatar en arbitre
-     * Hammour Ziada : « Si vos ancêtres ont été esclaves, vous êtes
-       toujours considéré comme un esclave »
-     * « Contrecoup », par Marie Laberge : après le carnage
+   Rassemblement contre la répression d'Anasse Kazib
 
-   En kiosque
-   Je m'abonne
-   Codes Promo
-     * Amazon
+A la une
 
-Code promo Amazon
-       Promo: jusqu'à -10% sur votre iPhone 12 Pro Max Amazon
-       reconditionné
-     * Zalando Privé
+   Grève spontanée. Les cheminots de Châtillon obtiennent la réintégration
+   d'un collègue !
 
-Code promo Zalando Privé
-       Au moins 10% de réduction pendant ces offres promo chez Zalando
-       Privé
-     * eBay
+Grève spontanée. Les cheminots de Châtillon obtiennent la réintégration d’un
+collègue !
 
-Code promo Ebay
-       Obtenez un bon de réduction de 5€ de remise sur eBay
-     * Cdiscount
+   Sandrine, gréviste à Sanofi : « Il faut sortir le médicament des
+   logiques de marché »
 
-Code promo Cdiscount
-       Jusqu'à 50% de réduction sur l'électroménager
-     * Aliexpress
+Sandrine, gréviste à Sanofi : « Il faut sortir le médicament des logiques de
+marché »
 
-Code promo Aliexpress
-       Réduction Aliexpress : jusqu'à 80% de réduction sur une sélection
-     * Rakuten
+   Coupures d'énergie. Macron feint l'optimisme pour se dédouaner du
+   fiasco à venir
 
-Code promo Rakuten
-       Code promo Rakuten: -20€ dès 299€ sur les téléphones
+Coupures d’énergie. Macron feint l’optimisme pour se dédouaner du fiasco à
+venir
 
-Services
+   Aéronautique. Les salariés de AAA en grève pour une prime d'urgence de
+   1500 euros
 
-     * LG tone free hbs-fn4 noir
-       LG tone free hbs-fn4 noir -   49,00€
-       Publicité par Kelkoo.fr
-     * eBay Code promo Ebay Obtenez un bon de réduction de 5€ de remise
-       sur eBay
-     * SONY Ecouteur SONY Linkbuds S WF-LS900N Blanc
-       SONY Ecouteur SONY Linkbuds S WF-LS900N Blanc -   149,99€
-       Publicité par Kelkoo.fr
-     * Cdiscount Code promo Cdiscount Jusqu'à 50% de réduction sur
-       l'électroménager
+Aéronautique. Les salariés de AAA en grève pour une prime d’urgence de 1500
+euros
 
-     * AVOSDIM Sortie caisson 60° double cardan Ø 12mm Tige hexa 7mm ZF
-       D596MB
-       AVOSDIM Sortie caisson 60° double cardan Ø 12mm Tige hexa 7mm ZF
-       D596MB -   17,90€
-       Publicité par Kelkoo.fr
-     * Zalando Privé Code promo Zalando Privé Au moins 10% de réduction
-       pendant ces offres promo chez …
-     * Cours d'allemand Gymglish Cours d'allemand avec Gymglish.com
-     * Cours d'espagnol Gymglish Cours d'espagnol avec Gymglish.com
+   Revolution Permanente
+     __________________________________________________________________
 
-   Commentaires 120 commentaires
-   Pour réagir, je me connecte Connexion
+   Red Internacional
 
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Publier
-     * avatar
-       IMC a posté le 07 novembre 2022 à 14h19
-       Beaucoup plus important : Isabelle Adjani appelle les femmes
-       voilées de France à se dévoiler par solidarité avec leurs consoeurs
-       iraniennes!
-       Signaler
-       Répondre
-       Pour réagir, je me connecte Connexion
-
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Publier
-     * avatar
-       Frank Einstein a posté le 04 novembre 2022 à 12h21
-       ok, dans ce cas il n'y a rien de contradictoire non plus dans le
-       fait d'afficher une pub pour le whisky dans une réunion des
-       Alcooliques Anonymes...
-       Signaler
-       Répondre
-       Pour réagir, je me connecte Connexion
-
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Publier
-     * avatar
-       j2l15 a posté le 03 novembre 2022 à 19h58
-       Un texte monté en atmosphère.. Je connais le pcpe.; comme bcp je
-       pense.. Mais ce sont des leurres . avec ce coté narcissique
-       désagréable... Sous l emballage il n y a pas grand chose à part
-       cette production artistiquement philosophique.. Le fait de la
-       balance.. rien que le fait , tout le fait..Le port du voile est un
-       acte religieux.. donc antidémocratique.. Restez simple. Le
-       patriarcat impose le voile à douze ans et si tu le quittes tu es
-       condamné à mort. Des fes l enlevent en Iran et risquent la
-       pendaison.. Quand des fes en France revendiquent la liberté de le
-       porter.. c'est au nom de la tyrannie de la loi islamique.. C 'est
-       une parodie de liberté..La chose qui fait foi (!) une plainte.. une
-       enquête pénale qui pourrait démontrer l une violence dont serait
-       victime la musulmane.. La philosophie navigue à vue dans un système
-       de valeurs religieuses en crise!!
-       Signaler
-       Répondre
-       Pour réagir, je me connecte Connexion
-
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Publier
-     * avatar
-       gigognan a posté le 03 novembre 2022 à 09h25
-       Ce texte est certainement de bonne qualité philosophique; mais le
-       problème pour la France, apparemment moins pour des pays voisins
-       dont la relation avec les religions et la "diversité"a été
-       différente, c'est que pour nous la volonté de se distinguer par le
-       vêtement signifie ne pas vouloir s'assimiler à nos "principes" et
-       aux intérêts nationaux.
-       Signaler
-       Répondre
-       Pour réagir, je me connecte Connexion
-
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Publier
-     * avatar
-       hurard a posté le 02 novembre 2022 à 19h20
-       Merci de nous rappeler que la France n'est pas l'Iran......!!!!
-       Certes porter le voile par choix n'est pas la même chose que le
-       porter par contrainte , néanmoins ca me semble quand même pas
-       relever de la libération comme vous le
-       sous-entendez.Qu'appelle-t-on choix , par ailleurs ? Ca reste un
-       signe patriarcal fusse-t-il volontaire , ainsi qu'une
-       interprétation très littérale de la religion. Votre propos est
-       quand même très " jésuite" , mais c'est votre droit. Par ailleurs
-       cessons aussi , en France, d'en faire un sujet aussi polémique.
-       Signaler
-       Répondre
-       Pour réagir, je me connecte Connexion
-
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Publier
-
-   Afficher plus de commentaires
-   Remonter en haut des commentaires
-
-   faire mettre prendre partir définir
-
-   Toute l'actualité en continu avec l'OBS
-   Retour haut de page
-     * Toute l'actualité en continu avec l'OBS
-     * Abonnement
-     * Newsletters
-     * Mots croisés
-     * Applications mobiles
-     * Nos archives
-
-   NOS SERVICES
-     * [ ] Programme TV
-          + Programme TNT ce soir
-          + Programme Canal
-          + Programme Orange
-          + Programme Free
-          + Programme TV toutes les chaines
-     * [ ] Bon plan
-          + Black Friday
-          + Soldes
-          + Codes promo Rue Du Commerce
-          + Codes promo Ebay
-          + Codes promo Emma Matelas
-          + Codes promo Foot Locker
-          + Codes promo Shein
-     * [ ] Modèles de lettre
-          + Lettre de motivation
-          + Lettre de recommandation
-          + Formule de politesse
-          + Code postal France
-          + Lettre de remerciement
-          + Lettre de réclamation
-          + Lettre de demande administrative
-          + Lettre d'invitation à une cérémonie
-          + Discours
-     * [ ] Conjugaison
-          + être
-          + faire
-          + travailler
-          + passer
-          + reconnaître
-          + Ser
-          + Estar
-     * [ ] Langues
-          + Apprendre l'Anglais
-          + Apprendre l'Allemand
-          + Apprendre l'Espagnol
-          + Conjugaison espagnole
-          + Conjugaison portugaise
-          + Conjugaison anglaise
-          + Conjugaison italienne
-          + Conjugaison allemande
-
-   SUIVEZ-NOUS
+   Argentine Brésil Mexique Chili État Espagnol État Unis France Allemagne
+   Uruguay Venezuela Bolivie Italie Costa Rica Pérou
      * Facebook
-     * Instagram
      * Twitter
-     * Youtube
-     * Fils RSS
-
-   [ ]
-   LES SITES DU GROUPE
-     * Le Monde
-     * Courrier International
-     * Télérama
-     * Le HuffPost
-     * La Vie
-     * Le Monde diplomatique
-
-     * Mentions légales
-     *
-     * CGV
-     *
-     * Copyright
-     *
-     * Publicité
-     *
-     * Politique de confidentialité
-     *
-     * Gestion des cookies
-     *
+     * YouTube
+     * Gacetilla
+     * RSS
      * Contact
-     *
-     * FAQ
+     * Whatsapp
 
-   L'Obs - Les marques ou contenus du site nouvelobs.com sont soumis à la
-   protection de la propriété intellectuelle
-   [ ]
-   (BUTTON)
-   (BUTTON)
-   [ ]
-   L'Obs
-   Vous avez choisi de ne pas accepter le dépôt de cookies, notamment ceux
-   de publicité personnalisée. Nous respectons votre choix. Le contenu de
-   ce site est le fruit du travail des 135 journalistes de la rédaction de
-   l'Obs, qui oeuvrent chaque jour pour vous apporter une information de
-   qualité, fiable, et complète. Nos revenus proviennent de l'abonnement
-   et de la publicité. Afin de nous permettre de poursuivre ce service,
-   nous vous invitons à vous abonner. Merci
-   Je m'abonne Je paramètre mes cookies
+   © 2017 REVOLUTION PERMANENTE - Termes et conditions

@@ -712,6 +712,74 @@ function close_frame(){
 
 <link rel="stylesheet" href="https://img.seoul.co.kr/script/jui-1.11.4/jquery-ui.css">
 <script src="https://img.seoul.co.kr/script/jui-1.11.4/jquery-ui.js"></script>
+
+
+<style>
+.con_snsBox{text-align:center;}
+.con_googleMap{text-align:center;}
+.con_openLinkA:hover{color:inherit;text-decoration:none;}
+
+.con_openLinkBox_V{text-align:center;border:1px solid #ddd;max-width:550px;margin:0 auto;cursor:pointer;padding:15px 20px;text-decoration:none;}
+.con_openLinkBox_V .con_openLinkThumb img{max-width:500px;max-height:500px;}
+.con_openLinkBox_V .con_openLinkTitle {font-size:15px;font-weight:bold;text-align:left;line-height:1.4em;}
+.con_openLinkBox_V .con_openLinkSummery {font-size:13px;font-weight:normal;text-align:left;line-height:1.4em;word-break:break-all;}
+.con_openLinkBox_V .con_openLinkHost {font-size:13px;font-weight:normal;color:#1976d2;text-align:left;}
+
+.con_openLinkBox_H{text-align:center;border:1px solid #ddd;max-width:650px;margin:0 auto;cursor:pointer;padding:10px 15px;text-decoration:none;}
+.con_openLinkBox_H .con_openLinkThumb {width:100px;height:100px;float:left;}
+.con_openLinkBox_H .con_openLinkThumb img{max-width:100px;max-height:100px;}
+.con_openLinkBox_H .con_openLinkTitle {font-size:15px;font-weight:bold;text-align:left;line-height:1.4em;}
+.con_openLinkBox_H .con_openLinkSummery {font-size:13px;font-weight:normal;text-align:left;line-height:1.4em;word-break:break-all;}
+.con_openLinkBox_H .con_openLinkHost {font-size:13px;font-weight:normal;color:#1976d2;text-align:left;}
+
+.con_quotation_01{font-style:italic;font-weight:bold;line-height:1.7em;margin:30px 0 0 80px}
+.con_quotation_01::before{
+content:"″";
+}
+/*
+.con_quotation_01{ font-style:italic;font-weight:bold;line-height:1.7em;
+    position: relative;
+    padding: 24px;
+    text-align: center;
+    border-radius: 10px;
+    width: 90%;
+    left: 0;
+    top: 0;
+    background: #fff;
+    border: 2px solid #ced4da;
+    box-sizing: border-box;}
+.con_quotation_01::before{content: "";
+    position: absolute;
+    z-index: 1;
+    bottom: -18px;
+    left: calc(50% - 15px);
+    width: 30px;
+    height: 14px;
+    background: transparent;
+    border-bottom-right-radius: 35px 20px;
+    display: block;
+    border: 2px solid #ced4da;
+    border-top: 2px solid #fff;
+    border-left: 0;}
+.con_quotation_01::after{
+	content: "";
+    position: absolute;
+    z-index: 1;
+    bottom: -16px;
+    left: calc(50% - 15px);
+    width: 10px;
+    height: 12px;
+    border: 2px solid #ced4da;
+    background: transparent;
+    border-bottom-right-radius: 35px 31px;
+    display: block;
+    border-left: 0;
+}
+*/
+
+</style>
+
+
 <style>
 
 .anchor-aside{border-bottom: 1px dotted #d7d7d7 ; padding:1em; background-color:#eeeeee; margin:0px 1em;}
@@ -1004,15 +1072,15 @@ function close_frame(){
 			<!--서울신문 추천 인기기사-->
             <div class="S20_Recommend">
               <h5 class="S20_tit_1">서울신문 추천 인기기사</h5>
-              <div class="photo"><a href="https://eye.seoul.co.kr/news/newsView.php?id=20221130500197" title="M2 카빈소총 대한민국 1호 시제품"><img src="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130152359_N2.jpg" alt="M2 카빈소총 대한민국 1호 시제품"><div class="article_bg lineclamp1">M2 카빈소총 대한민국 1호 시제품</div></a></div>
+              <div class="photo"><a href="https://eye.seoul.co.kr/news/newsView.php?id=20221206500107" title="패션 어워드 2022"><img src="https://img.seoul.co.kr/img/upload//2022/12/06/SSI_20221206111513_N2.jpg" alt="패션 어워드 2022"><div class="article_bg lineclamp1">패션 어워드 2022</div></a></div>
               <!--기사리스트-->
               <div class="txtlist">
                 <ul class="S20_Recommend_Tlist">   
-                  <li class="lineclamp1"><a href="/news/newsView.php?id=20221128500134" title="주차장 출구서 잠든 취객 발 밟은 차량, 가해자는?">주차장 출구서 잠든 취객 발 밟은 차량, 가해자는?</a></li>
-                  <li class="lineclamp1"><a href="/news/newsView.php?id=20221128500140" title="이승기 “음원료 미정산은 사실…후크 거짓 주장 유감”">이승기 “음원료 미정산은 사실…후크 거짓 주장 유감”</a></li>
-                  <li class="lineclamp1"><a href="/news/newsView.php?id=20221128500083" title="태연도 당한 기획부동산…2500억원 가로챈 일당">태연도 당한 기획부동산…2500억원 가로챈 일당</a></li>
-                  <li class="lineclamp1"><a href="/news/newsView.php?id=20221128500060" title="中시위 취재하던 BBC기자, 공안에 붙잡혀 구타당해">中시위 취재하던 BBC기자, 공안에 붙잡혀 구타당해</a></li>
-                  <li class="lineclamp1"><a href="/news/newsView.php?id=20221128500046" title="월드컵 ‘자책골’로 살해당한 비운의 축구선수[사건파일]">월드컵 ‘자책골’로 살해당한 비운의 축구선수[사건파일]</a></li>
+                  <li class="lineclamp1"><a href="/news/newsView.php?id=20221204500046" title="“조두순 아내 얼굴과 이름 공유합니다” 안산은 지금">“조두순 아내 얼굴과 이름 공유합니다” 안산은 지금</a></li>
+                  <li class="lineclamp1"><a href="/news/newsView.php?id=20221205500002" title="쥐 잡으면 억대 연봉… 뉴욕시 “자격요건은 킬러본능”">쥐 잡으면 억대 연봉… 뉴욕시 “자격요건은 킬러본능”</a></li>
+                  <li class="lineclamp1"><a href="/news/newsView.php?id=20221205500001" title="학생평가에 “가슴 크더라”…성희롱 당하는 여교사들">학생평가에 “가슴 크더라”…성희롱 당하는 여교사들</a></li>
+                  <li class="lineclamp1"><a href="/news/newsView.php?id=20221204500011" title="“회사명함 내세요” 오피스텔 성매매 이렇게 운영됐다">“회사명함 내세요” 오피스텔 성매매 이렇게 운영됐다</a></li>
+                  <li class="lineclamp1"><a href="/news/newsView.php?id=20221202500169" title="“주점 난동”…이주노, 특수폭행 혐의 100만원 약식기소">“주점 난동”…이주노, 특수폭행 혐의 100만원 약식기소</a></li>
                 </ul>
               </div>
             </div>
@@ -1059,9 +1127,9 @@ function close_frame(){
                   <div class="S20_ontypeA">
 		            <div class="topArea">
 			          <div class="sectionTit"><a href="/news/newsList.php?section=honey"><span>달콤한 사이언스</span></a></div>
-			          <div class="Tarticle lineclamp3"><a href="/news/newsView.php?id=20221127500049">리더십 있다는 그놈, 알고보니 머릿 속에 기생충?</a></div>
+			          <div class="Tarticle lineclamp3"><a href="/news/newsView.php?id=20221207500099">참을 수 없는 만성통증도 ‘이것’에 노출되면 좋아진다</a></div>
 			        </div>
-			        <div class="photo"><a href="/news/newsView.php?id=20221127500049"><img src="//img.seoul.co.kr/img/upload/2022/11/27/SSI_20221127143648_N2.jpg" alt="리더십 있다는 그놈, 알고보니 머릿 속에 기생충?"></a></div>
+			        <div class="photo"><a href="/news/newsView.php?id=20221207500099"><img src="//img.seoul.co.kr/img/upload/2020/09/29/SSI_20200929103646_N2.jpg" alt="참을 수 없는 만성통증도 ‘이것’에 노출되면 좋아진다"></a></div>
 		          </div>
 		        </li>		
                 <li>
@@ -1082,18 +1150,18 @@ function close_frame(){
 		        </li>		
                 <li>
                   <div class="S20_ontypeB">
-		        	<div class="sectionTit"><a href="/news/newsList.php?section=glo_insight"><span>글로벌 인사이트</span></a></div>
-			    	<div class="photo"><a href="/news/newsView.php?id=20221108017004"><img src="//img.seoul.co.kr/img/upload/2018/10/23/SSI_20181023085308_N2.jpg" alt="한국 ‘집단불법행위 소송’ 개념 없어…가습기살균제 피해사"></a></div>
-			    	<div class="Tarticle lineclamp3"><a href="/news/newsView.php?id=20221108017004">한국 ‘집단불법행위 소송’ 개념 없어…가습기살균제 피해사</a></div>
+		        	<div class="sectionTit"><a href="/news/newsList.php?section=society"><span>글로벌 인사이트</span></a></div>
+			    	<div class="photo"><a href="/news/newsView.php?id=20221206500246"><img src="//img.seoul.co.kr/img/upload/2022/12/06/SSI_20221206203520_N2.png" alt="한국 여성 수명 세계 최고 수준… 남성 최장수국은 스위스"></a></div>
+			    	<div class="Tarticle lineclamp3"><a href="/news/newsView.php?id=20221206500246">한국 여성 수명 세계 최고 수준… 남성 최장수국은 스위스</a></div>
 			      </div>
 			    </li>		
                 <li>
                   <div class="S20_ontypeA">
 		            <div class="topArea">
 			          <div class="sectionTit"><a href="/news/newsList.php?section=morning_pnp"><span>그림과 詩</span></a></div>
-			          <div class="Tarticle lineclamp3"><a href="/news/newsView.php?id=20221125026006">우리들의 마지막 얼굴/문태준</a></div>
+			          <div class="Tarticle lineclamp3"><a href="/news/newsView.php?id=20221202026006">양귀비/이현 · 잎이 쓰다/손택수</a></div>
 			        </div>
-			        <div class="photo"><a href="/news/newsView.php?id=20221125026006"><img src="//img.seoul.co.kr/img/upload/2022/11/24/SSI_20221124205240_N2.jpg" alt="우리들의 마지막 얼굴/문태준"></a></div>
+			        <div class="photo"><a href="/news/newsView.php?id=20221202026006"><img src="//img.seoul.co.kr/img/upload/2022/12/01/SSI_20221201213509_N2.jpg" alt="양귀비/이현 · 잎이 쓰다/손택수"></a></div>
 		          </div>
 		        </li>		
                 <li>
@@ -1285,22 +1353,22 @@ function close_frame(){
         <div class="S20_BestNews_list">
           <ul id="bestNewsList_0">
 			<li>
-				 <a href="/news/newsView.php?id=20221129500267" title="“시간 줘요” 조두순 이사 못 갔다…아내 신상 부동산 공유"><p class="lineclamp3">“시간 줘요” 조두순 이사 못 갔다…아내 신상 부동산 공유</p><a href="/news/newsView.php?id=20221129500267" title="“시간 줘요” 조두순 이사 못 갔다…아내 신상 부동산 공유"><img src="//img.seoul.co.kr/img/upload//2021/01/10/SSI_20210110172553_N2.jpg" alt="“시간 줘요” 조두순 이사 못 갔다…아내 신상 부동산 공유"></a>
+				 <a href="/news/newsView.php?id=20221207500022" title="“한국은 오로지 돈…” 떠나는 벤투 작심발언 남겼다"><p class="lineclamp3">“한국은 오로지 돈…” 떠나는 벤투 작심발언 남겼다</p><a href="/news/newsView.php?id=20221207500022" title="“한국은 오로지 돈…” 떠나는 벤투 작심발언 남겼다"><img src="//img.seoul.co.kr/img/upload//2022/12/05/SSI_20221205174840_N2.jpg" alt="“한국은 오로지 돈…” 떠나는 벤투 작심발언 남겼다"></a>
 		    </li>
-            <li><a href="/news/newsView.php?id=20221130500013"  class="lineclamp1" title="버려진 것도 슬픈데… 거리의 학대, 두 눈을 앗아갔다">버려진 것도 슬픈데… 거리의 학대, 두 눈을 앗아갔다</a></li>
-            <li><a href="/news/newsView.php?id=20221130500041"  class="lineclamp1" title="‘미스코리아’ 최미나수, 韓 최초 세계미인대회 우승 “미스 어스”">‘미스코리아’ 최미나수, 韓 최초 세계미인대회 우승 “미스 어스”</a></li>
-            <li><a href="/news/newsView.php?id=20221129500262"  class="lineclamp1" title="“반추하라” 한동훈 스토킹 기자, 아이폰 비번 걸어 제출">“반추하라” 한동훈 스토킹 기자, 아이폰 비번 걸어 제출</a></li>
-            <li><a href="/news/newsView.php?id=20221130001026"  class="lineclamp1" title="“남욱에 준 50억, 이재명 선거·로비자금” 문건 나왔다">“남욱에 준 50억, 이재명 선거·로비자금” 문건 나왔다</a></li>
+            <li><a href="/news/newsView.php?id=20221207500032"  class="lineclamp1" title="전동 킥보드 1대에 여중생 3명 올라타…무단횡단하다 ‘쿵’">전동 킥보드 1대에 여중생 3명 올라타…무단횡단하다 ‘쿵’</a></li>
+            <li><a href="/news/newsView.php?id=20221207500038"  class="lineclamp1" title="이재명 “檢, 남욱 연기 지도하는 듯…연출 낙제점”">이재명 “檢, 남욱 연기 지도하는 듯…연출 낙제점”</a></li>
+            <li><a href="/news/newsView.php?id=20221207500060"  class="lineclamp1" title="“제 식구 챙기기 그만”…대표팀이 2701호에 모인 이유">“제 식구 챙기기 그만”…대표팀이 2701호에 모인 이유</a></li>
+            <li><a href="/news/newsView.php?id=20221207500068"  class="lineclamp1" title="“세계 최고의 선수를…” 호날두 여친, 경기 직후 올린 글">“세계 최고의 선수를…” 호날두 여친, 경기 직후 올린 글</a></li>
           </ul>			
 
 		  <ul id="bestNewsList_1">
 			<li>
-				 <a href="/news/newsView.php?id=20221130500107" title="“옥상에 사람이 매달렸다” 신고…실제 시신이었다"><p class="lineclamp3">“옥상에 사람이 매달렸다” 신고…실제 시신이었다</p><a href="/news/newsView.php?id=20221130500107" title="“옥상에 사람이 매달렸다” 신고…실제 시신이었다"><img src="//img.seoul.co.kr/img/upload//2020/09/01/SSI_20200901190236_N2.jpg" alt="“옥상에 사람이 매달렸다” 신고…실제 시신이었다"></a>
+				 <a href="/news/newsView.php?id=20221207800001" title="尹대통령 부부, 靑 상춘재서 베트남 주석과 차담"><p class="lineclamp3">尹대통령 부부, 靑 상춘재서 베트남 주석과 차담</p><a href="/news/newsView.php?id=20221207800001" title="尹대통령 부부, 靑 상춘재서 베트남 주석과 차담"><img src="//img.seoul.co.kr/img/upload//2022/12/06/SSI_20221206235957_N2.jpg" alt="尹대통령 부부, 靑 상춘재서 베트남 주석과 차담"></a>
 		    </li>
-            <li><a href="/news/newsView.php?id=20221130500004" class="lineclamp1" title="널뛰는 날씨 속…서울·인천 올겨울 ‘첫눈’">널뛰는 날씨 속…서울·인천 올겨울 ‘첫눈’</a></li>
-            <li><a href="/news/newsView.php?id=20221129500279" class="lineclamp1" title="서울 지하철, 6년 만에 파업…오늘 오전 6시 30분부터">서울 지하철, 6년 만에 파업…오늘 오전 6시 30분부터</a></li>
-            <li><a href="/news/newsView.php?id=20221130500072" class="lineclamp1" title="“맥모닝 주문했더니 모기가 함께 나왔습니다”">“맥모닝 주문했더니 모기가 함께 나왔습니다”</a></li>
-            <li><a href="/news/newsView.php?id=20221130008025" class="lineclamp1" title="中 ‘백지혁명’에 시진핑 리더십 흔들… 美 “평화 시위 보장하라”">中 ‘백지혁명’에 시진핑 리더십 흔들… 美 “평화 시위 보장하라”</a></li>
+            <li><a href="/news/newsView.php?id=20221207001023" class="lineclamp1" title="韓경제 내리막길… 내년 1%대 저성장">韓경제 내리막길… 내년 1%대 저성장</a></li>
+            <li><a href="/news/newsView.php?id=20221207500159" class="lineclamp1" title="손흥민 트레이너 ‘비공식’ 취급에 저격글…축협 해명은">손흥민 트레이너 ‘비공식’ 취급에 저격글…축협 해명은</a></li>
+            <li><a href="/news/newsView.php?id=20221207500045" class="lineclamp1" title="PK순번 ‘손들기’로 정한 日…“아무도 손 안들었다” 일본 선수가 밝힌 그 순간">PK순번 ‘손들기’로 정한 日…“아무도 손 안들었다” 일본 선수가 밝힌 그 순간</a></li>
+            <li><a href="/news/newsView.php?id=20221207500074" class="lineclamp1" title="실내마스크 이르면 1월 해제...시민 자율에 맡긴다">실내마스크 이르면 1월 해제...시민 자율에 맡긴다</a></li>
           </ul>			
         </div>	    
 	  </div>
@@ -1330,11 +1398,11 @@ function close_frame(){
 	    <a href="//eye.seoul.co.kr" target="_blank" title="서울Eye"><div class="S20_tit_1">서울Eye <span class="subtit">: 포토뉴스</span><span class="more"><img src="//img.seoul.co.kr/img/20_more_i.png" alt="더보기"></span></div></a>
 		  <div class="photo">
 	      <ul id="mainPhotoBox">
-			  <a href="https://eye.seoul.co.kr/news/newsView.php?id=20221130500197" title="M2 카빈소총 대한민국 1호 시제품"><img src="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130152359_S.jpg" data-image="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130152359_N2.jpg" data-description="M2 카빈소총 대한민국 1호 시제품"></a>
-			  <a href="https://eye.seoul.co.kr/news/newsView.php?id=20221130500079" title="‘상고대 입은’ 무등산"><img src="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130162842_S.jpg" data-image="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130162842_N2.jpg" data-description="‘상고대 입은’ 무등산"></a>
-			  <a href="https://eye.seoul.co.kr/news/newsView.php?id=20221130500265" title="인도-미국 합동훈련"><img src="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130171959_S.jpg" data-image="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130171959_N2.jpg" data-description="인도-미국 합동훈련"></a>
-			  <a href="https://eye.seoul.co.kr/news/newsView.php?id=20221130800001" title="다시 결의 다지는 대표팀"><img src="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130020558_S.jpg" data-image="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130020558_N2.jpg" data-description="다시 결의 다지는 대표팀"></a>
-			  <a href="https://eye.seoul.co.kr/news/newsView.php?id=20221130500143" title="‘강풍에 찢어진’ 월드컵 응원 현수막"><img src="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130134839_S.jpg" data-image="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130134839_N2.jpg" data-description="‘강풍에 찢어진’ 월드컵 응원 현수막"></a>		
+			  <a href="https://eye.seoul.co.kr/news/newsView.php?id=20221206500107" title="패션 어워드 2022"><img src="https://img.seoul.co.kr/img/upload//2022/12/06/SSI_20221206111513_S.jpg" data-image="https://img.seoul.co.kr/img/upload//2022/12/06/SSI_20221206111513_N2.jpg" data-description="패션 어워드 2022"></a>
+			  <a href="https://eye.seoul.co.kr/news/newsView.php?id=20221207500107" title="‘10억소송’ 법사위서 만난 한동훈·김의겸"><img src="https://img.seoul.co.kr/img/upload//2022/12/07/SSI_20221207144605_S.jpg" data-image="https://img.seoul.co.kr/img/upload//2022/12/07/SSI_20221207144605_N2.jpg" data-description="‘10억소송’ 법사위서 만난 한동훈·김의겸"></a>
+			  <a href="https://eye.seoul.co.kr/news/newsView.php?id=20221207800002" title="김치 요리 담는 미 연방 하원 의원들"><img src="https://img.seoul.co.kr/img/upload//2022/12/07/SSI_20221207104048_S.jpg" data-image="https://img.seoul.co.kr/img/upload//2022/12/07/SSI_20221207104048_N2.jpg" data-description="김치 요리 담는 미 연방 하원 의원들"></a>
+			  <a href="https://eye.seoul.co.kr/news/newsView.php?id=20221207800003" title="대구 성서공단 공장 화재 진화 작업"><img src="https://img.seoul.co.kr/img/upload//2022/12/07/SSI_20221207110006_S.jpg" data-image="https://img.seoul.co.kr/img/upload//2022/12/07/SSI_20221207110006_N2.jpg" data-description="대구 성서공단 공장 화재 진화 작업"></a>
+			  <a href="https://eye.seoul.co.kr/news/newsView.php?id=20221207800001" title="尹대통령 부부, 靑 상춘재서 차담"><img src="https://img.seoul.co.kr/img/upload//2022/12/06/SSI_20221206235957_S.jpg" data-image="https://img.seoul.co.kr/img/upload//2022/12/06/SSI_20221206235957_N2.jpg" data-description="尹대통령 부부, 靑 상춘재서 차담"></a>		
 	      </ul>
 		  </div>
 
@@ -1394,18 +1462,18 @@ function close_frame(){
           <a href="//nownews.seoul.co.kr/" target="_blank" title="나우뉴스"><div class="S20_tit_1">나우뉴스 <span class="subtit">: 지구촌 별별 이야기</span><span class="more"><img src="//img.seoul.co.kr/img/20_more_i.png" alt="더보기"></span></div></a>
           <ul class="S20_R_Plist ">
             <li>
-              <a href="//nownews.seoul.co.kr/news/newsView.php?id=20221130601007" target="_blank" title="“러시아, 핵탄두 제거한 미사일 우크라에 발사”…이유"><img src="//imgnn.seoul.co.kr/img/upload/2022/11/30/SSI_20221130140143_N2.jpg" alt="“러시아, 핵탄두 제거한 미사일 우크라에 발사”…이유"></a>
-              <p class="Article_tit lineclamp2"><a href="//nownews.seoul.co.kr/news/newsView.php?id=20221130601007">“러시아, 핵탄두 제거한 미사일 우크라에 발사”…이유</a></p>
+              <a href="//nownews.seoul.co.kr/news/newsView.php?id=20221207601004" target="_blank" title="‘시진핑 조롱 티셔츠’, 디즈니의 ‘도발’ ?"><img src="//imgnn.seoul.co.kr/img/upload/2022/12/07/SSI_20221207110640_N2.png" alt="‘시진핑 조롱 티셔츠’, 디즈니의 ‘도발’ ?"></a>
+              <p class="Article_tit lineclamp2"><a href="//nownews.seoul.co.kr/news/newsView.php?id=20221207601004">‘시진핑 조롱 티셔츠’, 디즈니의 ‘도발’ ?</a></p>
             </li>
             <li>
-              <a href="//nownews.seoul.co.kr/news/newsView.php?id=20221130601005" target="_blank" title="[포착] “천안문 탱크맨의 부활”…홀로 경찰 수십명 "><img src="https://imgnn.seoul.co.kr/img/upload/2022/11/30/SSI_20221130105128_N2.png" alt="[포착] “천안문 탱크맨의 부활”…홀로 경찰 수십명 "></a>
-              <p class="Article_tit lineclamp2"><a href="//nownews.seoul.co.kr/news/newsView.php?id=20221130601005">[포착] “천안문 탱크맨의 부활”…홀로 경찰 수십명 </a></p>
+              <a href="//nownews.seoul.co.kr/news/newsView.php?id=20221207601007" target="_blank" title="[포착] 얼마나 퍼부었으면…러軍이 쏜 미사일, 산(山"><img src="https://imgnn.seoul.co.kr/img/upload/2022/12/07/SSI_20221207162644_N2.png" alt="[포착] 얼마나 퍼부었으면…러軍이 쏜 미사일, 산(山"></a>
+              <p class="Article_tit lineclamp2"><a href="//nownews.seoul.co.kr/news/newsView.php?id=20221207601007">[포착] 얼마나 퍼부었으면…러軍이 쏜 미사일, 산(山</a></p>
             </li>
           </ul>
           <ul class="S20_R_Tlist">
-            <li class="lineclamp1"><a href="//nownews.seoul.co.kr/news/newsView.php?id=20221130601004" target="_blank" title="우크라에 첫 공급될까?…소형 공대지 유도폭탄 GLSD">우크라에 첫 공급될까?…소형 공대지 유도폭탄 GLSD</a></li>
-            <li class="lineclamp1"><a href="//nownews.seoul.co.kr/news/newsView.php?id=20221130601006" target="_blank" title="‘세계 최대’ 하와이 활화산 분화…60m 용암 분수 ">‘세계 최대’ 하와이 활화산 분화…60m 용암 분수 </a></li>
-            <li class="lineclamp1"><a href="//nownews.seoul.co.kr/news/newsView.php?id=20221130601003" target="_blank" title="[와우! 과학] 건물 내부 적 수색하고 공격하는 AI">[와우! 과학] 건물 내부 적 수색하고 공격하는 AI</a></li>
+            <li class="lineclamp1"><a href="//nownews.seoul.co.kr/news/newsView.php?id=20221207601003" target="_blank" title="‘선발 제외’ 호날두…6:1 대승에도 세리머니 없이 ">‘선발 제외’ 호날두…6:1 대승에도 세리머니 없이 </a></li>
+            <li class="lineclamp1"><a href="//nownews.seoul.co.kr/news/newsView.php?id=20221206601015" target="_blank" title="죽은 줄 알았던 브라질 60대 男, 시신 냉장고서 눈">죽은 줄 알았던 브라질 60대 男, 시신 냉장고서 눈</a></li>
+            <li class="lineclamp1"><a href="//nownews.seoul.co.kr/news/newsView.php?id=20221207601001" target="_blank" title="축구에 진심인 中서 ‘월드컵 환자’ 속출…밤새 경기 ">축구에 진심인 中서 ‘월드컵 환자’ 속출…밤새 경기 </a></li>
           </ul>
         </div>
         <div class="S20_space"></div><!--간격-->
@@ -1417,15 +1485,15 @@ function close_frame(){
         <div class="moduleBox">
             <a href="//en.seoul.co.kr" target="_blank"  title="서둘En"><div class="S20_tit_1">서울En <span class="subtit">: 방송·연예</span><span class="more"><img src="//img.seoul.co.kr/img/20_more_i.png" alt="더보기"></span></div></a>
             <ul class="S20_R_Plist ">
-              <li><a href="/news/newsView.php?id=20221130500200" title="‘조규성과 맞팔’ 모델 지민주, 열애 의혹"><img src="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130153809_N2.jpg" alt="‘조규성과 맞팔’ 모델 지민주, 열애 의혹"></a>
-              <p class="Article_tit lineclamp2"><a href="/news/newsView.php?id=20221130500200" title="‘조규성과 맞팔’ 모델 지민주, 열애 의혹">‘조규성과 맞팔’ 모델 지민주, 열애 의혹</a></p></li>
-              <li><a href="/news/newsView.php?id=20221130500196" title="“마이크 6개, 주인 없는 잔”…카라, 故구하라 잊지 않았다"><img src="https://img.seoul.co.kr/img/upload//2022/11/30/SSI_20221130153309_N2.jpg" alt="“마이크 6개, 주인 없는 잔”…카라, 故구하라 잊지 않았다"></a>
-              <p class="Article_tit lineclamp2"><a href="/news/newsView.php?id=20221130500196" title="“마이크 6개, 주인 없는 잔”…카라, 故구하라 잊지 않았다">“마이크 6개, 주인 없는 잔”…카라, 故구하라 잊지 않았다</a></p></li>
+              <li><a href="/news/newsView.php?id=20221207500043" title="여배우A씨 “하룻밤 대가로 쌀자루 가득 현금 받아”"><img src="https://img.seoul.co.kr/img/upload//2022/12/07/SSI_20221207110813_N2.jpg" alt="여배우A씨 “하룻밤 대가로 쌀자루 가득 현금 받아”"></a>
+              <p class="Article_tit lineclamp2"><a href="/news/newsView.php?id=20221207500043" title="여배우A씨 “하룻밤 대가로 쌀자루 가득 현금 받아”">여배우A씨 “하룻밤 대가로 쌀자루 가득 현금 받아”</a></p></li>
+              <li><a href="/news/newsView.php?id=20221207500007" title="줄리아 로버츠, 알고보니 유부남 킬러…“불륜만 n번째”"><img src="https://img.seoul.co.kr/img/upload//2022/12/07/SSI_20221207063215_N2.jpg" alt="줄리아 로버츠, 알고보니 유부남 킬러…“불륜만 n번째”"></a>
+              <p class="Article_tit lineclamp2"><a href="/news/newsView.php?id=20221207500007" title="줄리아 로버츠, 알고보니 유부남 킬러…“불륜만 n번째”">줄리아 로버츠, 알고보니 유부남 킬러…“불륜만 n번째”</a></p></li>
             </ul>
             <ul class="S20_R_Tlist">
-              <li class="lineclamp1"><a href="/news/newsView.php?id=20221130500195" title="“오열했다더라” 오나라♥김도훈, 청룡서 뽐낸 사랑">“오열했다더라” 오나라♥김도훈, 청룡서 뽐낸 사랑</a></li>
-              <li class="lineclamp1"><a href="/news/newsView.php?id=20221130500109" title="“신세계가 펼쳐진다” 왁싱 추천한 연예인">“신세계가 펼쳐진다” 왁싱 추천한 연예인</a></li>
-              <li class="lineclamp1"><a href="/news/newsView.php?id=20221130500133" title="송해나 “축구 하다 발톱 뽑혀, 남친과 이별하기도”">송해나 “축구 하다 발톱 뽑혀, 남친과 이별하기도”</a></li>
+              <li class="lineclamp1"><a href="/news/newsView.php?id=20221207500017" title="여배우가 무슨 일로…“경찰서 방문만 60번 이상”">여배우가 무슨 일로…“경찰서 방문만 60번 이상”</a></li>
+              <li class="lineclamp1"><a href="/news/newsView.php?id=20221207500139" title="8강 좌절에 김성주 아들이 올린 글">8강 좌절에 김성주 아들이 올린 글</a></li>
+              <li class="lineclamp1"><a href="/news/newsView.php?id=20221207500019" title="‘돌싱’ 유현철 ‘나솔’ 옥순과 열애">‘돌싱’ 유현철 ‘나솔’ 옥순과 열애</a></li>
             </ul>          
          </div>
 		 <div class="S20_space"></div><!--간격--><div>
@@ -1442,19 +1510,19 @@ function close_frame(){
 
 		  <ul class="S20_R_Plist2">
             <li class="con">
-			  <a href="/news/newsView.php?id=20221201025002" title="조기영 세상터치 2022년 12월 1일"><img src="//img.seoul.co.kr/img/upload/2022/11/30/SSI_20221130182400_N2.jpg" alt="조기영 세상터치 2022년 12월 1일"></a><h5 class="lineclamp2"><a href="/news/newsView.php?id=20221201025002" title="조기영 세상터치 2022년 12월 1일">조기영 세상터치 2022년 12월 1일</a></h5>
+			  <a href="/news/newsView.php?id=20221208027004" title="‘무관용 대응’ 정치판 가짜뉴스 근절 계기 돼야"><img src="//img.seoul.co.kr/img/upload/2022/12/07/SSI_20221207175340_N2.jpg" alt="‘무관용 대응’ 정치판 가짜뉴스 근절 계기 돼야"></a><h5 class="lineclamp2"><a href="/news/newsView.php?id=20221208027004" title="‘무관용 대응’ 정치판 가짜뉴스 근절 계기 돼야">‘무관용 대응’ 정치판 가짜뉴스 근절 계기 돼야</a></h5>
 			</li>
             <li class="con">
-			  <a href="/news/newsView.php?id=20221201027004" title="자율 강조한 재해감축안, 기업 책임 더 막중해졌다"><img src="//img.seoul.co.kr/img/upload/2022/11/30/SSI_20221130171641_N2.jpg" alt="자율 강조한 재해감축안, 기업 책임 더 막중해졌다"></a><h5 class="lineclamp2"><a href="/news/newsView.php?id=20221201027004" title="자율 강조한 재해감축안, 기업 책임 더 막중해졌다">자율 강조한 재해감축안, 기업 책임 더 막중해졌다</a></h5>
+			  <a href="/news/newsView.php?id=20221208027003" title="실내 노마스크, 백신 접종 확대와 함께 가길"><img src="//img.seoul.co.kr/img/upload/2022/12/07/SSI_20221207175319_N2.jpg" alt="실내 노마스크, 백신 접종 확대와 함께 가길"></a><h5 class="lineclamp2"><a href="/news/newsView.php?id=20221208027003" title="실내 노마스크, 백신 접종 확대와 함께 가길">실내 노마스크, 백신 접종 확대와 함께 가길</a></h5>
 			</li>
             <li class="con">
-			  <a href="/news/newsView.php?id=20221201027003" title="‘이재명표’ 예산으로 윤 정부 운영하라는 巨野의 억지"><img src="//img.seoul.co.kr/img/upload/2022/11/30/SSI_20221130171220_N2.jpg" alt="‘이재명표’ 예산으로 윤 정부 운영하라는 巨野의 억지"></a><h5 class="lineclamp2"><a href="/news/newsView.php?id=20221201027003" title="‘이재명표’ 예산으로 윤 정부 운영하라는 巨野의 억지">‘이재명표’ 예산으로 윤 정부 운영하라는 巨野의 억지</a></h5>
+			  <a href="/news/newsView.php?id=20221208025002" title="조기영 세상터치 2022년 12월 8일"><img src="//img.seoul.co.kr/img/upload/2022/12/07/SSI_20221207180844_N2.jpg" alt="조기영 세상터치 2022년 12월 8일"></a><h5 class="lineclamp2"><a href="/news/newsView.php?id=20221208025002" title="조기영 세상터치 2022년 12월 8일">조기영 세상터치 2022년 12월 8일</a></h5>
 			</li>
             <li class="con">
-			  <a href="/news/newsView.php?id=20221201027002" title="野 ‘李 선거자금’ 문건 앞에서도 방탄 고집할 텐가"><img src="//img.seoul.co.kr/img/upload/2022/11/30/SSI_20221130171237_N2.jpg" alt="野 ‘李 선거자금’ 문건 앞에서도 방탄 고집할 텐가"></a><h5 class="lineclamp2"><a href="/news/newsView.php?id=20221201027002" title="野 ‘李 선거자금’ 문건 앞에서도 방탄 고집할 텐가">野 ‘李 선거자금’ 문건 앞에서도 방탄 고집할 텐가</a></h5>
+			  <a href="/news/newsView.php?id=20221207027014" title="윤석열의 시간/논설실장"><img src="//img.seoul.co.kr/img/upload/2022/10/04/SSI_20221004171347_N2.jpg" alt="윤석열의 시간/논설실장"></a><h5 class="lineclamp2"><a href="/news/newsView.php?id=20221207027014" title="윤석열의 시간/논설실장">윤석열의 시간/논설실장</a></h5>
 			</li>
             <li class="con">
-			  <a href="/news/newsView.php?id=20221130031014" title="이재용 회장은 10년 전 왜 ‘미드’를 나눠줬을까/수석논…"><img src="//img.seoul.co.kr/img/upload/2022/01/19/SSI_20220119135951_N2.jpg" alt="이재용 회장은 10년 전 왜 ‘미드’를 나눠줬을까/수석논…"></a><h5 class="lineclamp2"><a href="/news/newsView.php?id=20221130031014" title="이재용 회장은 10년 전 왜 ‘미드’를 나눠줬을까/수석논…">이재용 회장은 10년 전 왜 ‘미드’를 나눠줬을까/수석논…</a></h5>
+			  <a href="/news/newsView.php?id=20221207027013" title="유리천장 시계/황수정 수석논설위원"><img src="//img.seoul.co.kr/img/upload/2022/12/06/SSI_20221206201635_N2.jpg" alt="유리천장 시계/황수정 수석논설위원"></a><h5 class="lineclamp2"><a href="/news/newsView.php?id=20221207027013" title="유리천장 시계/황수정 수석논설위원">유리천장 시계/황수정 수석논설위원</a></h5>
 			</li>
 	      </ul>
 	  </div>
@@ -1469,24 +1537,24 @@ function close_frame(){
 		<div class="S20_opinion">	    
         <ul>
 		  <li>
-			<img src="https://img.seoul.co.kr/img/upload//2022/01/19/SSI_20220119135951_S.jpg" alt="이재용 회장은 10년 전 왜 ‘미드’를 줬을까">
+			<img src="https://img.seoul.co.kr/img/upload//2022/10/04/SSI_20221004171347_S.jpg" alt="윤석열의 시간">
 			<div class="con">
-			  <div class="s_tit">안미현 칼럼</div>
-			  <p class="lineclamp2"><a href="/news/newsView.php?id=20221130031014" title="이재용 회장은 10년 전 왜 ‘미드’를 줬을까">이재용 회장은 10년 전 왜 ‘미드’를 줬을까</a></p>
+			  <div class="s_tit">진경호 칼럼</div>
+			  <p class="lineclamp2"><a href="/news/newsView.php?id=20221207027014" title="윤석열의 시간">윤석열의 시간</a></p>
 			</div>
           </li>
 		  <li>
-			<img src="https://img.seoul.co.kr/img/upload//2022/01/10/SSI_20220110210855_S.jpg" alt="자율주행 기술 상용화와 배송서비스 혁신">
+			<img src="https://img.seoul.co.kr/img/upload//2022/01/17/SSI_20220117211927_S.jpg" alt="내가 왜 외국인인가요?">
 			<div class="con">
 			  <div class="s_tit">열린세상</div>
-			  <p class="lineclamp2"><a href="/news/newsView.php?id=20221130030010" title="자율주행 기술 상용화와 배송서비스 혁신">자율주행 기술 상용화와 배송서비스 혁신</a></p>
+			  <p class="lineclamp2"><a href="/news/newsView.php?id=20221207026010" title="내가 왜 외국인인가요?">내가 왜 외국인인가요?</a></p>
 			</div>
           </li>
 		  <li>
-			<img src="https://img.seoul.co.kr/img/upload//2022/01/18/SSI_20220118212047_S.jpg" alt="발리 G20 정상회의가 남긴 빛과 그림자">
+			<img src="https://img.seoul.co.kr/img/upload//2022/09/28/SSI_20220928002827_S.jpg" alt="경제 불황 견디며 겨울 맞는 유럽">
 			<div class="con">
 			  <div class="s_tit">In＆Out</div>
-			  <p class="lineclamp2"><a href="/news/newsView.php?id=20221130029010" title="발리 G20 정상회의가 남긴 빛과 그림자">발리 G20 정상회의가 남긴 빛과 그림자</a></p>
+			  <p class="lineclamp2"><a href="/news/newsView.php?id=20221207025010" title="경제 불황 견디며 겨울 맞는 유럽">경제 불황 견디며 겨울 맞는 유럽</a></p>
 			</div>
           </li>
         </ul>
@@ -1497,9 +1565,9 @@ function close_frame(){
 		  <div class="con">
           <span class="tit">사설</span>
 		  <ul id="slick_editorial">
-			<li class="lineclamp2"><a href="/news/newsView.php?id=20221201027002" title="野 ‘李 선거자금’ 문건 앞에서도 방탄 고집할 텐가">野 ‘李 선거자금’ 문건 앞에서도 방탄 고집할 텐가</a></li>
-			<li class="lineclamp2"><a href="/news/newsView.php?id=20221201027003" title="‘이재명표’ 예산으로 윤 정부 운영하라는 巨野의 억지">‘이재명표’ 예산으로 윤 정부 운영하라는 巨野의 억지</a></li>
-			<li class="lineclamp2"><a href="/news/newsView.php?id=20221201027004" title="자율 강조한 재해감축안, 기업 책임 더 막중해졌다">자율 강조한 재해감축안, 기업 책임 더 막중해졌다</a></li>
+			<li class="lineclamp2"><a href="/news/newsView.php?id=20221208027002" title="정부 산하기관 文정권 인사의 추악한 매관매직">정부 산하기관 文정권 인사의 추악한 매관매직</a></li>
+			<li class="lineclamp2"><a href="/news/newsView.php?id=20221208027003" title="실내 노마스크, 백신 접종 확대와 함께 가길">실내 노마스크, 백신 접종 확대와 함께 가길</a></li>
+			<li class="lineclamp2"><a href="/news/newsView.php?id=20221208027004" title="‘무관용 대응’ 정치판 가짜뉴스 근절 계기 돼야">‘무관용 대응’ 정치판 가짜뉴스 근절 계기 돼야</a></li>
 		  </ul>
 		  </div>
           <div class="paging"><ul class="paging_dots"><li class="on"></li><li></li><li></li></ul></div>
@@ -1537,16 +1605,16 @@ function close_frame(){
             <a href="//go.seoul.co.kr" title="서울pn"><div class="S20_tit_1">서울Pn <span class="subtit">: 정책/자치/고시</span><span class="more"><img src="//img.seoul.co.kr/img/20_more_i.png" alt="더보기"></span></div></a>
 			<div class="onePhotolist" style="float:left;width:100%;">
             <div class="S20_Photo_hl">
-              <a href="//go.seoul.co.kr/news/newsView.php?id=20221130500052" target="_blank" title="김경 서울시의원, 여성가족정책실 아이돌보미 교"><img src="//img.seoul.co.kr/img/upload//2022/11/07/SSI_20221107175416_N3.jpg" alt="김경 서울시의원, 여성가족정책실 아이돌보미 교"></a>
-              <h4 class="lineclamp2"><a href="//go.seoul.co.kr/news/newsView.php?id=20221130500052" target="_blank" title="김경 서울시의원, 여성가족정책실 아이돌보미 교">김경 서울시의원, 여성가족정책실 아이돌보미 교</a></h4>
+              <a href="//go.seoul.co.kr/news/newsView.php?id=20221207020006" target="_blank" title="전남·장흥군 공무원 노사문화 대통령 표창"><img src="//imggo.seoul.co.kr/img/blank_N3.gif" alt="서울pn 이미지"></a>
+              <h4 class="lineclamp2"><a href="//go.seoul.co.kr/news/newsView.php?id=20221207020006" target="_blank" title="전남·장흥군 공무원 노사문화 대통령 표창">전남·장흥군 공무원 노사문화 대통령 표창</a></h4>
             </div>
             <!--기사리스트-->
             <div class="txtlist_w210">
               <ul class="S20_R_Tlist2">
-                <li class="lineclamp1"><a href="//go.seoul.co.kr/news/newsView.php?id=20221130500049" target="_blank" title="홍국표 서울시의원, 도봉구 양말산업 종사자 간">홍국표 서울시의원, 도봉구 양말산업 종사자 간</a></li>
-                <li class="lineclamp1"><a href="//go.seoul.co.kr/news/newsView.php?id=20221130500042" target="_blank" title="서상열 서울시의원 “철도부지 개발과 지상철도 ">서상열 서울시의원 “철도부지 개발과 지상철도 </a></li>
-                <li class="lineclamp1"><a href="//go.seoul.co.kr/news/newsView.php?id=20221130500040" target="_blank" title="박성연 서울시의원, 우리동네에 ‘수변 예술놀이">박성연 서울시의원, 우리동네에 ‘수변 예술놀이</a></li>
-                <li class="lineclamp1"><a href="//go.seoul.co.kr/news/newsView.php?id=20221130500039" target="_blank" title="박성연 서울시의원, ‘아차산 힐링여가 커뮤니티">박성연 서울시의원, ‘아차산 힐링여가 커뮤니티</a></li>
+                <li class="lineclamp1"><a href="//go.seoul.co.kr/news/newsView.php?id=20221207017012" target="_blank" title="동대문, 치매안심센터 성과평가 3관왕">동대문, 치매안심센터 성과평가 3관왕</a></li>
+                <li class="lineclamp1"><a href="//go.seoul.co.kr/news/newsView.php?id=20221207017010" target="_blank" title="동작, 아동·청소년 정신건강 의료비 확대">동작, 아동·청소년 정신건강 의료비 확대</a></li>
+                <li class="lineclamp1"><a href="//go.seoul.co.kr/news/newsView.php?id=20221207017008" target="_blank" title="강남 ‘소상공인 라이브커머스’ 흥행 대박">강남 ‘소상공인 라이브커머스’ 흥행 대박</a></li>
+                <li class="lineclamp1"><a href="//go.seoul.co.kr/news/newsView.php?id=20221207017007" target="_blank" title="성북, 미리 즐기는 유럽풍 크리스마스 축제">성북, 미리 즐기는 유럽풍 크리스마스 축제</a></li>
               </ul>
             </div>
             </div>          
@@ -1733,7 +1801,7 @@ makeTopMenu();
   <!-- weblog -->  
   <script> var wlog_sub=""; </script>  
 
-  <script src="/weblog/proc/weblog_seoul.js?v=1669802603.88"></script>
+  <script src="/weblog/proc/weblog_seoul.js?v=1670408845.28"></script>
   <script src="/weblog/proc/weblog_seoul_google.js"></script>
 
 <!-- 20220412 추가 -->
@@ -1795,5 +1863,5 @@ makeTopMenu();
   
 
   </body>
-</html><!-- View Time : 0.10630607605--><!--ref:--><!--pf:HTTP/1.1--><!--not relationCache-->
+</html><!-- View Time : 0.10883808136--><!--ref:--><!--pf:HTTP/1.1--><!--not relationCache-->
 
