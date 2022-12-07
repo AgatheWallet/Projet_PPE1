@@ -32,3 +32,4 @@ Agathe:
 Fanny :
 - Création d'un dossier et fichiers pour le site web
 - Remplissage des pages html
+- Ajout des derniers URL pour le portugais
