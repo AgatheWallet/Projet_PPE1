@@ -27,3 +27,8 @@ Agathe:
 - Ajout d'URL pour corpus coréen
 - Ajout d'URL pour corpus français
 - Fusion des fichiers README.md et questions.txt
+
+## 7 décembre 
+Fanny :
+- Création d'un dossier et fichiers pour le site web
+- Remplissage des pages html
