@@ -1,21 +1,22 @@
 #!/usr/bin/env bash
 
-#===============================================================================
-# VOUS DEVEZ MODIFIER CE BLOC DE COMMENTAIRES.
-# Ici, on décrit le comportement du programme.
-# Indiquez, entre autres, comment on lance le programme et quels sont
-# les paramètres.
-# La forme est indicative, sentez-vous libres d'en changer !
-# Notamment pour quelque chose de plus léger, il n'y a pas de norme en bash.
-#===============================================================================
+#=======================================================================
+# script pour créer un tableau html
+# prend 3 arguments :
+#	1: le nom du fichier en entrée contenant les urls 
+#	2: le nom du fichier html de tableau renvoyé en sortie  
+#	3: le mot dans la langue considérée
+# Pour lancer le script: 
+# ./script/base_tableaux_fichier.sh <fichier_url> <fichier_html> <mot>
+#=======================================================================
 
 fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
-mot=$3 #le mot dans la langue cherchée
+mot=$3 # le mot dans la langue cherchée
 
 if [[ $# -ne 3 ]]
 then
-	echo "Ce programme demande exactement trois arguments."
+	echo "Trois arguments attendus: <fichier_URL> <fichier_HTML> <mot>"
 	exit
 fi
 
