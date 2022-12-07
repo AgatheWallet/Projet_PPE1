@@ -1,0 +1,31 @@
+.navbar {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  font-size:1.1em;
+}
+
+.navbar {
+  flex-grow: initial;
+  flex-shrink: initial;
+}
+
+.title {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+body{
+  text-align: justify;
+  margin: 1.5% 5%;
+}
+
+.box {
+  text-align: justify;
+  margin: auto 8%;
+}
+
+nav {
+  margin-bottom: 3%;
+}
