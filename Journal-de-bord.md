@@ -21,3 +21,9 @@ Agathe :
 - Création d'un répertoire pour le site
 - Activation des pages git
 - Création du fichier tableau.html
+
+## 26 novembre
+Agathe:
+- Ajout d'URL pour corpus coréen
+- Ajout d'URL pour corpus français
+- Fusion des fichiers README.md et questions.txt
