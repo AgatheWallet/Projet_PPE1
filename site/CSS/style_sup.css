@@ -29,3 +29,7 @@ body{
 nav {
   margin-bottom: 3%;
 }
+
+.centered_img{
+  text-align: center;
+}
