@@ -75,7 +75,7 @@ while read -r URL; do
 	# Met l'encodage en majuscule
 	charset=$(echo ${charset^^})
 	# Remplit le tableau avec les informations récupérés pour l'URL en cours de lecture
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=../aspirations/$basename-$lineno.html>aspiration</a></td><td><a href=../dumps-text/$basename-$lineno.txt>dump</td><td>$nb_occ</td></tr>" >> $fichier_tableau
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=../aspirations/$basename-$lineno.html>aspiration</a></td><td><a href=../dumps-text/$basename-$lineno.txt>dump</a></td><td>$nb_occ</td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls

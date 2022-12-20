@@ -33,3 +33,40 @@ nav {
 .centered_img{
   text-align: center;
 }
+
+/*hide the inputs/checkmarks and submenu*/
+input, table.submenu {
+  display: none;
+}
+
+/*position the label*/
+div > label::after{
+  content: ' ▾';
+}
+
+
+label:hover{
+ color : hsl(229, 53%,  53%);
+  
+}
+
+
+input:checked~label::after{
+  content: ' ▴';
+}
+
+
+/*show the submenu when input is checked*/
+input:checked~table.submenu {
+  display: block;
+}
+
+
+div {
+  margin-bottom : 2%;
+  margin-top : 1%;
+}
+
+table {
+  margin : 3% 5%;
+}
