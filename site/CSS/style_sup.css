@@ -1,3 +1,8 @@
+nav {
+  margin-bottom: 3%;
+}
+
+
 .navbar {
   display: flex;
   align-content: center;
@@ -5,9 +10,15 @@
   font-size:1.1em;
 }
 
+
 .navbar {
   flex-grow: initial;
   flex-shrink: initial;
+}
+
+body{
+  text-align: justify;
+  margin: 1.5% 5%;
 }
 
 .title {
@@ -16,18 +27,9 @@
   justify-content: center;
 }
 
-body{
-  text-align: justify;
-  margin: 1.5% 5%;
-}
-
 .box {
   text-align: justify;
   margin: auto 8%;
-}
-
-nav {
-  margin-bottom: 3%;
 }
 
 .centered_img{
@@ -47,7 +49,6 @@ div > label::after{
 
 label:hover{
  color : hsl(229, 53%,  53%);
-  
 }
 
 
@@ -61,7 +62,6 @@ input:checked~table.submenu {
   display: block;
 }
 
-
 div {
   margin-bottom : 2%;
   margin-top : 1%;
@@ -69,4 +69,15 @@ div {
 
 table {
   margin : 3% 5%;
+}
+
+
+.column {
+  margin: auto 1%;
+}
+
+.is-3 {
+  display: flex;
+  align-content: center;
+  justify-content: center;
 }
