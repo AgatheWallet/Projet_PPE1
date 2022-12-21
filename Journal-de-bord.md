@@ -41,3 +41,8 @@ Agathe :
 - Ajout des derniers URLs pour le coréen
 - Génération du tableau pour le coréen
 - CSS pour la page tableaux.html avec ajout du tableau coréen complet 
+
+## 21 décembre
+Agathe :
+- Première tentative de mise en page de notre page Présentations mais pas convaincue
+- Faudrait-il garder cette page pour nous présenter nous et ajouter une page sur le féminisme ?
