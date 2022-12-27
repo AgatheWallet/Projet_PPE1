@@ -33,3 +33,16 @@ Fanny :
 - Création d'un dossier et fichiers pour le site web
 - Remplissage des pages html
 - Ajout des derniers URL pour le portugais
+
+
+## 20 décembre
+Agathe :
+- Modification du script bash pour la génération des tableaux → ajout d'une balise fermante manquante
+- Ajout des derniers URLs pour le coréen
+- Génération du tableau pour le coréen
+- CSS pour la page tableaux.html avec ajout du tableau coréen complet 
+
+## 21 décembre
+Agathe :
+- Première tentative de mise en page de notre page Présentations mais pas convaincue
+- Faudrait-il garder cette page pour nous présenter nous et ajouter une page sur le féminisme ?

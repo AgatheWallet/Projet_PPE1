@@ -1,3 +1,8 @@
+nav {
+  margin-bottom: 3%;
+}
+
+
 .navbar {
   display: flex;
   align-content: center;
@@ -5,9 +10,15 @@
   font-size:1.1em;
 }
 
+
 .navbar {
   flex-grow: initial;
   flex-shrink: initial;
+}
+
+body{
+  text-align: justify;
+  margin: 1.5% 5%;
 }
 
 .title {
@@ -16,20 +27,57 @@
   justify-content: center;
 }
 
-body{
-  text-align: justify;
-  margin: 1.5% 5%;
-}
-
 .box {
   text-align: justify;
   margin: auto 8%;
 }
 
-nav {
-  margin-bottom: 3%;
-}
-
 .centered_img{
   text-align: center;
+}
+
+/*hide the inputs/checkmarks and submenu*/
+input, table.submenu {
+  display: none;
+}
+
+/*position the label*/
+div > label::after{
+  content: ' ▾';
+}
+
+
+label:hover{
+ color : hsl(229, 53%,  53%);
+}
+
+
+input:checked~label::after{
+  content: ' ▴';
+}
+
+
+/*show the submenu when input is checked*/
+input:checked~table.submenu {
+  display: block;
+}
+
+div {
+  margin-bottom : 2%;
+  margin-top : 1%;
+}
+
+table {
+  margin : 3% 5%;
+}
+
+
+.column {
+  margin: auto 1%;
+}
+
+.is-3 {
+  display: flex;
+  align-content: center;
+  justify-content: center;
 }
