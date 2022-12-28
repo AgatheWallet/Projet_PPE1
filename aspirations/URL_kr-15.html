@@ -25,7 +25,6 @@
     <meta property="og:title" content="&quot;여성운동의 성과가 있는 곳엔 반드시 백래시가 있다&quot;[플랫]" />
     <meta property="og:description" content="백래시(backlash·반동)의 시대다. 2016년 강남역 살인사건, 2018년 성폭력을 공론화한 ‘미투’ 운동..." />
     <meta property="og:image" content="https://img.khan.co.kr/news/2022/07/21/l_2022071801001261900103541.jpg" />
-    <meta property="fb:app_id" content="2819874668152275" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="&quot;여성운동의 성과가 있는 곳엔 반드시 백래시가 있다&quot;[플랫]" />
     <meta name="twitter:description" content="백래시(backlash·반동)의 시대다. 2016년 강남역 살인사건, 2018년 성폭력을 공론화한 ‘미투’ 운동..." />
@@ -123,13 +122,15 @@
         'serialTitle' : '플랫', 
         'wordCount' : '6803', 
         'tag' : '백래시, 신경아 교수, 풀뿌리 여성운동', 
-        'elapsedDay' : '153일', 
+        'elapsedDay' : '161일', 
         'replyCount' : '0', 
         'likeCount' : '3', 
         'loginFlatform' : loginFlatform, 
         'loginId' : loginId, 
         'referrer' : referrerUrl, 
     }];
+
+    var eventCate = "m_article_플랫기사";
     </script>
 
 
@@ -205,7 +206,7 @@
 			<!-- 앱 설치 유도 배너 -->
 			<div class="wrap_app_bnr">
 				<div class="app_bnr_txt">
-					<a href="#" class="app_bnr_btn">
+					<a href="#" class="app_bnr_btn" data-event-category="m_article_플랫기사" data-event-action="header_배너" data-event-label="경향신문 뉴스 앱으로 보기">
 						<span class="ico_app"></span>
 						<p><strong class="tit">경향신문 뉴스</strong> 앱으로 보기</p>
 					</a>
@@ -218,8 +219,10 @@
 				<div class="wrap_tit common-header-title"><h2 class="blind">경향신문</h2></div>
 				<div class="wrap_util">
 					<div class="box_menu_left">
-						<a title="메뉴 열기" onclick="menuBox.toggle();" class="link_corp btn_menu"><span class="blind">메뉴</span></a>
-						<a href="/" title="홈으로 바로가기" class="link_corp btn_home "><span class="blind">홈으로 바로가기</span></a>
+						<a title="메뉴 열기" onclick="menuBox.toggle();" class="link_corp btn_menu"
+                           data-event-category="m_article_플랫기사" data-event-action="header_lnb" data-event-label="lnb 펼침"><span class="blind">메뉴</span></a>
+						<a href="/" title="홈으로 바로가기" class="link_corp btn_home "
+                           data-event-category="m_article_플랫기사" data-event-action="header_제호" data-event-label="경향신문"><span class="blind">홈으로 바로가기</span></a>
 					</div>
 					<div class="box_menu_right">
 
@@ -232,7 +235,8 @@
                             </div>
 						</div>
 
-						<a href="javascript:;" title="댓글" onclick="setPosReply();" class="link_corp btn_reply">
+						<a href="javascript:;" title="댓글" onclick="setPosReply();" class="link_corp btn_reply"
+                           data-event-category="m_article_플랫기사" data-event-action="header_댓글" data-event-label="0">
 							<span class="ico_reply ico">댓글</span>
 							<em></em>
 						</a>
@@ -240,7 +244,7 @@
 							<span class="ico_share ico">공유하기</span>
 						</a>
 
-						<a class="link_corp btn_more" title="더보기">
+						<a class="link_corp btn_more" title="더보기" data-event-category="m_article_플랫기사" data-event-action="header_더보기" data-event-label="더보기">
 							<span class="ico_more ico" onclick="submenuBox();">더보기</span>
 							<span class="more_layer">
 								<span class="control">
@@ -248,7 +252,8 @@
 									<strong>가</strong>
 									<button class="plus" data-font_type="plus"></button>
 								</span>
-								<button class="bookmark" onclick="setbookmark(this);" data-art_id="202207211024001" data-bookmark_name="bookmark_khan" data-med_id="khan">북마크</button>
+								<button class="bookmark" onclick="setbookmark(this);" data-art_id="202207211024001" data-bookmark_name="bookmark_khan" data-med_id="khan"
+                                        data-event-category="m_article_플랫기사" data-event-action="header_더보기" data-event-label="북마크 설정">북마크</button>
 															</span>
 						</a>
 					</div>
@@ -459,49 +464,58 @@
 				<div class="tit_sns_share">공유하기</div>
 				<ul class="list_sns">
 					<li>
-						<a class="link_sns" href="javascript:;" data-social="facebook" title="페이스북 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="페이스북">
+						<a class="link_sns" href="javascript:;" data-social="facebook" title="페이스북 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="페이스북">
 							<span class="img_sns_ico ico_sns_facebook"></span>페이스북
 						</a>
 					</li>
 					<li>
-						<a class="link_sns" href="javascript:;" data-social="twitter" title="트위터 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="트위터">
+						<a class="link_sns" href="javascript:;" data-social="twitter" title="트위터 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="트위터">
 							<span class="img_sns_ico ico_sns_twitter"></span>트위터
 						</a>
 					</li>
 					<li>
-						<a id="kakaotalk" class="link_sns find_kakaotalk" href="javascript:;" data-social="kakaotalk" title="카카오톡 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="카카오톡">
+						<a id="kakaotalk" class="link_sns find_kakaotalk" href="javascript:;" data-social="kakaotalk" title="카카오톡 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="카카오톡">
 							<span class="img_sns_ico ico_sns_kakaotalk"></span>카카오톡
 						</a>
 					</li>
 					<li>
-						<a class="link_sns" href="javascript:;" data-social="kakaostory" title="카카오스토리 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="카카오스토리">
+						<a class="link_sns" href="javascript:;" data-social="kakaostory" title="카카오스토리 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="카카오스토리">
 							<span class="img_sns_ico ico_sns_kakaostory"></span>카카오스토리
 						</a>
 					</li>
 					<li>
-						<a class="link_sns" href="javascript:;" data-social="naver_band" title="네이버밴드 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="밴드">
+						<a class="link_sns" href="javascript:;" data-social="naver_band" title="네이버밴드 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="밴드">
 							<span class="img_sns_ico ico_sns_naverband"></span>네이버밴드
 						</a>
 					</li>
 					<li>
-						<a class="link_sns" href="javascript:;" data-social="naver_blog" title="네이버블로그 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="블로그">
+						<a class="link_sns" href="javascript:;" data-social="naver_blog" title="네이버블로그 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="블로그">
 							<span class="img_sns_ico ico_sns_naverblog"></span>네이버블로그
 						</a>
 					</li>
 					<li>
-						<a class="link_sns sns_mail" data-social="mail" data-art_id="202012152116025" title="메일 보내기" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="이메일">
+						<a class="link_sns sns_mail" data-social="mail" data-art_id="202012152116025" title="메일 보내기" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="이메일">
 							<span class="img_sns_ico ico_sns_mail"></span>메일 보내기
 						</a>
 					</li>
 				</ul>
 				<div class="area_urlcopy area_urlcopy_inapp">
 					<div>
-						<a href="javascript:;" class="area_urlcopy_inappbtn btnCopyClip" data-clipboard-action="copy" data-clipboard-target=".clipURL" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="URL 복사">URL복사</a>
+						<a href="javascript:;" class="area_urlcopy_inappbtn btnCopyClip" data-clipboard-action="copy" data-clipboard-target=".clipURL" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="URL 복사">URL복사</a>
 						<a id="clipboard" href="" class="area_urlcopy_url clipURL" onclick="return false;"></a>
 					</div>
 				</div>
 				<div class="area_urlcopy_msg txtCopyClip" style="display:none;">URL을 길게 누르면 복사하실 수 있습니다.</div>
-				<a href="javascript:;" class="btn_close" onclick="$('#moreSns').hide();" title="SNS 공유 더보기 닫기" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="닫기">
+				<a href="javascript:;" class="btn_close" onclick="$('#moreSns').hide();" title="SNS 공유 더보기 닫기" 
+                   data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="닫기">
 					<span class="blind ico_close">닫기</span>
 				</a>
 			</div>
@@ -837,7 +851,8 @@
 
 
                             <div class="caption">
-                                <a class="name" href="https://www.khan.co.kr/reporter_article.html?id=584" title="플랫팀(새창)" target="_blank">
+                                <a class="name" href="https://www.khan.co.kr/reporter_article.html?id=584" title="플랫팀(새창)" target="_blank"
+                                    data-event-category="m_article_플랫기사" data-event-action="article header_기자명" data-event-label="플랫팀">
                                     <strong class="line_clamp">플랫팀 여성 서사 아카이브</strong>
                                 </a>
                             </div>
@@ -860,7 +875,7 @@
                         </p>
                             <figcaption class="thumb_caption">신경아 한림대 사회학과 교수가 경향신문과 인터뷰를 하고 있다. 우철훈 선임기자</figcaption>
                         </figure>
-<p class="art_txt"><strong>- 반여성주의 백래시가 지난 대선 국면에 두드러졌습니다.</strong><br /><br /></p><p class="art_txt">“미국 저널리스트 수전 팔루디는 1991년 저서 &lt;백래시&gt;에서, 페미니즘에 대한 반격은 여성들이 ‘완전한 평등’이라는 결승선에 도착하기 전에 멈춰 세우는 선제공격이라고 말했습니다. 영향이나 권력이 줄어들 것을 우려한 이들이 집단적으로 반발하는 거죠. 제가 어릴 때인 1975년 유엔이 ‘세계 여성의날’을 선포했는데, 얼마 뒤 TV 코미디쇼에서 여성의 지위향상을 외치는 주부들을 가정을 팽개친 무책임한 이들로 그리더군요.<br /><br /></p><p class="art_txt">1990년대 여성의 대학진학률이 높아지고 노동시장 진입이 증가할 때 TV 드라마에서 자신의 세계를 개척하는 능력있는 여성들은 이기적이고 속물적으로 묘사되는 문화적 백래시가 나타난 바 있습니다. 1999년 군가산점제 위헌 결정 이후에 온라인 커뮤니티 ‘일간 베스트(일베)’ 등을 중심으로 여가부 폐지 주장이 나왔지만 사회적 지지는 받지 못했어요.<br /><br /></p><p class="art_txt">그러다 지난해 6월 이준석씨가 국민의힘 당대표가 되고, 7월 같은 당 대선 예비경선 때 유승민 후보가 1호 공약으로 여가부 폐지를 내걸면서 정치적으로 가시화됐습니다. 국민의힘이 백래시를 정치적 전략으로 이용한 거라고 봅니다. 여가부 폐지 공약은 이후 윤석열 대통령이 이어받았죠.”<br /><br /></p><p class="art_txt"><strong>- 윤석열 정부 장차관급 여성 인사가 10%선입니다. 문재인 정부의 ‘여성장관 비율 30%’ 할당제 방침과 비교됩니다.</strong><br /><br /></p><p class="art_txt">“남녀동수 내각은 우리 사회가 가야 할 지향점입니다. 명시적 할당제 없이는 성평등 목표 달성이 어렵습니다. 문제는 보수건 진보건 내각에 등용되는 여성인재는 정계 기득권 남성들인 ‘올드보이 네트워크’와 가깝거나 그들에게 인정받는 경우가 많다는 겁니다. 여성운동의 성과로서 고위직에 선발된 여성들은 페미니스트건 아니건 여성으로서 책임감을 가져야 합니다. 하지만 올드보이 네트워크에서 인정받는 이들은 성평등 인식을 내세우기 보다는 순응하거나 묵인하는 경우가 많죠.<br /><br /></p><p class="art_txt">그간의 평가가 후할 수 없는 것은 이 같은 선발 과정의 문제가 있기 때문입니다. 관료주의 남성중심 시각에 새로운 목소리를 대변하는 게 아니라, 목소리를 내지 않아야 출세한다는 부정적인 되먹임 효과를 가져오게 됩니다. 여성을 등용한다는 시늉 정도에 그쳐서는 안 됩니다. 적극적으로 인재 발굴을 해야 합니다.”<br /><br /></p><p class="art_txt"><strong>- 20대 여성 박지현씨가 더불어민주당 공동비상대책위원장에 발탁됐지만 건의 내용은 거의 수렴되지 않으면서 당 개혁이 시늉에 그쳤다는 평가도 나옵니다.</strong><br /><br /></p><p class="art_txt">“지난 대선 과정에서 이재명 후보 지지율이 추락할 때 민주당이 ‘n번방’을 고발한 추적단 ‘불꽃’의 박지현씨를 영입해서 결국 0.73%포인트 차 석패로 좁혔어요. 2030 여성들의 지지를 모아준 거죠. 이후 청년여성을 대표해 비대위원장이 됐지만 권한이 없었고, 무력하고 미숙한 불평분자로 주변화됐어요. 문제 제기를 조직에서 받아들여 가시적 조치가 이뤄지고 성과가 나면 그 사람의 리더십이 생기는 겁니다. 리더십은 당이 만들어주는 거예요.<br /><br /></p><p class="art_txt">그런데 친이재명계인 일부 의원들이 굉장히 반여성주의적이고, 당내 페미니스트 세력화를 원하지 않는 듯합니다. 대선과정에서 민주당에 유입된 청년들을 갈라치기하는 건 아닌가 걱정됩니다. 민주당 내 586세대가 진부한 계파싸움을 하면서 사회적 약자인 청년들의 세력화를 방치하고 있는 건 아닌지 우려도 되고요. 이렇게 가다간 민주당엔 희망이 없습니다.”<br /><br /></p><p class="art_txt"><a href="https://www.khan.co.kr/politics/politics-general/article/202201281120001" target=_blank>&#128204;[플랫]‘추적단 불꽃’ 박지현 “피해자 보호 목소리 내고 싶어 민주당 합류”</a><br /></p><p class="art_txt"><a href="https://www.khan.co.kr/politics/politics-general/article/202204271434001" target=_blank>&#128204;[플랫]권인숙 의원 “문제의 중심에 성평등이 있음을 인식해야 미래가 있다”</a><br /><br /></p>                        <figure class="art_figure_thumb">
+<p class="art_txt"><strong>- 반여성주의 백래시가 지난 대선 국면에 두드러졌습니다.</strong><br /><br /></p><p class="art_txt">“미국 저널리스트 수전 팔루디는 1991년 저서 &lt;백래시&gt;에서, 페미니즘에 대한 반격은 여성들이 ‘완전한 평등’이라는 결승선에 도착하기 전에 멈춰 세우는 선제공격이라고 말했습니다. 영향이나 권력이 줄어들 것을 우려한 이들이 집단적으로 반발하는 거죠. 제가 어릴 때인 1975년 유엔이 ‘세계 여성의날’을 선포했는데, 얼마 뒤 TV 코미디쇼에서 여성의 지위향상을 외치는 주부들을 가정을 팽개친 무책임한 이들로 그리더군요.<br /><br /></p><p class="art_txt">1990년대 여성의 대학진학률이 높아지고 노동시장 진입이 증가할 때 TV 드라마에서 자신의 세계를 개척하는 능력있는 여성들은 이기적이고 속물적으로 묘사되는 문화적 백래시가 나타난 바 있습니다. 1999년 군가산점제 위헌 결정 이후에 온라인 커뮤니티 ‘일간 베스트(일베)’ 등을 중심으로 여가부 폐지 주장이 나왔지만 사회적 지지는 받지 못했어요.<br /><br /></p><p class="art_txt">그러다 지난해 6월 이준석씨가 국민의힘 당대표가 되고, 7월 같은 당 대선 예비경선 때 유승민 후보가 1호 공약으로 여가부 폐지를 내걸면서 정치적으로 가시화됐습니다. 국민의힘이 백래시를 정치적 전략으로 이용한 거라고 봅니다. 여가부 폐지 공약은 이후 윤석열 대통령이 이어받았죠.”<br /><br /></p><p class="art_txt"><strong>- 윤석열 정부 장차관급 여성 인사가 10%선입니다. 문재인 정부의 ‘여성장관 비율 30%’ 할당제 방침과 비교됩니다.</strong><br /><br /></p><p class="art_txt">“남녀동수 내각은 우리 사회가 가야 할 지향점입니다. 명시적 할당제 없이는 성평등 목표 달성이 어렵습니다. 문제는 보수건 진보건 내각에 등용되는 여성인재는 정계 기득권 남성들인 ‘올드보이 네트워크’와 가깝거나 그들에게 인정받는 경우가 많다는 겁니다. 여성운동의 성과로서 고위직에 선발된 여성들은 페미니스트건 아니건 여성으로서 책임감을 가져야 합니다. 하지만 올드보이 네트워크에서 인정받는 이들은 성평등 인식을 내세우기 보다는 순응하거나 묵인하는 경우가 많죠.<br /><br /></p><p class="art_txt">그간의 평가가 후할 수 없는 것은 이 같은 선발 과정의 문제가 있기 때문입니다. 관료주의 남성중심 시각에 새로운 목소리를 대변하는 게 아니라, 목소리를 내지 않아야 출세한다는 부정적인 되먹임 효과를 가져오게 됩니다. 여성을 등용한다는 시늉 정도에 그쳐서는 안 됩니다. 적극적으로 인재 발굴을 해야 합니다.”<br /><br /></p><p class="art_txt"><strong>- 20대 여성 박지현씨가 더불어민주당 공동비상대책위원장에 발탁됐지만 건의 내용은 거의 수렴되지 않으면서 당 개혁이 시늉에 그쳤다는 평가도 나옵니다.</strong><br /><br /></p><p class="art_txt">“지난 대선 과정에서 이재명 후보 지지율이 추락할 때 민주당이 ‘n번방’을 고발한 추적단 ‘불꽃’의 박지현씨를 영입해서 결국 0.73%포인트 차 석패로 좁혔어요. 2030 여성들의 지지를 모아준 거죠. 이후 청년여성을 대표해 비대위원장이 됐지만 권한이 없었고, 무력하고 미숙한 불평분자로 주변화됐어요. 문제 제기를 조직에서 받아들여 가시적 조치가 이뤄지고 성과가 나면 그 사람의 리더십이 생기는 겁니다. 리더십은 당이 만들어주는 거예요.<br /><br /></p><p class="art_txt">그런데 친이재명계인 일부 의원들이 굉장히 반여성주의적이고, 당내 페미니스트 세력화를 원하지 않는 듯합니다. 대선과정에서 민주당에 유입된 청년들을 갈라치기하는 건 아닌가 걱정됩니다. 민주당 내 586세대가 진부한 계파싸움을 하면서 사회적 약자인 청년들의 세력화를 방치하고 있는 건 아닌지 우려도 되고요. 이렇게 가다간 민주당엔 희망이 없습니다.”<br /><br /></p><p class="art_txt"><a href="https://www.khan.co.kr/politics/politics-general/article/202201281120001" target=_blank data-event-category="m_article_플랫기사" data-event-action="article body_아웃링크" data-event-label="&#128204;[플랫]‘추적단 불꽃’ 박지현 “피해자 보호 목소리 내고 싶어 민주당 합류”">&#128204;[플랫]‘추적단 불꽃’ 박지현 “피해자 보호 목소리 내고 싶어 민주당 합류”</a><br /></p><p class="art_txt"><a href="https://www.khan.co.kr/politics/politics-general/article/202204271434001" target=_blank data-event-category="m_article_플랫기사" data-event-action="article body_아웃링크" data-event-label="&#128204;[플랫]권인숙 의원 “문제의 중심에 성평등이 있음을 인식해야 미래가 있다”">&#128204;[플랫]권인숙 의원 “문제의 중심에 성평등이 있음을 인식해야 미래가 있다”</a><br /><br /></p>                        <figure class="art_figure_thumb">
                             <p class="figure_thumb">
                                 <picture>
                                     <source type="image/webp" srcset="//img.khan.co.kr/news/2022/07/21/l_2022071801001261900103542.webp" loading="lazy">
@@ -869,12 +884,13 @@
                         </p>
                             <figcaption class="thumb_caption">신경아 한림대 사회학과 교수가 경향신문과 인터뷰를 하고 있다. 우철훈 선임기자</figcaption>
                         </figure>
-<p class="art_txt"><strong>- 여성의 경제적 진출도 후퇴하고 있습니다. 코로나19 기간에 육아 등을 이유로 경력단절 여성이 증가했는데요.</strong><br /><br /></p><p class="art_txt">“노동시장 성별격차를 줄이기 위해서는 일터 안에서 불평등을 줄이기 위한 노력을 해야 합니다. 그런데 이윤 극대화가 목표인 기업들은 스스로 알아서 움직이지 않습니다. 남성 중심적인 기업조직에서는 여성노동자를 고용하는 데 따른 경제적·정서적 비용을 부담하면서 성별 임금격차나 유리천장을 깨고 싶어하지 않지요.<br /><br /></p><p class="art_txt">결국 변화의 동력은 정부에 있습니다. 국가정책과 공공부문 내 선도적 실행을 통해 성평등 효용을 입증하는 거죠. 그런데 윤석열 정부는 기업이 국가경제를 주도하도록 두겠다는 방침입니다. 특히 정부가 추진 중인 노동시간 연장이 큰 문제입니다. 매우 길고 경직된 노동시간은, 출산휴가를 마치고 복귀한 여성이 직장과 육아를 병행할 수 없어 그만두게 되는 현상을 악화시킬 수 있습니다. 여가부 폐지와 맞물려 가족친화기업 정책에 대한 감독도 현저히 약화될 겁니다.”<br /><br /></p><p class="art_txt"><a href="https://www.khan.co.kr/national/national-general/article/202203081304001" target=_blank>&#128204;[플랫]코로나19로 일터에서 밀려나는 여성들… 경력단절 사유 1위는 ‘육아’</a><br /><br /></p><p class="art_txt"><strong>- 저출생이 더 악화될 수 있겠군요.</strong><br /><br /></p><p class="art_txt">“임신·출산·육아를 하는 노동자가 불리해지면 저출생이 심화돼 초고령사회 일본처럼 쇠락할 수 있습니다. 인구 대다수가 50~60대인데 국가경쟁력이 어떻게 나오겠어요. 장기적으로 성평등을 도외시한 기업들이 반사회적 기업이 되는 겁니다. 국가가 기업들을 사회적으로 끌고 가야 하는데 그걸 놓아버리는 건 아닌지 걱정입니다.”<br /><br /></p><p class="art_txt"><strong>- 윤 대통령이 대선 때 성폭력 관련해 ‘무고죄 처벌 강화’를 공약했고, 최근 대검찰청이 관련 연구용역에 착수했다고 합니다.</strong><br /><br /></p><p class="art_txt">“피해자들은 직장 상사가 한 번 가볍게 추행했다고 신고하지 않아요. 신고하는 순간 불이익이 크기 때문입니다. 피해자들은 정신과 상담하고 약도 먹다가 도저히 견딜 수 없을 때에야 신고하는 경우가 대부분이에요. 최근 모 철강기업 사건이 그 예입니다.<br /><br /></p><p class="art_txt">그런 피해자들을 상대로 무고죄를 걸겠다? 무고죄는 성폭력 가해자가 피해자를 겁박하기 위한 수단으로 악용하는 경우가 많습니다. 일부 여성혐오 커뮤니티의 주장을 바로 정책으로 연결하다니 인간에 대한 예의가 아닙니다. 한동훈 법무부 장관은 성폭력 대응을 강화하겠다는데, 서지현 검사가 법무부 디지털성범죄 등 대응 태스크포스(TF) 팀장 자리에서 쫓겨나다시피 사직한 과정을 보면 그리 큰 기대가 생기지 않습니다.”<br /><br /></p><p class="art_txt">2017~2018년 성폭력 무고죄로 고소된 사례 중 유죄로 확인된 경우는 전체의 6.4%에 불과했다. 2019년 7월 대검찰청과 한국여성정책연구원이 공개한 ‘검찰 사건 처리 통계로 본 성폭력 무고 사건 현황’이 보여주는 결과다.<br /><br /></p><p class="art_txt"><a href="https://www.khan.co.kr/national/national-general/article/202204141339001" target=_blank>&#128204;[플랫]‘성범죄 무고죄 신설’ 추진에 담긴 메시지’</a><br /><br /></p><p class="art_txt"><strong>- 래디컬 페미니즘이 현재의 백래시를 자초한 것 아니냐는 지적도 있습니다. 2020년 모 여대에 합격한 트랜스젠더 여성의 입학을 반대하고, 심지어 차별금지법까지 반대하며 남성을 적대시하는 이들이 ‘여성극우주의(페모내셔널리즘)’로 불리기도 하는데요.</strong><br /><br /></p><p class="art_txt">“페미니즘 내에는 다양한 입장들이 있는데, 사회·정치·경제적 의미에서 약자 편에 서는 원칙은 공유합니다. 그런 의미에서 최근의 극단적 래디컬 페미니즘에 대해서는 많은 여성학자들이 걱정하고 있어요. 주로 온라인상에서 활동하는 이들은 과격한 혐오발언으로 주목을 받고 있습니다.<br /><br /></p><p class="art_txt">이들이 음지에서 세력을 키울 수 있게 된 궁극적 책임은 정부와 정치권에 있다고 봅니다. 성불평등이 심각한 사회인데 정부나 의회 어디에서도 이를 중요한 과제로 해결하진 않고 여성계에 숙제처럼 미뤄놨어요. 정치 광장에서 토론하면 될 것을 배제하다 보니 결국 과격화됐다고 봐야 합니다.”<br /><br /></p><p class="art_txt"><strong>- 일부 남초 커뮤니티는 ‘현재의 백래시는 문재인 정부에서 남성들이 역차별당한 결과’라는 논리를 펴는데요.</strong><br /><br /></p><p class="art_txt">“지난해 4월 서울시장 보궐선거가 기점입니다. 남초 커뮤니티 여론을 관찰해 보니, 해당 선거 전에는 문 대통령을 지지했다가 돌아선 사람들이 가장 많이 꼽은 이유가 ‘조국 사태’였고 그다음이 ‘부동산 가격 폭등’이었습니다. 페미니즘은 10%가량에 그쳤어요. 그런데 서울시장 보선 때 국민의힘이 이슈화하면서 달라졌습니다. 어차피 조국 사태는 끝났고 부동산 가격은 어쩔 도리가 없으니 안티페미니즘을 키운 거죠.<br /><br /></p><p class="art_txt">사실 보수가 페미니즘과 늘 적대해온 건 아니에요. 국민의힘 소속 권영진 전 대구시장의 경우 여성계와 손을 잡고 성평등 정책을 많이 시도했다고 합니다. 여성과 척지고도 성공하는 정부는 존재할 수 없습니다. 극우포퓰리즘이나 혐오선동으로 이익을 얻는 거죠.”<br /><br /></p><p class="art_txt"><strong>- 현재의 백래시가 전 세계적 현상이라고요.</strong><br /><br /></p><p class="art_txt">“2008년 글로벌 금융위기 이후 2010년 유럽연합(EU) 회원국 상당수에서 보수정부가 집권하며 극우혐오세력이 반이민 정책은 물론 기존 여성정책부서를 폐지하거나 예산을 줄이는 정책을 썼습니다. 낙태 반대, 가족법 강화, 동성애 반대, 학교 성교육 예산 폐지 등이 이어졌어요. EU가 주는 성평등 예산을 거부할 정도였다고 합니다.<br /><br /></p><p class="art_txt">일본의 경우도 1990년대만 해도 성평등 정책이 활발했는데, 2006년 아베 신조 총리가 집권하면서 여성을 정책 영역에서 다 지웠어요. 이후 일본 여성운동은 정치와 결별하고 일상운동 중심으로 전개됐죠. 정치적 양극화가 심한 사회에서 경제적 불안정까지 가중될 때 백래시도 심해집니다. 다만 지역 풀뿌리 여성운동이 있는 국가에서는 이 같은 백래시에 휩쓸려나가지 않았습니다. 미국은 트럼프 집권기 때도 지역 여성운동이 버팀목이 됐어요.”<br /><br /></p><p class="art_txt"><a href="https://www.khan.co.kr/national/national-general/article/202105181009011" target=_blank>&#128204;[플랫]미러링을 무력화하고 안티 페미코인을 등장시킨 ‘백래시’</a><br /><br /></p><p class="art_txt"><strong>- 2030 청년세대는 무엇을 해야 할까요.</strong><br /><br /></p><p class="art_txt">“나와 생각을 함께 나눌 수 있는 친구를 많이 만들라고 하고 싶습니다. 청년여성들은 견뎌야 하는 시기입니다. 시간은 흐르고 역사는 또 발전하기 마련이고, 민주주의는 하루아침에 사라지지 않습니다. 대학은 젠더교육을 늘리고 민주시민인 학생들이 서로 만나 이야기를 나누고 공감을 넓혀나갈 수 있도록 해야 합니다.”<br /><br /></p><div class=boxLineBG><strong>■‘페미니즘 백래시’ 신경아 한림대 교수</strong><br />여성주의와 노동시장을 연구해왔다. 한국여성학회장, 한국사회정책학회장 등을 지내며 노동시장 성별격차 해소를 위한 정책 개발 토대를 구축해왔다. 서울시 성평등임금격차개선위원장을 맡아 국내 최초 성평등임금공시제 시행을 이끈 바 있다. 현재 경찰청 성평등위원회 위원장으로 활동 중이다. 서울대 석사를 거쳐 서강대에서 박사학위를 취득했다. 논문으로 &lt;저출산 대책의 쟁점과 딜레마&gt; &lt;노동의 불안정성과 젠더&gt; &lt;젠더 관점에서 본 유연근무제의 필요성과 딜레마&gt; 등을 썼고, 저서로 &lt;일, 가족, 젠더&gt; &lt;젠더와 사회&gt; &lt;여성과 일&gt; &lt;코로나 시대의 페미니즘&gt;(공저) 등이 있다. &lt;안티페미니스트 백래시와 젠더 정치&gt;(가제)를 곧 출간할 예정이다.</div><br /><br /><div class=boxLineBG> <strong>■보완 입법 3년 넘게 방치</strong><br />국내에서 임신중단(낙태)은 법의 사각지대에 있다. 2019년 4월 헌법재판소는 낙태를 전면 금지한 형법 조항에 헌법불합치 결정을 선고하고, 해당 조항을 2020년 말까지 개정하라고 국회에 요구했다. 그러나 후속 입법은 3년이 넘도록 지지부진하다. 임신 10주까지만 임신중단을 허용하자는 서정숙 국민의힘 의원 안부터 낙태죄를 완전 폐지하자는 권인숙 더불어민주당 의원 안까지 발의안만 6건이다.<br /><br />낙태죄는 오랫동안 사문화된 조항이었다. 그러나 2010년 당시 이명박 대통령이 “생명경시 문제를 해결하겠다”며 저출생 대책으로 꺼내들면서 쟁점으로 부상했다. 인구를 늘리겠다며 시민의 자기결정권을 침해한 것이다. 신경아 한림대 교수는 “한국은 2000년대 초반까지 40년 가까이 출산억제정책 일환으로 낙태를 암묵적으로 허용해왔고, 남아선호사상에 따른 태아성감별 낙태도 흔했는데 갑자기 정책적 근거 없이 국민한테 선전포고를 한 격이었다”고 말했다. 한국보건사회연구원(보사연)이 최근 발표한 2021년 낙태 실태조사 결과를 보면 만 15~49세 여성 7.1%가 임신중단 경험이 있으며, 2명 중 1명(50.8%)은 비혼이었다. 보사연은 낙태가 음지에서 이뤄지면서 낙태 경험자의 7.7%가 낙태약 동일성분을 편법처방 받거나 불법유통 약물을 사용하는 문제가 발생하고 있다고 지적한다. 신 교수는 “개신교를 국교로 하는 미국에서 연방대법원이 낙태권 보장을 폐기하는 퇴행적 결정을 내놨지만 한국은 종교가 다양해 상황이 다르다”면서 “정치권이 일부 보수 기독교계 눈치를 보느라 국민을 방치하고 있다”고 말했다.<br /><br />달라지는 사회를 제도가 뒷받침하지 못하는 입법 지연은 이뿐만이 아니다. 2004년 제정된 건강가정기본법은 혼인·혈연·입양으로 구성된 전통적 가족을 정부가 지원하는 데 초점이 맞춰져있다. 결혼제도 해체로 인해 증가세인 한부모가족이나 조손가족, 동거커플을 비롯한 다양한 가족형태는 포함돼있지 않다. 지난해 개정이 추진됐으나 보수 기독교계에서 가족제도가 붕괴할 것이라며 반발해 불발됐다. 신 교수는 “보수적인 50~60대 중산층 퇴직 남성들 면담조사 결과, 집값 폭등으로 커진 자녀 결혼비용 대느라 노후자금을 소진하고 싶지 않으니 자녀세대가 차라리 동거라도 해 독립하면 좋겠다는 게 솔직한 심정이더라”면서 “법적 혼인 없이도 청년들이 함께 살고, 임신과 출산을 선택할 수 있도록 정부가 지원을 강화하는 게 결국 저출생 해결책”이라고 말했다.</div><br /><br /><br /><p class="art_txt"><font color="#ff2a00">▼</font><br />최민영 논설위원 min@khan.kr<br /></p>                    </div>
+<p class="art_txt"><strong>- 여성의 경제적 진출도 후퇴하고 있습니다. 코로나19 기간에 육아 등을 이유로 경력단절 여성이 증가했는데요.</strong><br /><br /></p><p class="art_txt">“노동시장 성별격차를 줄이기 위해서는 일터 안에서 불평등을 줄이기 위한 노력을 해야 합니다. 그런데 이윤 극대화가 목표인 기업들은 스스로 알아서 움직이지 않습니다. 남성 중심적인 기업조직에서는 여성노동자를 고용하는 데 따른 경제적·정서적 비용을 부담하면서 성별 임금격차나 유리천장을 깨고 싶어하지 않지요.<br /><br /></p><p class="art_txt">결국 변화의 동력은 정부에 있습니다. 국가정책과 공공부문 내 선도적 실행을 통해 성평등 효용을 입증하는 거죠. 그런데 윤석열 정부는 기업이 국가경제를 주도하도록 두겠다는 방침입니다. 특히 정부가 추진 중인 노동시간 연장이 큰 문제입니다. 매우 길고 경직된 노동시간은, 출산휴가를 마치고 복귀한 여성이 직장과 육아를 병행할 수 없어 그만두게 되는 현상을 악화시킬 수 있습니다. 여가부 폐지와 맞물려 가족친화기업 정책에 대한 감독도 현저히 약화될 겁니다.”<br /><br /></p><p class="art_txt"><a href="https://www.khan.co.kr/national/national-general/article/202203081304001" target=_blank data-event-category="m_article_플랫기사" data-event-action="article body_아웃링크" data-event-label="&#128204;[플랫]코로나19로 일터에서 밀려나는 여성들… 경력단절 사유 1위는 ‘육아’">&#128204;[플랫]코로나19로 일터에서 밀려나는 여성들… 경력단절 사유 1위는 ‘육아’</a><br /><br /></p><p class="art_txt"><strong>- 저출생이 더 악화될 수 있겠군요.</strong><br /><br /></p><p class="art_txt">“임신·출산·육아를 하는 노동자가 불리해지면 저출생이 심화돼 초고령사회 일본처럼 쇠락할 수 있습니다. 인구 대다수가 50~60대인데 국가경쟁력이 어떻게 나오겠어요. 장기적으로 성평등을 도외시한 기업들이 반사회적 기업이 되는 겁니다. 국가가 기업들을 사회적으로 끌고 가야 하는데 그걸 놓아버리는 건 아닌지 걱정입니다.”<br /><br /></p><p class="art_txt"><strong>- 윤 대통령이 대선 때 성폭력 관련해 ‘무고죄 처벌 강화’를 공약했고, 최근 대검찰청이 관련 연구용역에 착수했다고 합니다.</strong><br /><br /></p><p class="art_txt">“피해자들은 직장 상사가 한 번 가볍게 추행했다고 신고하지 않아요. 신고하는 순간 불이익이 크기 때문입니다. 피해자들은 정신과 상담하고 약도 먹다가 도저히 견딜 수 없을 때에야 신고하는 경우가 대부분이에요. 최근 모 철강기업 사건이 그 예입니다.<br /><br /></p><p class="art_txt">그런 피해자들을 상대로 무고죄를 걸겠다? 무고죄는 성폭력 가해자가 피해자를 겁박하기 위한 수단으로 악용하는 경우가 많습니다. 일부 여성혐오 커뮤니티의 주장을 바로 정책으로 연결하다니 인간에 대한 예의가 아닙니다. 한동훈 법무부 장관은 성폭력 대응을 강화하겠다는데, 서지현 검사가 법무부 디지털성범죄 등 대응 태스크포스(TF) 팀장 자리에서 쫓겨나다시피 사직한 과정을 보면 그리 큰 기대가 생기지 않습니다.”<br /><br /></p><p class="art_txt">2017~2018년 성폭력 무고죄로 고소된 사례 중 유죄로 확인된 경우는 전체의 6.4%에 불과했다. 2019년 7월 대검찰청과 한국여성정책연구원이 공개한 ‘검찰 사건 처리 통계로 본 성폭력 무고 사건 현황’이 보여주는 결과다.<br /><br /></p><p class="art_txt"><a href="https://www.khan.co.kr/national/national-general/article/202204141339001" target=_blank data-event-category="m_article_플랫기사" data-event-action="article body_아웃링크" data-event-label="&#128204;[플랫]‘성범죄 무고죄 신설’ 추진에 담긴 메시지’">&#128204;[플랫]‘성범죄 무고죄 신설’ 추진에 담긴 메시지’</a><br /><br /></p><p class="art_txt"><strong>- 래디컬 페미니즘이 현재의 백래시를 자초한 것 아니냐는 지적도 있습니다. 2020년 모 여대에 합격한 트랜스젠더 여성의 입학을 반대하고, 심지어 차별금지법까지 반대하며 남성을 적대시하는 이들이 ‘여성극우주의(페모내셔널리즘)’로 불리기도 하는데요.</strong><br /><br /></p><p class="art_txt">“페미니즘 내에는 다양한 입장들이 있는데, 사회·정치·경제적 의미에서 약자 편에 서는 원칙은 공유합니다. 그런 의미에서 최근의 극단적 래디컬 페미니즘에 대해서는 많은 여성학자들이 걱정하고 있어요. 주로 온라인상에서 활동하는 이들은 과격한 혐오발언으로 주목을 받고 있습니다.<br /><br /></p><p class="art_txt">이들이 음지에서 세력을 키울 수 있게 된 궁극적 책임은 정부와 정치권에 있다고 봅니다. 성불평등이 심각한 사회인데 정부나 의회 어디에서도 이를 중요한 과제로 해결하진 않고 여성계에 숙제처럼 미뤄놨어요. 정치 광장에서 토론하면 될 것을 배제하다 보니 결국 과격화됐다고 봐야 합니다.”<br /><br /></p><p class="art_txt"><strong>- 일부 남초 커뮤니티는 ‘현재의 백래시는 문재인 정부에서 남성들이 역차별당한 결과’라는 논리를 펴는데요.</strong><br /><br /></p><p class="art_txt">“지난해 4월 서울시장 보궐선거가 기점입니다. 남초 커뮤니티 여론을 관찰해 보니, 해당 선거 전에는 문 대통령을 지지했다가 돌아선 사람들이 가장 많이 꼽은 이유가 ‘조국 사태’였고 그다음이 ‘부동산 가격 폭등’이었습니다. 페미니즘은 10%가량에 그쳤어요. 그런데 서울시장 보선 때 국민의힘이 이슈화하면서 달라졌습니다. 어차피 조국 사태는 끝났고 부동산 가격은 어쩔 도리가 없으니 안티페미니즘을 키운 거죠.<br /><br /></p><p class="art_txt">사실 보수가 페미니즘과 늘 적대해온 건 아니에요. 국민의힘 소속 권영진 전 대구시장의 경우 여성계와 손을 잡고 성평등 정책을 많이 시도했다고 합니다. 여성과 척지고도 성공하는 정부는 존재할 수 없습니다. 극우포퓰리즘이나 혐오선동으로 이익을 얻는 거죠.”<br /><br /></p><p class="art_txt"><strong>- 현재의 백래시가 전 세계적 현상이라고요.</strong><br /><br /></p><p class="art_txt">“2008년 글로벌 금융위기 이후 2010년 유럽연합(EU) 회원국 상당수에서 보수정부가 집권하며 극우혐오세력이 반이민 정책은 물론 기존 여성정책부서를 폐지하거나 예산을 줄이는 정책을 썼습니다. 낙태 반대, 가족법 강화, 동성애 반대, 학교 성교육 예산 폐지 등이 이어졌어요. EU가 주는 성평등 예산을 거부할 정도였다고 합니다.<br /><br /></p><p class="art_txt">일본의 경우도 1990년대만 해도 성평등 정책이 활발했는데, 2006년 아베 신조 총리가 집권하면서 여성을 정책 영역에서 다 지웠어요. 이후 일본 여성운동은 정치와 결별하고 일상운동 중심으로 전개됐죠. 정치적 양극화가 심한 사회에서 경제적 불안정까지 가중될 때 백래시도 심해집니다. 다만 지역 풀뿌리 여성운동이 있는 국가에서는 이 같은 백래시에 휩쓸려나가지 않았습니다. 미국은 트럼프 집권기 때도 지역 여성운동이 버팀목이 됐어요.”<br /><br /></p><p class="art_txt"><a href="https://www.khan.co.kr/national/national-general/article/202105181009011" target=_blank data-event-category="m_article_플랫기사" data-event-action="article body_아웃링크" data-event-label="&#128204;[플랫]미러링을 무력화하고 안티 페미코인을 등장시킨 ‘백래시’">&#128204;[플랫]미러링을 무력화하고 안티 페미코인을 등장시킨 ‘백래시’</a><br /><br /></p><p class="art_txt"><strong>- 2030 청년세대는 무엇을 해야 할까요.</strong><br /><br /></p><p class="art_txt">“나와 생각을 함께 나눌 수 있는 친구를 많이 만들라고 하고 싶습니다. 청년여성들은 견뎌야 하는 시기입니다. 시간은 흐르고 역사는 또 발전하기 마련이고, 민주주의는 하루아침에 사라지지 않습니다. 대학은 젠더교육을 늘리고 민주시민인 학생들이 서로 만나 이야기를 나누고 공감을 넓혀나갈 수 있도록 해야 합니다.”<br /><br /></p><div class=boxLineBG><strong>■‘페미니즘 백래시’ 신경아 한림대 교수</strong><br />여성주의와 노동시장을 연구해왔다. 한국여성학회장, 한국사회정책학회장 등을 지내며 노동시장 성별격차 해소를 위한 정책 개발 토대를 구축해왔다. 서울시 성평등임금격차개선위원장을 맡아 국내 최초 성평등임금공시제 시행을 이끈 바 있다. 현재 경찰청 성평등위원회 위원장으로 활동 중이다. 서울대 석사를 거쳐 서강대에서 박사학위를 취득했다. 논문으로 &lt;저출산 대책의 쟁점과 딜레마&gt; &lt;노동의 불안정성과 젠더&gt; &lt;젠더 관점에서 본 유연근무제의 필요성과 딜레마&gt; 등을 썼고, 저서로 &lt;일, 가족, 젠더&gt; &lt;젠더와 사회&gt; &lt;여성과 일&gt; &lt;코로나 시대의 페미니즘&gt;(공저) 등이 있다. &lt;안티페미니스트 백래시와 젠더 정치&gt;(가제)를 곧 출간할 예정이다.</div><br /><br /><div class=boxLineBG> <strong>■보완 입법 3년 넘게 방치</strong><br />국내에서 임신중단(낙태)은 법의 사각지대에 있다. 2019년 4월 헌법재판소는 낙태를 전면 금지한 형법 조항에 헌법불합치 결정을 선고하고, 해당 조항을 2020년 말까지 개정하라고 국회에 요구했다. 그러나 후속 입법은 3년이 넘도록 지지부진하다. 임신 10주까지만 임신중단을 허용하자는 서정숙 국민의힘 의원 안부터 낙태죄를 완전 폐지하자는 권인숙 더불어민주당 의원 안까지 발의안만 6건이다.<br /><br />낙태죄는 오랫동안 사문화된 조항이었다. 그러나 2010년 당시 이명박 대통령이 “생명경시 문제를 해결하겠다”며 저출생 대책으로 꺼내들면서 쟁점으로 부상했다. 인구를 늘리겠다며 시민의 자기결정권을 침해한 것이다. 신경아 한림대 교수는 “한국은 2000년대 초반까지 40년 가까이 출산억제정책 일환으로 낙태를 암묵적으로 허용해왔고, 남아선호사상에 따른 태아성감별 낙태도 흔했는데 갑자기 정책적 근거 없이 국민한테 선전포고를 한 격이었다”고 말했다. 한국보건사회연구원(보사연)이 최근 발표한 2021년 낙태 실태조사 결과를 보면 만 15~49세 여성 7.1%가 임신중단 경험이 있으며, 2명 중 1명(50.8%)은 비혼이었다. 보사연은 낙태가 음지에서 이뤄지면서 낙태 경험자의 7.7%가 낙태약 동일성분을 편법처방 받거나 불법유통 약물을 사용하는 문제가 발생하고 있다고 지적한다. 신 교수는 “개신교를 국교로 하는 미국에서 연방대법원이 낙태권 보장을 폐기하는 퇴행적 결정을 내놨지만 한국은 종교가 다양해 상황이 다르다”면서 “정치권이 일부 보수 기독교계 눈치를 보느라 국민을 방치하고 있다”고 말했다.<br /><br />달라지는 사회를 제도가 뒷받침하지 못하는 입법 지연은 이뿐만이 아니다. 2004년 제정된 건강가정기본법은 혼인·혈연·입양으로 구성된 전통적 가족을 정부가 지원하는 데 초점이 맞춰져있다. 결혼제도 해체로 인해 증가세인 한부모가족이나 조손가족, 동거커플을 비롯한 다양한 가족형태는 포함돼있지 않다. 지난해 개정이 추진됐으나 보수 기독교계에서 가족제도가 붕괴할 것이라며 반발해 불발됐다. 신 교수는 “보수적인 50~60대 중산층 퇴직 남성들 면담조사 결과, 집값 폭등으로 커진 자녀 결혼비용 대느라 노후자금을 소진하고 싶지 않으니 자녀세대가 차라리 동거라도 해 독립하면 좋겠다는 게 솔직한 심정이더라”면서 “법적 혼인 없이도 청년들이 함께 살고, 임신과 출산을 선택할 수 있도록 정부가 지원을 강화하는 게 결국 저출생 해결책”이라고 말했다.</div><br /><br /><br /><p class="art_txt"><font color="#ff2a00">▼</font><br />최민영 논설위원 min@khan.kr<br /></p>                    </div>
                     <!-- // 기사 본문 -->
 
                     <!-- 박수 지수 -->
                     <div class="clapping_wrap">
-                        <a class="clapping" href="javascript:;" onclick="set_like_article(this);" data-art_id="202207211024001" data-sec_id="940100" data-med_id="khan" data-uniqID="63a1f9bb9eff8" data-function_name="set_like" title="박수치기">
+                        <a class="clapping" href="javascript:;" onclick="set_like_article(this);" data-art_id="202207211024001" data-sec_id="940100" data-med_id="khan" data-uniqID="63ac9c120c20c" data-function_name="set_like" title="박수치기"
+                           data-event-category="m_article_플랫기사" data-event-action="article body_박수" data-event-label="3">
                             <span class="ico_clap"></span>
                             <span class="count">0</span>
                         </a>
@@ -884,9 +900,12 @@
 					<!-- 검색 키워드 -->
 					<div class="sch_kw">
 						<div class="list">
-							<a href="/search.html?search_name=%EB%B0%B1%EB%9E%98%EC%8B%9C"><span>백래시</span></a>
-							<a href="/search.html?search_name=%EC%8B%A0%EA%B2%BD%EC%95%84+%EA%B5%90%EC%88%98"><span>신경아 교수</span></a>
-							<a href="/search.html?search_name=%ED%92%80%EB%BF%8C%EB%A6%AC+%EC%97%AC%EC%84%B1%EC%9A%B4%EB%8F%99"><span>풀뿌리 여성운동</span></a>
+							<a href="/search.html?search_name=%EB%B0%B1%EB%9E%98%EC%8B%9C"
+                               data-event-category="m_article_플랫기사" data-event-action="article body_키워드" data-event-label="백래시"><span>백래시</span></a>
+							<a href="/search.html?search_name=%EC%8B%A0%EA%B2%BD%EC%95%84+%EA%B5%90%EC%88%98"
+                               data-event-category="m_article_플랫기사" data-event-action="article body_키워드" data-event-label="신경아 교수"><span>신경아 교수</span></a>
+							<a href="/search.html?search_name=%ED%92%80%EB%BF%8C%EB%A6%AC+%EC%97%AC%EC%84%B1%EC%9A%B4%EB%8F%99"
+                               data-event-category="m_article_플랫기사" data-event-action="article body_키워드" data-event-label="풀뿌리 여성운동"><span>풀뿌리 여성운동</span></a>
 						</div>
 					</div>
 					<!-- // 검색 키워드 -->
@@ -1004,91 +1023,97 @@
                         <h3><em>플랫 기사 더보기</em></h3>
                         <ul class="issue_reco_list">
                             <li>
-                                <a href="https://m.khan.co.kr/culture/culture-general/article/202212201525001" title="‘어린 소녀들’에겐 가혹했던 15년, 소녀시대·카라의 뭉클한 귀환">
+                                <a href="https://m.khan.co.kr/national/labor/article/202212281752001" title="“일하기 싫다”···어쩌면 페미니즘 선언일지도?"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="1_“일하기 싫다”···어쩌면 페미니즘 선언일지도?">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/20/news-p.v1.20221220.22d278b23fb54517a10d84e042372f41_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/20/news-p.v1.20221220.22d278b23fb54517a10d84e042372f41_P1.jpg" alt="‘어린 소녀들’에겐 가혹했던 15년, 소녀시대·카라의 뭉클한 귀환" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/28/news-p.v1.20221228.6104ef9257484bf183f62216d42d2029_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/28/news-p.v1.20221228.6104ef9257484bf183f62216d42d2029_P1.jpg" alt="“일하기 싫다”···어쩌면 페미니즘 선언일지도?" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">‘어린 소녀들’에겐 가혹했던 15년, 소녀시대·카라의 뭉클한 귀환</p>
-                                            <p class="date">2022.12.20</p>
+                                            <p class="title">“일하기 싫다”···어쩌면 페미니즘 선언일지도?</p>
+                                            <p class="date">2022.12.28</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://m.khan.co.kr/opinion/column/article/202212201058001" title="끝없이 거꾸로 가면서 ‘저출생 위기’ 언급하지 말라">
+                                <a href="https://m.khan.co.kr/culture/culture-general/article/202212281128001" title="‘월클’이 된 핑크퐁 뒤엔 ‘문화감수성’ 살피는 전담팀이 있다"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="2_‘월클’이 된 핑크퐁 뒤엔 ‘문화감수성’ 살피는 전담팀이 있다">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/20/news-p.v1.20221216.6b7131304c2749779aeef164f5dd1e33_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/20/news-p.v1.20221216.6b7131304c2749779aeef164f5dd1e33_P1.jpg" alt="끝없이 거꾸로 가면서 ‘저출생 위기’ 언급하지 말라" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/28/news-p.v1.20221228.f51ebffadc9b4f3f93e333fc2d255765_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/28/news-p.v1.20221228.f51ebffadc9b4f3f93e333fc2d255765_P1.jpg" alt="‘월클’이 된 핑크퐁 뒤엔 ‘문화감수성’ 살피는 전담팀이 있다" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">끝없이 거꾸로 가면서 ‘저출생 위기’ 언급하지 말라</p>
-                                            <p class="date">2022.12.20</p>
+                                            <p class="title">‘월클’이 된 핑크퐁 뒤엔 ‘문화감수성’ 살피는 전담팀이 있다</p>
+                                            <p class="date">2022.12.28</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://m.khan.co.kr/national/gender/article/202212191416001" title="2022년 젠더뉴스 연말결산">
+                                <a href="https://m.khan.co.kr/national/national-general/article/202212271557001" title="내 편이 있다는 감각"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="3_내 편이 있다는 감각">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/19/news-p.v1.20221216.27817863e4564181a07cda6b05b85d91_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/19/news-p.v1.20221216.27817863e4564181a07cda6b05b85d91_P1.jpg" alt="2022년 젠더뉴스 연말결산" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/27/news-p.v1.20221227.fb08596e96ad401e9b7049f77d6aa80d_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/27/news-p.v1.20221227.fb08596e96ad401e9b7049f77d6aa80d_P1.jpg" alt="내 편이 있다는 감각" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">2022년 젠더뉴스 연말결산</p>
-                                            <p class="date">2022.12.19</p>
+                                            <p class="title">내 편이 있다는 감각</p>
+                                            <p class="date">2022.12.27</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://m.khan.co.kr/national/national-general/article/202212190955001" title="먹는 임신중단약 ‘미프진’, 국내 도입 무산됐다">
+                                <a href="https://m.khan.co.kr/culture/book/article/202212271151001" title="젠더고고학, 수컷다움의 편견 속에 ‘파묻힌 여성’을 발굴하다"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="4_젠더고고학, 수컷다움의 편견 속에 ‘파묻힌 여성’을 발굴하다">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/19/news-p.v1.20221216.15956a01267b40b7864015815c11f66b_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/19/news-p.v1.20221216.15956a01267b40b7864015815c11f66b_P1.jpg" alt="먹는 임신중단약 ‘미프진’, 국내 도입 무산됐다" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/27/news-p.v1.20221227.a173324984ac418a8c7347610738d763_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/27/news-p.v1.20221227.a173324984ac418a8c7347610738d763_P1.png" alt="젠더고고학, 수컷다움의 편견 속에 ‘파묻힌 여성’을 발굴하다" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">먹는 임신중단약 ‘미프진’, 국내 도입 무산됐다</p>
-                                            <p class="date">2022.12.19</p>
+                                            <p class="title">젠더고고학, 수컷다움의 편견 속에 ‘파묻힌 여성’을 발굴하다</p>
+                                            <p class="date">2022.12.27</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://m.khan.co.kr/national/national-general/article/202212161433001" title="섬진강 도깨비 마을의 ‘해피 바이러스’는 홍일점 핑크 도깨비?">
+                                <a href="https://m.khan.co.kr/national/national-general/article/202212261520001" title="스무살 부모의 ‘영아살해’… 검찰 보도자료엔 담기지 못한 이야기들"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="5_스무살 부모의 ‘영아살해’… 검찰 보도자료엔 담기지 못한 이야기들">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/16/news-p.v1.20221214.bdad5325f3984e5cba0dd47c05c7ac44_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/16/news-p.v1.20221214.bdad5325f3984e5cba0dd47c05c7ac44_P1.jpg" alt="섬진강 도깨비 마을의 ‘해피 바이러스’는 홍일점 핑크 도깨비?" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/26/news-p.v1.20221226.5cc3c920dbdd4704b13ba972bb38e478_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/26/news-p.v1.20221226.5cc3c920dbdd4704b13ba972bb38e478_P1.jpg" alt="스무살 부모의 ‘영아살해’… 검찰 보도자료엔 담기지 못한 이야기들" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">섬진강 도깨비 마을의 ‘해피 바이러스’는 홍일점 핑크 도깨비?</p>
-                                            <p class="date">2022.12.16</p>
+                                            <p class="title">스무살 부모의 ‘영아살해’… 검찰 보도자료엔 담기지 못한 이야기들</p>
+                                            <p class="date">2022.12.26</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://m.khan.co.kr/opinion/column/article/202212161016011" title="배를 내밀지 못하는 이들">
+                                <a href="https://m.khan.co.kr/opinion/column/article/202212261046011" title="“왜 나를 소아성애자에게 입양보냈나요?” 그 여자는 화가 난다"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="6_“왜 나를 소아성애자에게 입양보냈나요?” 그 여자는 화가 난다">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/16/news-p.v1.20221215.1ef1251f1ec84cf0b07a9421ac9e3142_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/16/news-p.v1.20221215.1ef1251f1ec84cf0b07a9421ac9e3142_P1.jpg" alt="배를 내밀지 못하는 이들" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/26/news-p.v1.20221222.e2c6ca76c3824d9092280456c8dc8cb7_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/26/news-p.v1.20221222.e2c6ca76c3824d9092280456c8dc8cb7_P1.jpg" alt="“왜 나를 소아성애자에게 입양보냈나요?” 그 여자는 화가 난다" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">배를 내밀지 못하는 이들</p>
-                                            <p class="date">2022.12.16</p>
+                                            <p class="title">“왜 나를 소아성애자에게 입양보냈나요?” 그 여자는 화가 난다</p>
+                                            <p class="date">2022.12.26</p>
                                         </div>
                                     </div>
                                 </a>
@@ -1104,36 +1129,46 @@
                         <div class="sec-tit">플랫 시리즈 모음.zip</div>
                         <ul class="keys">
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as316" class="keys-btn" target="_blank">플랫브리핑</a>
+                                <a href="https://www.khan.co.kr/series/articles/as316" class="keys-btn" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_진행중" data-event-label="플랫브리핑">플랫브리핑</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as297" class="keys-btn" target="_blank">출근하는 여자들</a>
+                                <a href="https://www.khan.co.kr/series/articles/as297" class="keys-btn" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_진행중" data-event-label="출근하는 여자들">출근하는 여자들</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as317" class="keys-btn" target="_blank">퇴근후 만나요</a>
+                                <a href="https://www.khan.co.kr/series/articles/as317" class="keys-btn" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_진행중" data-event-label="퇴근후 만나요">퇴근후 만나요</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as305" class="keys-btn" target="_blank">이진주의 finterview</a>
+                                <a href="https://www.khan.co.kr/series/articles/as305" class="keys-btn" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_진행중" data-event-label="이진주의 finterview">이진주의 finterview</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as313" class="keys-btn" target="_blank">플랫pick</a>
+                                <a href="https://www.khan.co.kr/series/articles/as313" class="keys-btn" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_진행중" data-event-label="플랫pick">플랫pick</a>
                             </li>
                         </ul>
                         <ul class="keys">
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as308" class="keys-btn ended" target="_blank">핀라이트</a>
+                                <a href="https://www.khan.co.kr/series/articles/as308" class="keys-btn ended" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_종료" data-event-label="핀라이트">핀라이트</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as319" class="keys-btn ended" target="_blank">언니들의 플랫한 생활</a>
+                                <a href="https://www.khan.co.kr/series/articles/as319" class="keys-btn ended" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_종료" data-event-label="언니들의 플랫한 생활">언니들의 플랫한 생활</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as320" class="keys-btn ended" target="_blank">여자야구</a>
+                                <a href="https://www.khan.co.kr/series/articles/as320" class="keys-btn ended" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_종료" data-event-label="여자야구">여자야구</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as314" class="keys-btn ended" target="_blank">n번방 그 후</a>
+                                <a href="https://www.khan.co.kr/series/articles/as314" class="keys-btn ended" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_종료" data-event-label="n번방 그 후">n번방 그 후</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as325" class="keys-btn ended" target="_blank">플랫 인터랙티브</a>
+                                <a href="https://www.khan.co.kr/series/articles/as325" class="keys-btn ended" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_종료" data-event-label="플랫 인터랙티브">플랫 인터랙티브</a>
                             </li>
                         </ul>
                     </div>
@@ -1264,7 +1299,7 @@
 
 		<!-- TOP 버튼 -->
 		<div class="btn_area">
-			<button id="btnTopScroll" class="btn_gotop_floating btn_app_chk appuse" onclick="$('html,body').animate({scrollTop:0},300)" data-event-category="m_main_홈tab" data-event-action="플로팅_top버튼" data-event-label="top 이동">
+			<button id="btnTopScroll" class="btn_gotop_floating btn_app_chk appuse" onclick="$('html,body').animate({scrollTop:0},300)" data-event-category="m_article_플랫기사" data-event-action="플로팅_top버튼" data-event-label="top 이동">
 				<span class="ico_gotop"></span>
 			</button>
 		</div>
@@ -1273,10 +1308,13 @@
         <!-- footer(플랫 푸터) -->
         <footer class="footer-flat">
             <div class="site-info">
-                <h1><a href="https://www.khan.co.kr/flat" title="플랫">플랫</a></h1>
+                <h1><a href="https://www.khan.co.kr/flat" title="플랫"
+                       data-event-category="m_article_플랫기사" data-event-action="footer" data-event-label="FLAT">플랫</a></h1>
                 <div class="social">
-                                        <a class="social-ico twitter" href="https://twitter.com/flatflat38" title="플랫팀 트위터 바로가기" target="_blank"><span>플랫팀 트위터 바로가기</span></a>
-                    <a class="social-ico instagram" href="https://www.instagram.com/flatflat38/" title="플랫팀 인스타그램 바로가기" target="_blank"><span>플랫팀 인스타그램 바로가기</span></a>
+                                        <a class="social-ico twitter" href="https://twitter.com/flatflat38" title="플랫팀 트위터 바로가기" target="_blank"
+                       data-event-category="m_article_플랫기사" data-event-action="footer" data-event-label="트위터"><span>플랫팀 트위터 바로가기</span></a>
+                    <a class="social-ico instagram" href="https://www.instagram.com/flatflat38/" title="플랫팀 인스타그램 바로가기" target="_blank"
+                       data-event-category="m_article_플랫기사" data-event-action="footer" data-event-label="인스타그램"><span>플랫팀 인스타그램 바로가기</span></a>
                 </div>               
             </div>
             <div class="f-info">
@@ -1638,9 +1676,9 @@
     <script type="text/javascript" src="//static.khan.co.kr/js/khan/m/_view.js?t=202211031530"></script>
 
 	<script>
-    document.write('<img src="//ad.khan.co.kr/imp/khan_imp.php?dp=0180&t=1671559611" width="0" height="0" alt="imp" style="display:none;">');
-    document.write('<img src="//ad.khan.co.kr/artCnt/khanArt_cnt.php?artid=202207211024001&code=940100&mode=khan&impTp=mobile&t=1671559611" height="0" width="0" style="display:none"  alt="이미지"/>');
-    document.write('<img src="//ad.khan.co.kr/imp/mobile_imp.php?dp=109605&t=1671559611" height="0" width="0" style="display:none"  alt="이미지"/>');
+    document.write('<img src="//ad.khan.co.kr/imp/khan_imp.php?dp=0180&t=1672256529" width="0" height="0" alt="imp" style="display:none;">');
+    document.write('<img src="//ad.khan.co.kr/artCnt/khanArt_cnt.php?artid=202207211024001&code=940100&mode=khan&impTp=mobile&t=1672256530" height="0" width="0" style="display:none"  alt="이미지"/>');
+    document.write('<img src="//ad.khan.co.kr/imp/mobile_imp.php?dp=109605&t=1672256530" height="0" width="0" style="display:none"  alt="이미지"/>');
 	</script>
 
 

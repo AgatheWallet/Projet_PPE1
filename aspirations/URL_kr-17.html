@@ -25,7 +25,6 @@
     <meta property="og:title" content="차별과 혐오를 '페미니즘 논란'으로 만드는 정치인들[플랫]" />
     <meta property="og:description" content="20대 대통령 선거를 앞둔 길목에서 ‘페미니즘’이 차별과 혐오의 언어로 정치권에 소환되고 있다..." />
     <meta property="og:image" content="https://img.khan.co.kr/news/2021/08/05/l_2021080401000541300046161.jpg" />
-    <meta property="fb:app_id" content="2819874668152275" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="차별과 혐오를 '페미니즘 논란'으로 만드는 정치인들[플랫]" />
     <meta name="twitter:description" content="20대 대통령 선거를 앞둔 길목에서 ‘페미니즘’이 차별과 혐오의 언어로 정치권에 소환되고 있다..." />
@@ -123,13 +122,15 @@
         'serialTitle' : '플랫', 
         'wordCount' : '4114', 
         'tag' : '페미니즘, 차별과 배제, 혐오', 
-        'elapsedDay' : '503일', 
+        'elapsedDay' : '511일', 
         'replyCount' : '0', 
         'likeCount' : '1', 
         'loginFlatform' : loginFlatform, 
         'loginId' : loginId, 
         'referrer' : referrerUrl, 
     }];
+
+    var eventCate = "m_article_플랫기사";
     </script>
 
 
@@ -205,7 +206,7 @@
 			<!-- 앱 설치 유도 배너 -->
 			<div class="wrap_app_bnr">
 				<div class="app_bnr_txt">
-					<a href="#" class="app_bnr_btn">
+					<a href="#" class="app_bnr_btn" data-event-category="m_article_플랫기사" data-event-action="header_배너" data-event-label="경향신문 뉴스 앱으로 보기">
 						<span class="ico_app"></span>
 						<p><strong class="tit">경향신문 뉴스</strong> 앱으로 보기</p>
 					</a>
@@ -218,8 +219,10 @@
 				<div class="wrap_tit common-header-title"><h2 class="blind">경향신문</h2></div>
 				<div class="wrap_util">
 					<div class="box_menu_left">
-						<a title="메뉴 열기" onclick="menuBox.toggle();" class="link_corp btn_menu"><span class="blind">메뉴</span></a>
-						<a href="/" title="홈으로 바로가기" class="link_corp btn_home "><span class="blind">홈으로 바로가기</span></a>
+						<a title="메뉴 열기" onclick="menuBox.toggle();" class="link_corp btn_menu"
+                           data-event-category="m_article_플랫기사" data-event-action="header_lnb" data-event-label="lnb 펼침"><span class="blind">메뉴</span></a>
+						<a href="/" title="홈으로 바로가기" class="link_corp btn_home "
+                           data-event-category="m_article_플랫기사" data-event-action="header_제호" data-event-label="경향신문"><span class="blind">홈으로 바로가기</span></a>
 					</div>
 					<div class="box_menu_right">
 
@@ -232,7 +235,8 @@
                             </div>
 						</div>
 
-						<a href="javascript:;" title="댓글" onclick="setPosReply();" class="link_corp btn_reply">
+						<a href="javascript:;" title="댓글" onclick="setPosReply();" class="link_corp btn_reply"
+                           data-event-category="m_article_플랫기사" data-event-action="header_댓글" data-event-label="0">
 							<span class="ico_reply ico">댓글</span>
 							<em></em>
 						</a>
@@ -240,7 +244,7 @@
 							<span class="ico_share ico">공유하기</span>
 						</a>
 
-						<a class="link_corp btn_more" title="더보기">
+						<a class="link_corp btn_more" title="더보기" data-event-category="m_article_플랫기사" data-event-action="header_더보기" data-event-label="더보기">
 							<span class="ico_more ico" onclick="submenuBox();">더보기</span>
 							<span class="more_layer">
 								<span class="control">
@@ -248,7 +252,8 @@
 									<strong>가</strong>
 									<button class="plus" data-font_type="plus"></button>
 								</span>
-								<button class="bookmark" onclick="setbookmark(this);" data-art_id="202108051401011" data-bookmark_name="bookmark_khan" data-med_id="khan">북마크</button>
+								<button class="bookmark" onclick="setbookmark(this);" data-art_id="202108051401011" data-bookmark_name="bookmark_khan" data-med_id="khan"
+                                        data-event-category="m_article_플랫기사" data-event-action="header_더보기" data-event-label="북마크 설정">북마크</button>
 															</span>
 						</a>
 					</div>
@@ -459,49 +464,58 @@
 				<div class="tit_sns_share">공유하기</div>
 				<ul class="list_sns">
 					<li>
-						<a class="link_sns" href="javascript:;" data-social="facebook" title="페이스북 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="페이스북">
+						<a class="link_sns" href="javascript:;" data-social="facebook" title="페이스북 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="페이스북">
 							<span class="img_sns_ico ico_sns_facebook"></span>페이스북
 						</a>
 					</li>
 					<li>
-						<a class="link_sns" href="javascript:;" data-social="twitter" title="트위터 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="트위터">
+						<a class="link_sns" href="javascript:;" data-social="twitter" title="트위터 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="트위터">
 							<span class="img_sns_ico ico_sns_twitter"></span>트위터
 						</a>
 					</li>
 					<li>
-						<a id="kakaotalk" class="link_sns find_kakaotalk" href="javascript:;" data-social="kakaotalk" title="카카오톡 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="카카오톡">
+						<a id="kakaotalk" class="link_sns find_kakaotalk" href="javascript:;" data-social="kakaotalk" title="카카오톡 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="카카오톡">
 							<span class="img_sns_ico ico_sns_kakaotalk"></span>카카오톡
 						</a>
 					</li>
 					<li>
-						<a class="link_sns" href="javascript:;" data-social="kakaostory" title="카카오스토리 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="카카오스토리">
+						<a class="link_sns" href="javascript:;" data-social="kakaostory" title="카카오스토리 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="카카오스토리">
 							<span class="img_sns_ico ico_sns_kakaostory"></span>카카오스토리
 						</a>
 					</li>
 					<li>
-						<a class="link_sns" href="javascript:;" data-social="naver_band" title="네이버밴드 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="밴드">
+						<a class="link_sns" href="javascript:;" data-social="naver_band" title="네이버밴드 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="밴드">
 							<span class="img_sns_ico ico_sns_naverband"></span>네이버밴드
 						</a>
 					</li>
 					<li>
-						<a class="link_sns" href="javascript:;" data-social="naver_blog" title="네이버블로그 공유" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="블로그">
+						<a class="link_sns" href="javascript:;" data-social="naver_blog" title="네이버블로그 공유" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="블로그">
 							<span class="img_sns_ico ico_sns_naverblog"></span>네이버블로그
 						</a>
 					</li>
 					<li>
-						<a class="link_sns sns_mail" data-social="mail" data-art_id="202012152116025" title="메일 보내기" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="이메일">
+						<a class="link_sns sns_mail" data-social="mail" data-art_id="202012152116025" title="메일 보내기" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="이메일">
 							<span class="img_sns_ico ico_sns_mail"></span>메일 보내기
 						</a>
 					</li>
 				</ul>
 				<div class="area_urlcopy area_urlcopy_inapp">
 					<div>
-						<a href="javascript:;" class="area_urlcopy_inappbtn btnCopyClip" data-clipboard-action="copy" data-clipboard-target=".clipURL" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="URL 복사">URL복사</a>
+						<a href="javascript:;" class="area_urlcopy_inappbtn btnCopyClip" data-clipboard-action="copy" data-clipboard-target=".clipURL" 
+                           data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="URL 복사">URL복사</a>
 						<a id="clipboard" href="" class="area_urlcopy_url clipURL" onclick="return false;"></a>
 					</div>
 				</div>
 				<div class="area_urlcopy_msg txtCopyClip" style="display:none;">URL을 길게 누르면 복사하실 수 있습니다.</div>
-				<a href="javascript:;" class="btn_close" onclick="$('#moreSns').hide();" title="SNS 공유 더보기 닫기" data-event-category="m_main_홈tab" data-event-action="공유하기 팝업" data-event-label="닫기">
+				<a href="javascript:;" class="btn_close" onclick="$('#moreSns').hide();" title="SNS 공유 더보기 닫기" 
+                   data-event-category="m_article_플랫기사" data-event-action="header_공유하기 팝업" data-event-label="닫기">
 					<span class="blind ico_close">닫기</span>
 				</a>
 			</div>
@@ -837,7 +851,8 @@
 
 
                             <div class="caption">
-                                <a class="name" href="https://www.khan.co.kr/reporter_article.html?id=584" title="플랫팀(새창)" target="_blank">
+                                <a class="name" href="https://www.khan.co.kr/reporter_article.html?id=584" title="플랫팀(새창)" target="_blank"
+                                    data-event-category="m_article_플랫기사" data-event-action="article header_기자명" data-event-label="플랫팀">
                                     <strong class="line_clamp">플랫팀 여성 서사 아카이브</strong>
                                 </a>
                             </div>
@@ -892,7 +907,8 @@
 
                     <!-- 박수 지수 -->
                     <div class="clapping_wrap">
-                        <a class="clapping" href="javascript:;" onclick="set_like_article(this);" data-art_id="202108051401011" data-sec_id="910100" data-med_id="khan" data-uniqID="63a1f9c82bec6" data-function_name="set_like" title="박수치기">
+                        <a class="clapping" href="javascript:;" onclick="set_like_article(this);" data-art_id="202108051401011" data-sec_id="910100" data-med_id="khan" data-uniqID="63ac9c2140970" data-function_name="set_like" title="박수치기"
+                           data-event-category="m_article_플랫기사" data-event-action="article body_박수" data-event-label="1">
                             <span class="ico_clap"></span>
                             <span class="count">0</span>
                         </a>
@@ -902,9 +918,12 @@
 					<!-- 검색 키워드 -->
 					<div class="sch_kw">
 						<div class="list">
-							<a href="/search.html?search_name=%ED%8E%98%EB%AF%B8%EB%8B%88%EC%A6%98"><span>페미니즘</span></a>
-							<a href="/search.html?search_name=%EC%B0%A8%EB%B3%84%EA%B3%BC+%EB%B0%B0%EC%A0%9C"><span>차별과 배제</span></a>
-							<a href="/search.html?search_name=%ED%98%90%EC%98%A4"><span>혐오</span></a>
+							<a href="/search.html?search_name=%ED%8E%98%EB%AF%B8%EB%8B%88%EC%A6%98"
+                               data-event-category="m_article_플랫기사" data-event-action="article body_키워드" data-event-label="페미니즘"><span>페미니즘</span></a>
+							<a href="/search.html?search_name=%EC%B0%A8%EB%B3%84%EA%B3%BC+%EB%B0%B0%EC%A0%9C"
+                               data-event-category="m_article_플랫기사" data-event-action="article body_키워드" data-event-label="차별과 배제"><span>차별과 배제</span></a>
+							<a href="/search.html?search_name=%ED%98%90%EC%98%A4"
+                               data-event-category="m_article_플랫기사" data-event-action="article body_키워드" data-event-label="혐오"><span>혐오</span></a>
 						</div>
 					</div>
 					<!-- // 검색 키워드 -->
@@ -1022,91 +1041,97 @@
                         <h3><em>플랫 기사 더보기</em></h3>
                         <ul class="issue_reco_list">
                             <li>
-                                <a href="https://m.khan.co.kr/culture/culture-general/article/202212201525001" title="‘어린 소녀들’에겐 가혹했던 15년, 소녀시대·카라의 뭉클한 귀환">
+                                <a href="https://m.khan.co.kr/national/labor/article/202212281752001" title="“일하기 싫다”···어쩌면 페미니즘 선언일지도?"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="1_“일하기 싫다”···어쩌면 페미니즘 선언일지도?">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/20/news-p.v1.20221220.22d278b23fb54517a10d84e042372f41_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/20/news-p.v1.20221220.22d278b23fb54517a10d84e042372f41_P1.jpg" alt="‘어린 소녀들’에겐 가혹했던 15년, 소녀시대·카라의 뭉클한 귀환" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/28/news-p.v1.20221228.6104ef9257484bf183f62216d42d2029_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/28/news-p.v1.20221228.6104ef9257484bf183f62216d42d2029_P1.jpg" alt="“일하기 싫다”···어쩌면 페미니즘 선언일지도?" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">‘어린 소녀들’에겐 가혹했던 15년, 소녀시대·카라의 뭉클한 귀환</p>
-                                            <p class="date">2022.12.20</p>
+                                            <p class="title">“일하기 싫다”···어쩌면 페미니즘 선언일지도?</p>
+                                            <p class="date">2022.12.28</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://m.khan.co.kr/opinion/column/article/202212201058001" title="끝없이 거꾸로 가면서 ‘저출생 위기’ 언급하지 말라">
+                                <a href="https://m.khan.co.kr/culture/culture-general/article/202212281128001" title="‘월클’이 된 핑크퐁 뒤엔 ‘문화감수성’ 살피는 전담팀이 있다"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="2_‘월클’이 된 핑크퐁 뒤엔 ‘문화감수성’ 살피는 전담팀이 있다">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/20/news-p.v1.20221216.6b7131304c2749779aeef164f5dd1e33_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/20/news-p.v1.20221216.6b7131304c2749779aeef164f5dd1e33_P1.jpg" alt="끝없이 거꾸로 가면서 ‘저출생 위기’ 언급하지 말라" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/28/news-p.v1.20221228.f51ebffadc9b4f3f93e333fc2d255765_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/28/news-p.v1.20221228.f51ebffadc9b4f3f93e333fc2d255765_P1.jpg" alt="‘월클’이 된 핑크퐁 뒤엔 ‘문화감수성’ 살피는 전담팀이 있다" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">끝없이 거꾸로 가면서 ‘저출생 위기’ 언급하지 말라</p>
-                                            <p class="date">2022.12.20</p>
+                                            <p class="title">‘월클’이 된 핑크퐁 뒤엔 ‘문화감수성’ 살피는 전담팀이 있다</p>
+                                            <p class="date">2022.12.28</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://m.khan.co.kr/national/gender/article/202212191416001" title="2022년 젠더뉴스 연말결산">
+                                <a href="https://m.khan.co.kr/national/national-general/article/202212271557001" title="내 편이 있다는 감각"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="3_내 편이 있다는 감각">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/19/news-p.v1.20221216.27817863e4564181a07cda6b05b85d91_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/19/news-p.v1.20221216.27817863e4564181a07cda6b05b85d91_P1.jpg" alt="2022년 젠더뉴스 연말결산" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/27/news-p.v1.20221227.fb08596e96ad401e9b7049f77d6aa80d_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/27/news-p.v1.20221227.fb08596e96ad401e9b7049f77d6aa80d_P1.jpg" alt="내 편이 있다는 감각" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">2022년 젠더뉴스 연말결산</p>
-                                            <p class="date">2022.12.19</p>
+                                            <p class="title">내 편이 있다는 감각</p>
+                                            <p class="date">2022.12.27</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://m.khan.co.kr/national/national-general/article/202212190955001" title="먹는 임신중단약 ‘미프진’, 국내 도입 무산됐다">
+                                <a href="https://m.khan.co.kr/culture/book/article/202212271151001" title="젠더고고학, 수컷다움의 편견 속에 ‘파묻힌 여성’을 발굴하다"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="4_젠더고고학, 수컷다움의 편견 속에 ‘파묻힌 여성’을 발굴하다">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/19/news-p.v1.20221216.15956a01267b40b7864015815c11f66b_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/19/news-p.v1.20221216.15956a01267b40b7864015815c11f66b_P1.jpg" alt="먹는 임신중단약 ‘미프진’, 국내 도입 무산됐다" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/27/news-p.v1.20221227.a173324984ac418a8c7347610738d763_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/27/news-p.v1.20221227.a173324984ac418a8c7347610738d763_P1.png" alt="젠더고고학, 수컷다움의 편견 속에 ‘파묻힌 여성’을 발굴하다" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">먹는 임신중단약 ‘미프진’, 국내 도입 무산됐다</p>
-                                            <p class="date">2022.12.19</p>
+                                            <p class="title">젠더고고학, 수컷다움의 편견 속에 ‘파묻힌 여성’을 발굴하다</p>
+                                            <p class="date">2022.12.27</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://m.khan.co.kr/national/national-general/article/202212161433001" title="섬진강 도깨비 마을의 ‘해피 바이러스’는 홍일점 핑크 도깨비?">
+                                <a href="https://m.khan.co.kr/national/national-general/article/202212261520001" title="스무살 부모의 ‘영아살해’… 검찰 보도자료엔 담기지 못한 이야기들"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="5_스무살 부모의 ‘영아살해’… 검찰 보도자료엔 담기지 못한 이야기들">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/16/news-p.v1.20221214.bdad5325f3984e5cba0dd47c05c7ac44_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/16/news-p.v1.20221214.bdad5325f3984e5cba0dd47c05c7ac44_P1.jpg" alt="섬진강 도깨비 마을의 ‘해피 바이러스’는 홍일점 핑크 도깨비?" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/26/news-p.v1.20221226.5cc3c920dbdd4704b13ba972bb38e478_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/26/news-p.v1.20221226.5cc3c920dbdd4704b13ba972bb38e478_P1.jpg" alt="스무살 부모의 ‘영아살해’… 검찰 보도자료엔 담기지 못한 이야기들" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">섬진강 도깨비 마을의 ‘해피 바이러스’는 홍일점 핑크 도깨비?</p>
-                                            <p class="date">2022.12.16</p>
+                                            <p class="title">스무살 부모의 ‘영아살해’… 검찰 보도자료엔 담기지 못한 이야기들</p>
+                                            <p class="date">2022.12.26</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://m.khan.co.kr/opinion/column/article/202212161016011" title="배를 내밀지 못하는 이들">
+                                <a href="https://m.khan.co.kr/opinion/column/article/202212261046011" title="“왜 나를 소아성애자에게 입양보냈나요?” 그 여자는 화가 난다"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 기사 더보기_썸네일" data-event-label="6_“왜 나를 소아성애자에게 입양보냈나요?” 그 여자는 화가 난다">
                                     <div class="wrap_psrelative">
 										<picture>
-											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/16/news-p.v1.20221215.1ef1251f1ec84cf0b07a9421ac9e3142_P1.webp" loading="lazy">
-											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/16/news-p.v1.20221215.1ef1251f1ec84cf0b07a9421ac9e3142_P1.jpg" alt="배를 내밀지 못하는 이들" loading="lazy">
+											<source type="image/webp" srcset="https://img.khan.co.kr/news/2022/12/26/news-p.v1.20221222.e2c6ca76c3824d9092280456c8dc8cb7_P1.webp" loading="lazy">
+											<img class="thumb" src="https://img.khan.co.kr/news/2022/12/26/news-p.v1.20221222.e2c6ca76c3824d9092280456c8dc8cb7_P1.jpg" alt="“왜 나를 소아성애자에게 입양보냈나요?” 그 여자는 화가 난다" loading="lazy">
 										</picture>
                                         <div class="cover-shadow"></div>
                                         <div class="reco_txt">
-                                            <p class="title">배를 내밀지 못하는 이들</p>
-                                            <p class="date">2022.12.16</p>
+                                            <p class="title">“왜 나를 소아성애자에게 입양보냈나요?” 그 여자는 화가 난다</p>
+                                            <p class="date">2022.12.26</p>
                                         </div>
                                     </div>
                                 </a>
@@ -1122,36 +1147,46 @@
                         <div class="sec-tit">플랫 시리즈 모음.zip</div>
                         <ul class="keys">
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as316" class="keys-btn" target="_blank">플랫브리핑</a>
+                                <a href="https://www.khan.co.kr/series/articles/as316" class="keys-btn" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_진행중" data-event-label="플랫브리핑">플랫브리핑</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as297" class="keys-btn" target="_blank">출근하는 여자들</a>
+                                <a href="https://www.khan.co.kr/series/articles/as297" class="keys-btn" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_진행중" data-event-label="출근하는 여자들">출근하는 여자들</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as317" class="keys-btn" target="_blank">퇴근후 만나요</a>
+                                <a href="https://www.khan.co.kr/series/articles/as317" class="keys-btn" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_진행중" data-event-label="퇴근후 만나요">퇴근후 만나요</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as305" class="keys-btn" target="_blank">이진주의 finterview</a>
+                                <a href="https://www.khan.co.kr/series/articles/as305" class="keys-btn" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_진행중" data-event-label="이진주의 finterview">이진주의 finterview</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as313" class="keys-btn" target="_blank">플랫pick</a>
+                                <a href="https://www.khan.co.kr/series/articles/as313" class="keys-btn" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_진행중" data-event-label="플랫pick">플랫pick</a>
                             </li>
                         </ul>
                         <ul class="keys">
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as308" class="keys-btn ended" target="_blank">핀라이트</a>
+                                <a href="https://www.khan.co.kr/series/articles/as308" class="keys-btn ended" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_종료" data-event-label="핀라이트">핀라이트</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as319" class="keys-btn ended" target="_blank">언니들의 플랫한 생활</a>
+                                <a href="https://www.khan.co.kr/series/articles/as319" class="keys-btn ended" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_종료" data-event-label="언니들의 플랫한 생활">언니들의 플랫한 생활</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as320" class="keys-btn ended" target="_blank">여자야구</a>
+                                <a href="https://www.khan.co.kr/series/articles/as320" class="keys-btn ended" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_종료" data-event-label="여자야구">여자야구</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as314" class="keys-btn ended" target="_blank">n번방 그 후</a>
+                                <a href="https://www.khan.co.kr/series/articles/as314" class="keys-btn ended" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_종료" data-event-label="n번방 그 후">n번방 그 후</a>
                             </li>
                             <li>
-                                <a href="https://www.khan.co.kr/series/articles/as325" class="keys-btn ended" target="_blank">플랫 인터랙티브</a>
+                                <a href="https://www.khan.co.kr/series/articles/as325" class="keys-btn ended" target="_blank"
+                                   data-event-category="m_article_플랫기사" data-event-action="플랫 시리즈 모음.zip_종료" data-event-label="플랫 인터랙티브">플랫 인터랙티브</a>
                             </li>
                         </ul>
                     </div>
@@ -1282,7 +1317,7 @@
 
 		<!-- TOP 버튼 -->
 		<div class="btn_area">
-			<button id="btnTopScroll" class="btn_gotop_floating btn_app_chk appuse" onclick="$('html,body').animate({scrollTop:0},300)" data-event-category="m_main_홈tab" data-event-action="플로팅_top버튼" data-event-label="top 이동">
+			<button id="btnTopScroll" class="btn_gotop_floating btn_app_chk appuse" onclick="$('html,body').animate({scrollTop:0},300)" data-event-category="m_article_플랫기사" data-event-action="플로팅_top버튼" data-event-label="top 이동">
 				<span class="ico_gotop"></span>
 			</button>
 		</div>
@@ -1291,10 +1326,13 @@
         <!-- footer(플랫 푸터) -->
         <footer class="footer-flat">
             <div class="site-info">
-                <h1><a href="https://www.khan.co.kr/flat" title="플랫">플랫</a></h1>
+                <h1><a href="https://www.khan.co.kr/flat" title="플랫"
+                       data-event-category="m_article_플랫기사" data-event-action="footer" data-event-label="FLAT">플랫</a></h1>
                 <div class="social">
-                                        <a class="social-ico twitter" href="https://twitter.com/flatflat38" title="플랫팀 트위터 바로가기" target="_blank"><span>플랫팀 트위터 바로가기</span></a>
-                    <a class="social-ico instagram" href="https://www.instagram.com/flatflat38/" title="플랫팀 인스타그램 바로가기" target="_blank"><span>플랫팀 인스타그램 바로가기</span></a>
+                                        <a class="social-ico twitter" href="https://twitter.com/flatflat38" title="플랫팀 트위터 바로가기" target="_blank"
+                       data-event-category="m_article_플랫기사" data-event-action="footer" data-event-label="트위터"><span>플랫팀 트위터 바로가기</span></a>
+                    <a class="social-ico instagram" href="https://www.instagram.com/flatflat38/" title="플랫팀 인스타그램 바로가기" target="_blank"
+                       data-event-category="m_article_플랫기사" data-event-action="footer" data-event-label="인스타그램"><span>플랫팀 인스타그램 바로가기</span></a>
                 </div>               
             </div>
             <div class="f-info">
@@ -1656,9 +1694,9 @@
     <script type="text/javascript" src="//static.khan.co.kr/js/khan/m/_view.js?t=202211031530"></script>
 
 	<script>
-    document.write('<img src="//ad.khan.co.kr/imp/khan_imp.php?dp=0180&t=1671559623" width="0" height="0" alt="imp" style="display:none;">');
-    document.write('<img src="//ad.khan.co.kr/artCnt/khanArt_cnt.php?artid=202108051401011&code=910100&mode=khan&impTp=mobile&t=1671559624" height="0" width="0" style="display:none"  alt="이미지"/>');
-    document.write('<img src="//ad.khan.co.kr/imp/mobile_imp.php?dp=109605&t=1671559624" height="0" width="0" style="display:none"  alt="이미지"/>');
+    document.write('<img src="//ad.khan.co.kr/imp/khan_imp.php?dp=0180&t=1672256544" width="0" height="0" alt="imp" style="display:none;">');
+    document.write('<img src="//ad.khan.co.kr/artCnt/khanArt_cnt.php?artid=202108051401011&code=910100&mode=khan&impTp=mobile&t=1672256545" height="0" width="0" style="display:none"  alt="이미지"/>');
+    document.write('<img src="//ad.khan.co.kr/imp/mobile_imp.php?dp=109605&t=1672256545" height="0" width="0" style="display:none"  alt="이미지"/>');
 	</script>
 
 

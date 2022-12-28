@@ -81,3 +81,17 @@ table {
   align-content: center;
   justify-content: center;
 }
+
+.centre-tableau{
+  width: 10%;
+  text-align: center;
+  align-content: center;
+}
+
+.has-text-right{
+  width: 45%;
+}
+
+.has-text-left{
+  width: 45%;
+}

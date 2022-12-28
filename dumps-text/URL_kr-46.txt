@@ -47,6 +47,7 @@ mbn news
      * 스포츠
      * 연예
      * 생활/건강
+     * 기획/연재
      * 엠픽
      * 데이터M
      * 인기척
@@ -101,7 +102,7 @@ mbn news
    오늘의 이슈픽
 
    IFRAME:
-   https://www.mbn.co.kr/player/videojs/sharevideo.html?clipID=4787495&cpI
+   https://www.mbn.co.kr/player/videojs/sharevideo.html?clipID=4797162&cpI
    D=&autoplay=true&muted=true&site=MPLAY
 
      * 인기영상
