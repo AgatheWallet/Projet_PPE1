@@ -5,6 +5,7 @@
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TPVF9CB
 
    Retour à l’accueil
+     * Journal
      *
      *
      *
@@ -56,17 +57,18 @@
      * Assemblée Nationale
      * Emmanuel Macron
      * Rassemblement National
-     * LREM
+     * Renaissance
      * Nupes
 
    (BUTTON) Voir les sous-sections précedentes (BUTTON) Voir les
    sous-sections suivantes
 
    Dans l’actu
-     * Coupe du monde 2022
      * Guerre en Ukraine
-     * Sorties cinéma
-     * Grève à la SNCF
+     * Mort de Pelé
+     * Covid-19
+     * Ligue 1
+     * Nouvel An
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -369,6 +371,7 @@ Un risque pour braver
      * CGU
      * Protection des données personnelles
      * Gestion des cookies
+     * Supprimer les cookies publicitaires éditeur
      * Nous contacter
 
    Choix de consentement © Copyright 20 Minutes - La fréquentation de

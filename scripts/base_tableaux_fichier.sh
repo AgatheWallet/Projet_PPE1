@@ -83,15 +83,15 @@ while read -r URL; do
 		
 		curl $URL > ./aspirations/$basename-$lineno.html
 		echo "$dump" > ./dumps-text/$basename-$lineno.txt
-		contexte=$(echo "$dump" | egrep -A 1 -B 1 "$mot")
-		echo "$contexte" > ../contextes/$basename-$lineno.txt
+		contexte=$(echo "$dump" | egrep -i -A 1 -B 1 "$mot")
+		echo "$contexte" > ./contextes/$basename-$lineno.txt
 		
-		nb_occ=$(echo "$dump" | egrep -o "$mot" | wc -w)
+		nb_occ=$(echo "$dump" | egrep -io "$mot" | wc -w)
 		
 		dump_continu=$(echo "$dump" | sed ':a;N;$!ba;s/\n\n/§/g')
 		dump_continu=$(echo "$dump_continu" | sed ':a;N;$!ba;s/\n//g')
 		
-		contexte_concordance=$(echo "$dump_continu" | egrep -o "[。.?!…§][^。.?!…§]*$mot[^。.?!…§]*[。.?!…§]")
+		contexte_concordance=$(echo "$dump_continu" | egrep -io "[。.?!…§][^。.?!…§]*$mot[^。.?!…§]*[。.?!…§]")
 		
 		while read -r line
 		do

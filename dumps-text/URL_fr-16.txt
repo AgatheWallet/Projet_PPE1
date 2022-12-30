@@ -3,9 +3,9 @@
    social », une conversation avec Lü Pin Flux des commentaires alternate
    alternate alternate alternate alternate
 
-   [gc-m-fr.svg?a=0] Nos systèmes vont-ils passer l’hiver ? Cartographier
-   la guerre écologique → +20 graphiques, cartes avec toutes les données
-   clefs
+   [gc-m-fr.svg?a=0] À 3466 mètres. Au coeur du Mont Blanc Le premier prix
+   littéraire qui reconnaît chaque année un grand récit européen →
+   découvrez le Prix Grand Continent
 
    (BUTTON) ____________________ (BUTTON) Rechercher
 
@@ -590,6 +590,7 @@ conversation avec Nagham Nawzat
 
      * Anthropologie
      * Arts
+     * Bulletins des élections de l'Union européenne
      * Démographie
      * Doctrines de la Chine de Xi Jinping
      * Droit
@@ -656,6 +657,7 @@ conversation avec Nagham Nawzat
 
      * Anthropologie
      * Arts
+     * Bulletins des élections de l'Union européenne
      * Démographie
      * Doctrines de la Chine de Xi Jinping
      * Droit

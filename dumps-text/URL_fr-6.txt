@@ -38,7 +38,7 @@
    Se connecter (BUTTON) Rechercher sur le site
 
      * TOUTE L'ACTU
-     * L'atelier des rêves
+     * Podcasts
      * Noël
      * Edition Abonnées
      * BONS PLANS
@@ -226,7 +226,7 @@
                o Horoscope Saint Valentin
                o Calcul ascendant
           + Horoscope Chinois
-               o Horoscope chinois 2022
+               o Horoscope chinois 2023
                o Horoscope chinois du jour
                o Horoscope chinois de la semaine
                o Caractère des signes chinois
@@ -267,7 +267,6 @@
           + Famille
           + Tests & Quiz Maman
      * TESTS & QUIZ
-     * LAURY THILLEMAN BY ELLE
      * NEWSLETTERS
      * PODCASTS
      * J'offre ELLE
@@ -391,51 +390,49 @@ Une redéfinition des codes depuis #MeToo
 Les + populaires Société
 
      * 1.
-       Édition abonnées
-       « Avant, je ne tenais pas debout une minute, maintenant je cours
-       après le métro » : l’incroyable histoire de Mathilde
+       En images. « Le blizzard du siècle » : Les photos impressionnantes
+       de la tempête glaciale qui touche les États-Unis
      * 2.
        Édition abonnées
-       Qu'est-ce que la méthode « bisou », qui permet d'en finir avec la
-       surconsommation ?
+       En images. Présidentielle, Ukraine, Elizabeth II…Les photos les
+       plus marquantes de 2022
      * 3.
-       Bébés congelés : la mort n'est « pas d'origine naturelle » selon le
-       parquet
+       20 citations originales pour présenter ses vœux
      * 4.
-       Ary Abittan : mis en examen pour viol, l'acteur a été confronté à
-       sa plaignante
+       Ce que l’on sait de l’éviction éclair de Marie Lajus, préfète
+       d’Indre-et-Loire
      * 5.
-       Jean-Marc Morandini condamné à un an de prison avec sursis pour
-       corruption de mineurs
+       L'avocat de Sébastien Raoult, étudiant français détenu au Maroc,
+       saisit le Comité contre la torture
      * 6.
-       Maltraitance infantile : dans l’Aube, un bébé de 11 mois retrouvé
-       en coma éthylique
+       Une joueuse d'échecs sans hijab provoque la colère de la fédération
+       iranienne
      * 7.
-       Carrière, vie de famille, sexisme… deux sportives de haut niveau
-       témoignent
+       Chèque énergie bois : comment obtenir cette aide financière
+       exceptionnelle
      * 8.
-       Nouvelle-Zélande : des parents refusent du « sang de vacciné » pour
-       leur bébé malade
+       Le gouvernement élargi l’éligibilité au bonus vélo électrique pour
+       2023
 
 Toute l'actu Société
 
-     * Augmentation du prix du Pass navigo : voilà combien vous allez
-       débourser en 2023 Augmentation du prix du Pass navigo : voilà
-       combien vous allez débourser en 2023
-     * En 2022, les pubs pour jouets à la télé sont toujours très
-       stéréotypées
-       En 2022, les pubs pour jouets à la télé sont toujours très
-       stéréotypées
-     * Streptocoques A : beaucoup d'infections et plusieurs décès en
-       France
-       Streptocoques A : beaucoup d'infections et plusieurs décès en
-       France
-     * Iran : les visages de la révolte
-       Édition abonnées
-       Iran : les visages de la révolte
-     * « Les personnes malades à domicile seront toujours prises en charge
-       » a assuré Élisabeth Borne
-       Coupures d'électricité : le monde de la santé dans l'expectative
+     * Fawzia Koofi était la vice-présidente du parlement afghan jusqu'à
+       l'arrivée au pouvoir des talibans Afghanistan : une ancienne
+       parlementaire dénonce la politique d’effacement des femmes
+     * La semaine dernière, un pic de 1 630 rendez-vous a été atteint dans
+       le cabinet SOS Médecins du 13e arrondissement de Paris
+       Entre triple épidémie et grève des généralistes, SOS Médecins
+       sature
+     * Eviction brutale de la préfète Marie Lajus : pourquoi cela fait
+       autant polémique Eviction brutale de la préfète Marie Lajus :
+       pourquoi cela fait autant polémique
+     * cheque energie bois
+       Chèque énergie bois : comment obtenir cette aide financière
+       exceptionnelle
+     * L'avocat de Sébastien Raoult, étudiant français détenu au Maroc,
+       saisit le Comité contre la torture
+       L'avocat de Sébastien Raoult, étudiant français détenu au Maroc,
+       saisit le Comité contre la torture
 
    Toutes les infos Société
 
