@@ -59,6 +59,8 @@ Attac FranceL’action citoyenne
             13/01 Table ronde sur la Thématique « Territoire Zéro
             Carbone (...)
             Salle Émile Combes, 40 rue de (...)
+            13/01 Attac Bassin de Vichy : conférence gesticulée
+            salle des Fêtes de Vichy.
      * Actus et médias
           + Le flux
             Communiqués
@@ -72,8 +74,8 @@ Attac FranceL’action citoyenne
 
 En cette fin d’année, nous avons besoin de 120 000€ pour préparer 2023.
 
-   104572 € / 120000 €
-   87.14%
+   111592 € / 120000 €
+   92.99%
 
    Je fais un don de 10 € ou plus !
      * Accueil >
@@ -1137,6 +1139,7 @@ Notes
 
    Envoyer un message
 
+   Veuillez laisser ce champ vide : __________
    Votre adresse email ______________________________
    Sujet [Les Possibles / Dépasser le _
    Texte de votre message
@@ -1152,7 +1155,6 @@ Notes
    Veuillez laisser ce champ vide : __________
 
    Envoyer un message
-   Veuillez laisser ce champ vide : __________
 
    Remarque : le bouton « Envoyer un message » permet de prévisualiser le
    message. Il faut ensuite cliquer sur « Confirmer l’envoi » pour que le
@@ -1234,13 +1236,6 @@ Podcasts
    [Du mouvement social !] L'émission d'Attac sur Radio Aligre , « (...)
    25/05/22 [Du mouvement social !] L’émission d’Attac sur Radio Aligre ,
    « Grèves féministes en France et à l’internationale »
-   [Du mouvement social !] L'émission d'Attac sur Radio Aligre , « (...)
-   15/04/22 [Du mouvement social !] L’émission d’Attac sur Radio Aligre ,
-   « Energies - Quels scénarios pour la justice climatique ? »
-   « Du Mouvement Social », l'émission d'Attac sur Radio Aligre (...)
-   20/12/22 « Du Mouvement Social », l’émission d’Attac sur Radio Aligre
-   "Guerre en Ukraine, entre résistance populaire et tournant de la
-   situation mondiale ?"
    [Du mouvement social !] L'émission d'Attac sur Radio Aligre, « (...)
    03/06/22 [Du mouvement social !] L’émission d’Attac sur Radio Aligre,
    « L’EAU, une question politique aux quatre coins du globe. »
@@ -1249,12 +1244,22 @@ Podcasts
    25/05/22 [Du mouvement social !] L’émission d’Attac sur Radio Aligre,
    « Face aux épidémies présentes et à venir, réinventer une santé
    écologique et populaire »
+   [Du mouvement social !] L'émission d'Attac sur Radio Aligre , « (...)
+   15/04/22 [Du mouvement social !] L’émission d’Attac sur Radio Aligre ,
+   « Energies - Quels scénarios pour la justice climatique ? »
+   « Du Mouvement Social », l'émission d'Attac sur Radio Aligre (...)
+   20/12/22 « Du Mouvement Social », l’émission d’Attac sur Radio Aligre
+   "Guerre en Ukraine, entre résistance populaire et tournant de la
+   situation mondiale ?"
    ‹ ›
 
 Le flux
 
-   30/12 Notre-Dame-des-Landes : de César aux bassines… la transmission de
-   l’espoir ! (Geneviève Coiffard-Grosdoy, Lignes d’Attac)
+   30/12 Impunité des multinationales : Total devant la justice (Juliette
+   Renaud, Marie Beyer, Mathilde Manteaux, Lignes d’Attac)
+
+   30/12 Moins de 48h pour faire un don à Attac en 2022 ! (Attac France,
+   Le flux)
 
    29/12 Les enjeux de la lutte contre les méga-bassines (Gilles Sabatier,
    Lignes d’Attac)
@@ -1264,9 +1269,6 @@ Le flux
 
    27/12 Royaume-Uni : une crise riche d’enseignements (Plihon Dominique ,
    Lignes d’Attac)
-
-   26/12 L’INSEE fête dignement les dix ans de l’estimation de la fraude
-   fiscale de 80 milliards d’euros (Attac France, Communiqués)
 
      * Vie interne (CA, CNCL, matériel)
      * Spirale alternatives

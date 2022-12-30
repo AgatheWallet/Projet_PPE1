@@ -71,6 +71,7 @@ Agathe :
 - Création des tableaux pour le français
 - Modification du tableau kr sur le site
 - Ajout tableaux français sur le site
+- Ajout du remplacement des caractères < > et & par leurs entités html dans le script `base_tableaux_fichiers.sh`
 
 Florian : 
 - Exécution du scripts `base_tableaux_fichiers.sh` pour le mot 'フェミニズム'　qui produit les pages html pour le tableau d'urls et le concordancier 

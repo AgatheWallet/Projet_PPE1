@@ -8,7 +8,7 @@
 #   3: le nom du fichier html du concordancier  renvoyé en sortie
 #	4: le mot dans la langue considérée
 # Pour lancer le script: 
-# ./script/base_tableaux_fichier.sh <fichier_url> <fichier_html> <mot>
+# ./script/base_tableaux_fichier.sh <fichier_url> <fichier_html> <fichier_concordancier> <mot>
 #=======================================================================
 
 fichier_urls=$1 # le fichier d'URL en entrée
@@ -90,6 +90,8 @@ while read -r URL; do
 		
 		dump_continu=$(echo "$dump" | sed ':a;N;$!ba;s/\n\n/§/g')
 		dump_continu=$(echo "$dump_continu" | sed ':a;N;$!ba;s/\n//g')
+		dump_continu=$(echo "$dump_continu" | sed 's/\&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g')
+		
 		
 		contexte_concordance=$(echo "$dump_continu" | egrep -io "[。.?!…§][^。.?!…§]*$mot[^。.?!…§]*[。.?!…§]")
 		
@@ -105,7 +107,7 @@ while read -r URL; do
 		dump=""
 		charset=""
 	fi
-	
+	URL=$(echo "$URL" | sed 's/\&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' )
 	# Met l'encodage en majuscule
 	charset=$(echo ${charset^^})
 	# Remplit le tableau avec les informations récupérés pour l'URL en cours de lecture

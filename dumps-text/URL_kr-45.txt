@@ -355,11 +355,13 @@
    정치왜그래?
      *
 
-       IFRAME: https://www.youtube.com/embed/8cbGIgsDZFw
+       IFRAME: https://www.youtube.com/embed/QsYm82NuTBA
 
-       [영상] 역대 이런 사면은 없었다? 박지원 전 국정원장이 바라본 윤석열 대통령의 신년 특별사면(ft.이명박)
-       [정치왜그래?]
+       [영상] 윤석열 대통령이 올해 가장 잘한 일과 못한 일을 꼽아봤다(ft.정치 연말 결산) [정치왜그래?]
 
+   [add_shortcode(ad_var_data_seq89, get_ads_contents_action)]
+   [add_shortcode(ad_var_data_seq88, get_ads_contents_action)]
+   [add_shortcode(ad_var_data_seq86, get_ads_contents_action)]
    라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요
    관련 기사
      * [20대 여자 현상] “약자는 아니지만 우리는 차별받고 있다” [20대 여자 현상] “약자는 아니지만 우리는 차별받고
@@ -386,7 +388,7 @@
        대통령직인수위원회가 ‘여성가족부 폐지’란 일곱 글자 공약을 공식화한 것은 지난 3월25일이다. 이날 신용현 인수위
        대변인은 “여가부 폐지 공약을 이미 확인한 상황에서 여가부란 이름...
 
-   [INS: :INS]
+   [add_shortcode(ad_var_data_seq87, get_ads_contents_action)]
    facebook twitter instagram kakao story rss
    시사IN 소개 제휴안내 개인정보취급방침 구독약관 및 환불정책 청소년보호정책 이메일무단수집거부
 

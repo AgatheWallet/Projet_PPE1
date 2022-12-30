@@ -360,7 +360,7 @@ Navigation des articles
 
 Statistiques du blog
 
-     * 2 457 008 visites
+     * 2 457 255 visites
 
    Recherche
    ____________________ (BUTTON) Recherche
@@ -370,6 +370,12 @@ Statistiques du blog
    (BUTTON) Abonnez-vous
 
    Derniers articles mis en ligne
+     * Quelles questions faut-il se poser pour faire face au développement
+       technologique des entreprises ?
+     * « Les bassidjis utilisés par le pouvoir comme rempart contre les
+       manifestations »
+     * Jacques Testart : « La gestion de l’urgence s’accorde mal avec la
+       science »
      * Résistance féministe contre la guerre (décembre 2022)
      * Mémoire coloniale, décoloniale, anticoloniale
      * L’Ukraine et la crise de la gauche italienne
@@ -394,10 +400,6 @@ Statistiques du blog
      * Les sept perfidies de la réforme des retraites 2023
      * Pérou : « Qu’ils dégagent tous », encore une fois
      * Arseny Avraamov et sa « Symphonie des sirènes »
-     * jazz, ti’bal et requiem
-     * Lettre d’un Américain aux soldats russes à l’approche de Noël : La
-       guerre, Poutine et Tolstoï
-     * L’affaire Adrien Quatennens et ses leçons
 
     1.
    entreleslignesentrelesmots sur « Des documents internes révèlent la
@@ -539,19 +541,20 @@ Statistiques du blog
 
 Articles les plus consultés récemment
 
+     * L'Ukraine et la crise de la gauche italienne
      * « Femmes migrantes et exploitation reproductive [1] dans
        l’industrie de la maternité de substitution (GPA) »
-     * L'Ukraine et la crise de la gauche italienne
      * Mémoire coloniale, décoloniale, anticoloniale
-     * Guerre au chômage pas aux chômeurs !
+     * Jacques Testart : « La gestion de l’urgence s’accorde mal avec la
+       science »
      * Faire sauter le pont Alexandre III
+     * Guerre au chômage pas aux chômeurs !
+     * Résistance féministe contre la guerre (décembre 2022)
+     * « Les bassidjis utilisés par le pouvoir comme rempart contre les
+       manifestations »
      * Le client. Pourquoi les hommes vont voir les prostituées, et ce
        qu’ils en pensent
      * Théoriser l’oppression des femmes
-     * Résistance féministe contre la guerre (décembre 2022)
-     * Naviguer dans le débat de gauche
-     * Pour de nouvelles pratiques de débat démocratique sur les enjeux
-       écologiques !
 
      * "juif" /yiddishland
      * Afrique

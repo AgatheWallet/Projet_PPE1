@@ -94,7 +94,7 @@ mbn news
    ‘쓰레빠(슬리퍼)’ 신고 다리 꼬고 접대해도 되는 이 멋진 나라”라며 “대타 대통령 선출한 2찍(대선 후보 2번 찍은) 국민들
    좋으시겠다”는 글을 남겼습니다.
    [오서연 디지털뉴스부 인턴기자 syyoo98@yonsei.ac.kr]
-   MBN 종합뉴스 평일용 배너
+   MBN 종합뉴스 주말용 배너
 
    Copyright ⓒ MBN(매일방송) 무단전재 및 재배포 금지
    화제 뉴스
@@ -102,7 +102,7 @@ mbn news
    오늘의 이슈픽
 
    IFRAME:
-   https://www.mbn.co.kr/player/videojs/sharevideo.html?clipID=4797162&cpI
+   https://www.mbn.co.kr/player/videojs/sharevideo.html?clipID=4799810&cpI
    D=&autoplay=true&muted=true&site=MPLAY
 
      * 인기영상
