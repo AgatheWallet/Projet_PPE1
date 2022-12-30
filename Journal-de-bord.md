@@ -42,6 +42,8 @@ Agathe :
 - Génération du tableau pour le coréen
 - CSS pour la page tableaux.html avec ajout du tableau coréen complet 
 
+Florian :  
+- Ajout script pour faire les concordanciers
 
 ## 21 décembre
 Agathe :
@@ -51,9 +53,16 @@ Agathe :
 
 ## 27 décembre et 28 décembre
 Agathe : 
-- Fusion du script `base-tableau-html.sh` et `concordancier.sh` fait par Florian
+- Fusion des script `base-tableau-html.sh` et `concordancier.sh` fait par Florian
 - Lancement du script sur le fichier URL : je me suis rendue compte que le nombre d'occurences trouvées par le script de Florian était bien en deçà du nombre d'occurences réel. Nous nous sommes rendus compte qu'en voulant prendre la phrase entière dans laquelle notre mot apparaît, c'est à dire en cherchant une chaîne de caractères contenant notre mot, précédée et suivie d'un point, nous mettions de côté toutes les phrases démarrant un nouveau paragraphe. J'ai donc remplacé les doubles passages à la ligne par un caractère § pour indiquer qu'il s'agit de la fin d'un paragraphe. Les simples sauts à la ligne ont aussi été retirés pour éviter que les phrases de soient coupées d'une ligne à une autre. Malgré tout, nous ne réussissons pas à obtenir 100% de nos occurrences mais nous en obtenons la plupart. De même, nous n'arrivons pas à récupérer une phrase plusieurs fois lorsqu'il y a plusieurs occurrences de notre mot dans la phrase (la phrase n'apparaît qu'une fois dans le concordancier).
 - Ajout de la page concordancier et de son accès au menu sur toutes les pages + mise en page CSS
+
+Florian :  
+- Fin de recherche et ajout des 51 urls pour le japonais
+
+## 29 décembre :  
+Florian :  
+- Recherche et ajout des 50 urls pour le français
 
 ## 30 décembre : 
 Agathe : 
@@ -62,3 +71,11 @@ Agathe :
 - Création des tableaux pour le français
 - Modification du tableau kr sur le site
 - Ajout tableaux français sur le site
+
+Florian : 
+- Exécution du scripts `base_tableaux_fichiers.sh` pour le mot 'フェミニズム'　qui produit les pages html pour le tableau d'urls et le concordancier 
+- Création des tableaux pour le japonais  
+- Création du concordancier pour le japonais après ajout des caractères de ponctuation japonais '？' et　'！' (différents des caractères ASCII leur ressemblant) pour délimiter les phrases contenant le mot フェミニズム  
+- Ajout tableau d'urls japonais sur le site  
+- Ajout concordancier japonais sur le site  
+
