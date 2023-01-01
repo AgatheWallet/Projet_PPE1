@@ -94,12 +94,12 @@ while read -r URL; do
 		dump_continu=$(echo "$dump_continu" | sed 's/\&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g')
 		
 		
-		contexte_concordance=$(echo "$dump_continu" | egrep -io "[。.?!…§][^。.?!…§]*$mot[^。.?!…§]*[。.?!…§]")
+		contexte_concordance=$(echo "$dump_continu" | egrep -io "[。.?？！!…§][^。.?？！!…§]*$mot[^。.?？！!…§]*[。.?？！!…§]")
 		
 		while read -r line
 		do
-			contexte_gauche=$(echo "$line" | sed -s "s/[。.?!…§]\([^。.?!…§]*\)$mot\([^。.?!…§]*[。.?!…§]\)/\1/g")
-			contexte_droit=$(echo "$line" | sed -s "s/[。.?!…§]\([^。.?!…§]*\)$mot\([^。.?!…§]*[。.?!…§]\)/\2/g")
+			contexte_gauche=$(echo "$line" | sed -s "s/[。.?？！!…§]\([^。.?？！!…§]*\)$mot\([^。.?？！!…§]*[。.?？！!…§]\)/\1/g")
+			contexte_droit=$(echo "$line" | sed -s "s/[。.?？！!…§]\([^。.?？！!…§]*\)$mot\([^。.?？！!…§]*[。.?？！!…§]\)/\2/g")
 			echo "<tr><td class=\"has-text-right\">$contexte_gauche</td><td class=\"centre-tableau\">$mot</td><td class=\"has-text-left\">$contexte_droit</td></tr>" >> $fichier_concordancier
 		done <<< $contexte_concordance
 		
