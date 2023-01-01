@@ -25,6 +25,7 @@ fi
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
+lang=$(basename -s .txt $fichier_urls | sed "s/URL_//g")
 
 ######
 
@@ -81,10 +82,10 @@ while read -r URL; do
 	
 		fi
 		
-		curl $URL > ./aspirations/$basename-$lineno.html
-		echo "$dump" > ./dumps-text/$basename-$lineno.txt
+		curl $URL > ./aspirations/$lang/$basename-$lineno.html
+		echo "$dump" > ./dumps-text/$lang/$basename-$lineno.txt
 		contexte=$(echo "$dump" | egrep -i -A 1 -B 1 "$mot")
-		echo "$contexte" > ./contextes/$basename-$lineno.txt
+		echo "$contexte" > ./contextes/$lang/$basename-$lineno.txt
 		
 		nb_occ=$(echo "$dump" | egrep -io "$mot" | wc -w)
 		
@@ -111,7 +112,7 @@ while read -r URL; do
 	# Met l'encodage en majuscule
 	charset=$(echo ${charset^^})
 	# Remplit le tableau avec les informations récupérés pour l'URL en cours de lecture
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$basename-$lineno.html\">aspiration</a></td><td><a href=\"../dumps-text/$basename-$lineno.txt\">dump</a></td><td>$nb_occ</td><td><a href=\"../contextes/$basename-$lineno.txt\"> contextes</a></td></tr>" >> $fichier_tableau
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$lang/$basename-$lineno.html\">aspiration</a></td><td><a href=\"../dumps-text/$lang/$basename-$lineno.txt\">dump</a></td><td>$nb_occ</td><td><a href=\"../contextes/$lang/$basename-$lineno.txt\"> contextes</a></td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls

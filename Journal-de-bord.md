@@ -80,3 +80,9 @@ Florian :
 - Ajout tableau d'urls japonais sur le site  
 - Ajout concordancier japonais sur le site  
 
+## 1er janvier
+Agathe :
+- Ajout de sous-répertoire par langue pour les dumps, les aspirations et les contextes 
+- Ré exécution du script `base_tableaux_fichiers.sh` sur le français, le coréen et le japonais
+- Ajout du script pour la mise en page des dumps pour le traitement iTrameur
+- Exécution du script `iTrameur.sh` → il semble y avoir un petit problème avec l'encodage du fichier de sortie (est détecté comme du Latin 1 par Geany et quand ouverture avec `Text Editor`, l'erreur suivante s'affiche : `The file you opened has some invalid characters.`. Cependant, en fermant l'erreur, le texte s'affiche parfaitement bien.
