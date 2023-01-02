@@ -1,0 +1,7 @@
+<lang="fr">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>

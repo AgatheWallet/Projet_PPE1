@@ -32,7 +32,7 @@ touch $concatenationFile
 
 for subpath in $path
 do
-	basename=$(echo "$subpath" | egrep -o "(fr)|(jp)|(kr)")
+	basename=$(echo "$subpath" | egrep -o "(fr)|(jp)|(kr)|(pt)")
 	
 	output="./iTrameur/$foldername-$basename.txt"
 	

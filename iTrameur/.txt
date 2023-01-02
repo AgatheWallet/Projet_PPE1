@@ -1,0 +1,77 @@
+<lang="">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>
+<lang="fr">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>
+<lang="jp">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>
+<lang="kr">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>
+<lang="">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>
+<lang="fr">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>
+<lang="jp">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>
+<lang="kr">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>
+<lang="">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>
+<lang="">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>
+<lang="">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>

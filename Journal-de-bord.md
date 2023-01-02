@@ -33,6 +33,7 @@ Fanny :
 - Création d'un dossier et fichiers pour le site web
 - Remplissage des pages html
 - Ajout des derniers URL pour le portugais
+- Mise sur le git de la première version du script qu'il est nécessaire de modifier. 
 
 
 ## 20 décembre
@@ -86,3 +87,14 @@ Agathe :
 - Ré exécution du script `base_tableaux_fichiers.sh` sur le français, le coréen et le japonais
 - Ajout du script pour la mise en page des dumps pour le traitement iTrameur
 - Exécution du script `iTrameur.sh` → il semble y avoir un petit problème avec l'encodage du fichier de sortie (est détecté comme du Latin 1 par Geany et quand ouverture avec `Text Editor`, l'erreur suivante s'affiche : `The file you opened has some invalid characters.`. Cependant, en fermant l'erreur, le texte s'affiche parfaitement bien.
+
+
+## 2 janvier 
+Fanny : 
+- Exécution du script 'base_tableaux_fichier.sh' pour le mot "feminismo", permettant ainsi de générer les pages html, le tableau d'urls et le concordancier. 
+- Exécution du script iTrameur. 
+- Ajout d'informations sur la page "féminisme", approfondissement sur l'histoire du mot. 
+
+
+
+

@@ -1,0 +1,7 @@
+<lang="jp">
+<page="*">
+<text>
+
+</text>
+</page> §
+</lang>
