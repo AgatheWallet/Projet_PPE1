@@ -1,7 +1,0 @@
-<lang="kr">
-<page="*">
-<text>
-
-</text>
-</page> §
-</lang>
