@@ -18,10 +18,10 @@ fi
 folder=$1 # dumps-text OU contextes 
 if [ $folder == "dumps-text" ]
 then
-	foldername="dump"
+	foldername="dumps"
 elif [ $folder == "contextes" ]
 then
-	foldername="contexte"
+	foldername="contextes"
 fi
 path="$folder/*"
 #echo "$path"
@@ -52,9 +52,9 @@ do
 		
 		# ordre important : & en premier
 		# sinon : < => &lt; => &amp;lt;
-		content=$(echo "$content" | sed 's/&/&amp/g')
-		content=$(echo "$content" | sed 's/</&lt/g')
-		content=$(echo "$content" | sed 's/>/&gt/g')
+		content=$(echo "$content" | sed 's/\&/\&amp;/g')
+		content=$(echo "$content" | sed 's/</\&lt;/g')
+		content=$(echo "$content" | sed 's/>/\&gt;/g')
 		
 		echo "$content" >> $output
 		
