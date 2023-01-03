@@ -86,15 +86,20 @@ Agathe :
 - Ajout de sous-répertoire par langue pour les dumps, les aspirations et les contextes 
 - Ré exécution du script `base_tableaux_fichiers.sh` sur le français, le coréen et le japonais
 - Ajout du script pour la mise en page des dumps pour le traitement iTrameur
-- Exécution du script `iTrameur.sh` → il semble y avoir un petit problème avec l'encodage du fichier de sortie (est détecté comme du Latin 1 par Geany et quand ouverture avec `Text Editor`, l'erreur suivante s'affiche : `The file you opened has some invalid characters.`. Cependant, en fermant l'erreur, le texte s'affiche parfaitement bien.
+- Exécution du script `make_itrameur_corpus.sh` → il semble y avoir un petit problème avec l'encodage du fichier de sortie `dumps.txt` (est détecté comme du Latin 1 par Geany et quand ouverture avec `Text Editor`, l'erreur suivante s'affiche : `The file you opened has some invalid characters.`. Cependant, en fermant l'erreur, le texte s'affiche parfaitement bien.
 
 
 ## 2 janvier 
 Fanny : 
-- Exécution du script 'base_tableaux_fichier.sh' pour le mot "feminismo", permettant ainsi de générer les pages html, le tableau d'urls et le concordancier. 
+- Exécution du script `base_tableaux_fichier.sh` pour le mot "feminismo", permettant ainsi de générer les pages html, le tableau d'urls et le concordancier. 
 - Exécution du script iTrameur. 
 - Ajout d'informations sur la page "féminisme", approfondissement sur l'histoire du mot. 
 
-
+## 3 janvier
+Agathe : 
+- Insertion des tableaux portugais sur le site
+- Changement des expressions régulières pour le changement des caractères "<", ">" et "&" en entités html dans le programme 
+- Exécution du programme `make_itrameur_corpus.sh` et test des fichiers `dumps.txt` et `contextes.txt` sur iTrameur → les fichiers sont correctement lus
+- Insertion de la page féminisme sur le site et ajout de la définition du féminisme selon le dictionnaire en ligne coréen Naver
 
 

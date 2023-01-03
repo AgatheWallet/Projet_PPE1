@@ -15,7 +15,7 @@ then
 fi
 
 
-folder=$1 # dumps-text OU contextes 
+folder=$1 # dumps-text OU contextes (attention, ne pas mettre la "/" après le nom du répertoire)
 if [ $folder == "dumps-text" ]
 then
 	foldername="dumps"
