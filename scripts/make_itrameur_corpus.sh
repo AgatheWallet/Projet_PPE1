@@ -27,12 +27,12 @@ path="$folder*"
 #echo "$path"
 
 # création du fichier de concaténation
-concatenationFile="./iTrameur/$foldername.txt"
+concatenationFile="./iTrameur/$foldername-concatenation.txt"
 touch $concatenationFile
 
 for subpath in $path
 do
-	basename=$(echo "$subpath" | egrep -o "(fr)|(jp)|(kr)")
+	basename=$(echo "$subpath" | egrep -o "(fr)|(jp)|(kr)|(pt)")
 	
 	output="./iTrameur/$foldername-$basename.txt"
 	
@@ -46,7 +46,7 @@ do
 		then
 			continue
 		fi
-		echo "$filepath"
+		#echo "$filepath"
 		filename=$(echo "$file" | basename -s .txt $filepath)
 		echo "<page=\"$filename\">" >> $output
 		echo "<text>" >> $output

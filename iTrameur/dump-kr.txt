@@ -171,7 +171,7 @@
    지원하는 한 시민단체의 단체장은 몇 년 동안 사이버불링에 시달린다. 성범죄를 폭로하고 재판에서 승소한 일본 미투 운동의 상징적인
    인물인 이토 시오리 역시 오랜 협박에 시달렸다. 자신을 페미니스트라고 소개하는 것은 일본 사회에서는 쉽지 않은 일이다.
 
-   &lt;이불 속에서 봉기하라&gt;의 작가이자 수많은 칼럼을 잡지에 기고해 온 다카시마 린은 자신을 ‘아나카(무정부주의) 페미니스트’라고
+   <lt이불 속에서 봉기하라>gt의 작가이자 수많은 칼럼을 잡지에 기고해 온 다카시마 린은 자신을 ‘아나카(무정부주의) 페미니스트’라고
    소개한다. 어떤 비난이 쏟아져도 견디겠다는 강한 의지의 표명이다. 작가는 “나는 이전부터 인간은 평등하다고 생각해왔다. 인간은
    인간으로서 평등해야 한다. 거기에는 멍청한 이도 현명한 이도 없고 강자도 약자도 예외가 아니다”라고 말한 가네코 후미코에게
    감동을 받았고, 록산 게이를 통해 페미니즘을 배웠다. 그리하여 권력을 거부하고, 국가를 거부하고, 가부장제를 거부하고, 모든
@@ -193,7 +193,7 @@
    다르기 때문에 자신만의 기록을 남기겠다고 선언한다. 우리는 모두 원해서 태어난 것이 아니라 “어쩔 수 없이 태어났으니까 타인을
    위해 조금이나마 이 세상을 좋은 방향으로 이끌어 가고 싶다”고 피력하며 글을 통해 그 길을 찾아가겠다고 말한다.
 
-   &lt;82년생 김지영&gt;의 일본어판 번역가 사이토 마리코는 작가가 하는 이야기에 지금 바로 귀를 기울일 때라고 추천사에 적고 있다.
+   <lt82년생 김지영>gt의 일본어판 번역가 사이토 마리코는 작가가 하는 이야기에 지금 바로 귀를 기울일 때라고 추천사에 적고 있다.
    “귀를 기울이는 것뿐만 아니라 온몸을 기울여서” 들어줘야 한다고 덧붙였다.
 
    2022년의 오늘, 세상은 갈등으로 가득하다. 눈물이 날 것 같으면 마음껏 울어라. 그러나 부디 생존하라. 오늘도 내일도
@@ -289,7 +289,7 @@
 
    추천 이슈
 
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
    ﻿
    종합 많이 본 기사
      * 1 “아내와 함께 떠난 딸…마지막이 될 줄 몰랐다” “아내와 함께 떠난 딸…마지막이 될 줄 몰랐다”
@@ -558,7 +558,7 @@
    #alternate
 
    IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&amp;noscript=true
+   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&ampnoscript=true
 
    본문 바로가기
 
@@ -636,8 +636,8 @@
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -663,7 +663,7 @@
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -679,7 +679,7 @@
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -767,7 +767,7 @@
           +
 
 코로나19 추가접종 ‘6%대’ 과학방역 정부의 대책은?
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 북 핵실험·미사일 발사
           + 만리재사진첩
           + 한반도 평화
@@ -797,9 +797,9 @@
           +
 
 내 편 아니면 ‘부도덕 낙인’…윤 대통령, 비판세력 때리기
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 북한 무인기
@@ -827,9 +827,9 @@
           +
 
 합참, ‘북한 무인기 대비’ 육군·공군 참여 첫 합동방공훈련
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 이태원 참사
@@ -857,9 +857,9 @@
           +
 
 민주당 “이태원 국정조사 기간 연장해야…보고서 채택 등 불가능”
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 미안해, 기억할게
@@ -887,9 +887,9 @@
           +
 
 눈감은 널 2시간 쓰다듬었어, 엄마랑 얘기하는 거 좋아했잖아
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 검찰 사정정국
@@ -917,12 +917,12 @@
           +
 
 이재명 ‘공직선거법 위반’ 사건 재판…유동규 증인 채택
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
-     * 책&amp;생각🌄
+     * 책&amp생각🌄
           + 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
 
 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
@@ -947,7 +947,7 @@
           +
 
 당신의 나를 망칠 권리, 나에게 닿았다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 전성원의 길 위의 독서
           + 짬
           + 나는 역사다
@@ -977,12 +977,12 @@
           +
 
 품위 있는 달콤함, 마음 속 응어리가 사르르
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + [한겨레S] 인터뷰
           + ESC : 곽정은의 단호한 관계 클리닉
           + ESC : 커버스토리
           + ESC : 여행
-     * 미래&amp;과학
+     * 미래&amp과학
           + 2022년에 더 추락한 한국인의 행복감
 
 2022년에 더 추락한 한국인의 행복감
@@ -1007,7 +1007,7 @@ PCR과 항원검사, 뭐가 더 효율적일까…감염자 비율에 달렸다
           +
 
 밥상 차리는 마음이 돌봄의 정수다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 윤복원의 물리상식으로 푸는 요즘 세상
           + 김준혁의 의학과 서사
           + 전치형 과학의 언저리
@@ -1037,9 +1037,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 [단독] 탄소중립위 “이의 있소”…윤 정부 재생에너지 축소 방침 제동
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 뉴스레터
@@ -1077,10 +1077,10 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    지난 대선에서 윤석열 당시 후보는 성범죄 처벌 강화, 무고죄 처벌 강화, 여성가족부 폐지를 성평등 공약으로 내걸었다. 지난
    12일 강원도 원주 상지대에서 연 한국여성학회 추계학술대회에서는 이 공약들이 한국 사회의 ‘반페미 담론’을 반영한다는 분석이
-   나왔다. &amp;lt;한겨레&amp;gt; 자료사진
+   나왔다. &amplt;한겨레&ampgt; 자료사진
    지난 대선에서 윤석열 당시 후보는 성범죄 처벌 강화, 무고죄 처벌 강화, 여성가족부 폐지를 성평등 공약으로 내걸었다. 지난
    12일 강원도 원주 상지대에서 연 한국여성학회 추계학술대회에서는 이 공약들이 한국 사회의 ‘반페미 담론’을 반영한다는 분석이
-   나왔다. &lt;한겨레&gt; 자료사진
+   나왔다. <lt한겨레>gt 자료사진
 
    ☞한겨레S 뉴스레터 무료 구독. 검색창에 ‘에스레터’를 쳐보세요.
 
@@ -1115,10 +1115,10 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    지난 대선에서 윤석열 당시 후보는 성범죄 처벌 강화, 무고죄 처벌 강화, 여성가족부 폐지를 성평등 공약으로 내걸었다. 지난
    12일 강원도 원주 상지대에서 연 한국여성학회 추계학술대회에서는 이 공약들이 한국 사회의 ‘반페미 담론’을 반영한다는 분석이
-   나왔다. &amp;lt;한겨레&amp;gt; 자료사진
+   나왔다. &amplt;한겨레&ampgt; 자료사진
    지난 대선에서 윤석열 당시 후보는 성범죄 처벌 강화, 무고죄 처벌 강화, 여성가족부 폐지를 성평등 공약으로 내걸었다. 지난
    12일 강원도 원주 상지대에서 연 한국여성학회 추계학술대회에서는 이 공약들이 한국 사회의 ‘반페미 담론’을 반영한다는 분석이
-   나왔다. &lt;한겨레&gt; 자료사진
+   나왔다. <lt한겨레>gt 자료사진
 
     “남자가 피해자다” 미러링 확산
 
@@ -1238,7 +1238,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * “물밑 백래시 끌어올린, 여성 향한 조롱 가득한 선거였다” “물밑 백래시 끌어올린, 여성 향한 조롱 가득한 선거였다”
      * [사설] 여성 보호 강화하려고 여가부 폐지한다는 윤 대통령의 궤변 [사설] 여성 보호 강화하려고 여가부 폐지한다는 윤
        대통령의 궤변
-     * [책&amp;생각] 신념을 잃지 않고 일상을 되찾기까지 4년의 기록 [책&amp;생각] 신념을 잃지 않고 일상을 되찾기까지 4년의 기록
+     * [책&amp생각] 신념을 잃지 않고 일상을 되찾기까지 4년의 기록 [책&amp생각] 신념을 잃지 않고 일상을 되찾기까지 4년의 기록
 
    항상 시민과 함께하겠습니다. 한겨레 구독신청 하기
    이벤트 참여하기
@@ -1247,7 +1247,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
 광고
 
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 광고
 
@@ -1282,8 +1282,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
        IFRAME:
        https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.fa
-       cebook.com%2Fhankyoreh&amp;width=125&amp;layout=button_count&amp;action=like&amp;si
-       ze=large&amp;share=false&amp;height=30&amp;appId=217637861700365
+       cebook.com%2Fhankyoreh&ampwidth=125&amplayout=button_count&ampaction=like&ampsi
+       ze=large&ampshare=false&ampheight=30&ampappId=217637861700365
 
      * Follow @hanitweet
      * 전체기사RSSRSS페이지 목록
@@ -1293,7 +1293,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    IFRAME:
    https://adservice.hani.co.kr/RealMedia/ads/adstream_sx.ads/hani_desktop
-   /@x71?society&amp;kisano=1067974
+   /@x71?society&ampkisano=1067974
 
      *
 
@@ -1370,8 +1370,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -1397,7 +1397,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -1413,7 +1413,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -1689,10 +1689,10 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    이 곡을 발표하면서 이렇게 말했다. “저는 소녀들이 (섹스와 섹스토이에 관해) 이야기를 할 수 있게 되기를 바랍니다.
    여러분에게는 ‘밥’이 필요합니다.”
 
-   여성의 섹스토이 사용을 다룬 과감한 음악은 어떻게 세상에 나올 수 있었을까. 신간 &lt;바이브레이터의 나라&gt;는 그레이에 앞서
+   여성의 섹스토이 사용을 다룬 과감한 음악은 어떻게 세상에 나올 수 있었을까. 신간 <lt바이브레이터의 나라>gt는 그레이에 앞서
    섹스토이를 양지로 끌어내기 위한 수많은 페미니스트 선구자와 페미니스트 섹스토이숍이 있었다고 말한다. 1960년대 본격화된
    성혁명을 시작으로 섹스토이를 둘러싼 담론은 60여년이 지난 지금까지 끊임없이 변화해왔다. 그리고 그 변화의 한가운데서 남성
-   중심의 쾌락 산업을 바꿔온 이들의 노력을 담은 책이 &lt;바이브레이터의 나라&gt;다.
+   중심의 쾌락 산업을 바꿔온 이들의 노력을 담은 책이 <lt바이브레이터의 나라>gt다.
 
    저자인 린 코멜라는 미 네바다 대학교의 교차성·젠더·에스닉 연구 학과에서 젠더 및 섹슈얼리티 분야를 가르치고 있다. 저자는
    섹스토이숍을 창업하고 제품 개발에까지 뛰어든 용감한 페미니스트 자영업자들의 이야기를 다루기 위해 섹스토이숍에서 일정 기간 판매
@@ -1761,7 +1761,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    추천 이슈
 
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
    ﻿
    종합 많이 본 기사
      * 1 “아내와 함께 떠난 딸…마지막이 될 줄 몰랐다” “아내와 함께 떠난 딸…마지막이 될 줄 몰랐다”
@@ -2185,7 +2185,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
        가5단계
      * 인쇄하기
 
-   지난달 11일, 경향신문 ‘여성 서사 아카이브’ 플랫은 &lt;언론이 부추긴 ‘여혐’, 교실에 스미다&gt;라는 기사를 소개했습니다.
+   지난달 11일, 경향신문 ‘여성 서사 아카이브’ 플랫은 <lt언론이 부추긴 ‘여혐’, 교실에 스미다>gt라는 기사를 소개했습니다.
    기사에 등장한 20년 경력의 성평등 미디어 교육 강사와 고등학생 인권단체 활동가는 여성 혐오적인 언론 보도 관행을 지적할 때마다
    ‘너 페미야?’라는 질문에 직면하게 된다고 입을 모았어요.
    [이상한 나라의 질문들] ‘너 페미야?’ 질문에 현명하게 받아치는 법[플랫]
@@ -2197,7 +2197,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    페미니스트에 대한 ‘사상검증’이 문제라는 기사는 있었지만, 그래서 이런 사상검증에 어떻게 대응해야 하는지 알려주는 기사는
    부족했다는 생각이 들었어요. 플랫은 독자들과 함께 답을 찾아보기로 했습니다. 우선 24시간 동안만 노출되는 인스타그램
-   ‘스토리’로 Q&amp;A를 진행했어요. ‘너 페미야?’라는 질문을 받아본 적 있는지, 이런 질문에 뭐라고 대답하는지요.
+   ‘스토리’로 Q&ampA를 진행했어요. ‘너 페미야?’라는 질문을 받아본 적 있는지, 이런 질문에 뭐라고 대답하는지요.
    플랫팀이 인스타그램 스토리로 ‘너 페미야라는 질문에 대처하는 법’을 묻자 24시간동안 120개가 넘는 답변이 모였다.
 
    플랫팀이 인스타그램 스토리로 ‘너 페미야라는 질문에 대처하는 법’을 묻자 24시간동안 120개가 넘는 답변이 모였다.
@@ -2374,7 +2374,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 북마크
 
    기사 제보 지면 구독신청 온라인 구독신청
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 플랫 기사 더보기
 
@@ -2550,9 +2550,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    축하받고 싶다는 욕구는 충분히 자연스러운 감정이니까요.
 
    2019년 한 호텔 예식장에서 신부가 두 명인 결혼식이 열렸다. 결혼식의 주인공이기도 한 김규진씨는 결혼을 준비하기까지의 과정을
-   담은 에세이 &lt;언니, 나랑 결혼할래요?&gt;를 펴냈다. 위즈덤하우스 제공
+   담은 에세이 <lt언니, 나랑 결혼할래요?>gt를 펴냈다. 위즈덤하우스 제공
    2019년 한 호텔 예식장에서 신부가 두 명인 결혼식이 열렸다. 결혼식의 주인공이기도 한 김규진씨는 결혼을 준비하기까지의 과정을
-   담은 에세이 &lt;언니, 나랑 결혼할래요?&gt;를 펴냈다. 위즈덤하우스 제공
+   담은 에세이 <lt언니, 나랑 결혼할래요?>gt를 펴냈다. 위즈덤하우스 제공
 
    페미니스트들에게 ‘결혼’은 무슨 의미일까요. 사실 그 답은 이땅에 존재하는 페미니스트들의 수만큼 다양할 것입니다. 어떤
    페미니스트에게 비혼 비출산은 ‘가부장제에 편입되지 않겠다’는 실천적 선언일수도 있고, 또다른 페미니스트에겐 좋은 사람이 나타나면
@@ -2613,7 +2613,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    ▼
    심윤지 기자 sharpsim@khan.kr
    0
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 플랫 기사 더보기
 
@@ -2771,7 +2771,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    - 반여성주의 백래시가 지난 대선 국면에 두드러졌습니다.
 
-   “미국 저널리스트 수전 팔루디는 1991년 저서 &lt;백래시&gt;에서, 페미니즘에 대한 반격은 여성들이 ‘완전한 평등’이라는 결승선에
+   “미국 저널리스트 수전 팔루디는 1991년 저서 <lt백래시>gt에서, 페미니즘에 대한 반격은 여성들이 ‘완전한 평등’이라는 결승선에
    도착하기 전에 멈춰 세우는 선제공격이라고 말했습니다. 영향이나 권력이 줄어들 것을 우려한 이들이 집단적으로 반발하는 거죠. 제가
    어릴 때인 1975년 유엔이 ‘세계 여성의날’을 선포했는데, 얼마 뒤 TV 코미디쇼에서 여성의 지위향상을 외치는 주부들을 가정을
    팽개친 무책임한 이들로 그리더군요.
@@ -2890,9 +2890,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    ■‘페미니즘 백래시’ 신경아 한림대 교수
    여성주의와 노동시장을 연구해왔다. 한국여성학회장, 한국사회정책학회장 등을 지내며 노동시장 성별격차 해소를 위한 정책 개발 토대를
    구축해왔다. 서울시 성평등임금격차개선위원장을 맡아 국내 최초 성평등임금공시제 시행을 이끈 바 있다. 현재 경찰청 성평등위원회
-   위원장으로 활동 중이다. 서울대 석사를 거쳐 서강대에서 박사학위를 취득했다. 논문으로 &lt;저출산 대책의 쟁점과 딜레마&gt; &lt;노동의
-   불안정성과 젠더&gt; &lt;젠더 관점에서 본 유연근무제의 필요성과 딜레마&gt; 등을 썼고, 저서로 &lt;일, 가족, 젠더&gt; &lt;젠더와 사회&gt;
-   &lt;여성과 일&gt; &lt;코로나 시대의 페미니즘&gt;(공저) 등이 있다. &lt;안티페미니스트 백래시와 젠더 정치&gt;(가제)를 곧 출간할 예정이다.
+   위원장으로 활동 중이다. 서울대 석사를 거쳐 서강대에서 박사학위를 취득했다. 논문으로 <lt저출산 대책의 쟁점과 딜레마>gt <lt노동의
+   불안정성과 젠더>gt <lt젠더 관점에서 본 유연근무제의 필요성과 딜레마>gt 등을 썼고, 저서로 <lt일, 가족, 젠더>gt <lt젠더와 사회>gt
+   <lt여성과 일>gt <lt코로나 시대의 페미니즘>gt(공저) 등이 있다. <lt안티페미니스트 백래시와 젠더 정치>gt(가제)를 곧 출간할 예정이다.
    ■보완 입법 3년 넘게 방치
    국내에서 임신중단(낙태)은 법의 사각지대에 있다. 2019년 4월 헌법재판소는 낙태를 전면 금지한 형법 조항에 헌법불합치 결정을
    선고하고, 해당 조항을 2020년 말까지 개정하라고 국회에 요구했다. 그러나 후속 입법은 3년이 넘도록 지지부진하다. 임신
@@ -2917,7 +2917,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    최민영 논설위원 min@khan.kr
    0
    백래시 신경아 교수 풀뿌리 여성운동
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 플랫 기사 더보기
 
@@ -3184,7 +3184,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    유선희 기자 yu@khan.kr
    0
    성평등정책 젠더이슈 제로섬게임 페미니즘 미투
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 플랫 기사 더보기
 
@@ -3459,7 +3459,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    유설희 기자 sorry@khan.kr
    0
    페미니즘 차별과 배제 혐오
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 플랫 기사 더보기
 
@@ -3692,7 +3692,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    조문희 기자 moony@khan.kr
    0
    여성혐오
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 플랫 기사 더보기
 
@@ -3867,7 +3867,7 @@ SNS 기사보내기
    완전히 다른 존재라는 생각에서 기인한 질문이다. 이런 사고방식을 인간은 딱 두 가지 성별로 나눌 수 있고 그게 당연하다는
    성별이분법에서 유래한다.
 
-   과거 큰 인기를 끌었던 &lt;화성에서 온 남자, 금성에서 온 여자&gt;와 같은 책 그리고 지금까지도 여전히 ‘아들 성교육은 달라야
+   과거 큰 인기를 끌었던 <lt화성에서 온 남자, 금성에서 온 여자>gt와 같은 책 그리고 지금까지도 여전히 ‘아들 성교육은 달라야
    한다’, ‘남아 미술교육은 달라야 한다’는 주장을 하며 여성과 남성을 완전히 다른 존재로 여기는 성별이분법적인 사고방식에 입각한
    책과 강연 등의 교육이 유행을 하고 있다. 가부장제 남성중심주의 사회에서 이런 식의 사고방식은 누구에게 유리하게 작용하게 될까?
    그렇다. 남성에게 유리하게 작용한다. 여성과 남성이 완전히 다른 존재라고 여기는 사회일수록 두 성별 간에 우열관계가 있다고
@@ -4103,7 +4103,7 @@ SNS 기사보내기
    #alternate
 
    IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&amp;noscript=true
+   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&ampnoscript=true
 
    본문 바로가기
 
@@ -4181,8 +4181,8 @@ SNS 기사보내기
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -4208,7 +4208,7 @@ SNS 기사보내기
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -4224,7 +4224,7 @@ SNS 기사보내기
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -4312,7 +4312,7 @@ SNS 기사보내기
           +
 
 코로나19 추가접종 ‘6%대’ 과학방역 정부의 대책은?
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 북 핵실험·미사일 발사
           + 만리재사진첩
           + 한반도 평화
@@ -4342,9 +4342,9 @@ SNS 기사보내기
           +
 
 내 편 아니면 ‘부도덕 낙인’…윤 대통령, 비판세력 때리기
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 북한 무인기
@@ -4372,9 +4372,9 @@ SNS 기사보내기
           +
 
 합참, ‘북한 무인기 대비’ 육군·공군 참여 첫 합동방공훈련
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 이태원 참사
@@ -4402,9 +4402,9 @@ SNS 기사보내기
           +
 
 민주당 “이태원 국정조사 기간 연장해야…보고서 채택 등 불가능”
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 미안해, 기억할게
@@ -4432,9 +4432,9 @@ SNS 기사보내기
           +
 
 눈감은 널 2시간 쓰다듬었어, 엄마랑 얘기하는 거 좋아했잖아
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 검찰 사정정국
@@ -4462,12 +4462,12 @@ SNS 기사보내기
           +
 
 이재명 ‘공직선거법 위반’ 사건 재판…유동규 증인 채택
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
-     * 책&amp;생각🌄
+     * 책&amp생각🌄
           + 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
 
 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
@@ -4492,7 +4492,7 @@ SNS 기사보내기
           +
 
 당신의 나를 망칠 권리, 나에게 닿았다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 전성원의 길 위의 독서
           + 짬
           + 나는 역사다
@@ -4522,12 +4522,12 @@ SNS 기사보내기
           +
 
 품위 있는 달콤함, 마음 속 응어리가 사르르
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + [한겨레S] 인터뷰
           + ESC : 곽정은의 단호한 관계 클리닉
           + ESC : 커버스토리
           + ESC : 여행
-     * 미래&amp;과학
+     * 미래&amp과학
           + 2022년에 더 추락한 한국인의 행복감
 
 2022년에 더 추락한 한국인의 행복감
@@ -4552,7 +4552,7 @@ PCR과 항원검사, 뭐가 더 효율적일까…감염자 비율에 달렸다
           +
 
 밥상 차리는 마음이 돌봄의 정수다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 윤복원의 물리상식으로 푸는 요즘 세상
           + 김준혁의 의학과 서사
           + 전치형 과학의 언저리
@@ -4582,9 +4582,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 [단독] 탄소중립위 “이의 있소”…윤 정부 재생에너지 축소 방침 제동
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 뉴스레터
@@ -4665,7 +4665,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
 광고
 
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 광고
 
@@ -4700,8 +4700,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
        IFRAME:
        https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.fa
-       cebook.com%2Fhankyoreh&amp;width=125&amp;layout=button_count&amp;action=like&amp;si
-       ze=large&amp;share=false&amp;height=30&amp;appId=217637861700365
+       cebook.com%2Fhankyoreh&ampwidth=125&amplayout=button_count&ampaction=like&ampsi
+       ze=large&ampshare=false&ampheight=30&ampappId=217637861700365
 
      * Follow @hanitweet
      * 전체기사RSSRSS페이지 목록
@@ -4711,7 +4711,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    IFRAME:
    https://adservice.hani.co.kr/RealMedia/ads/adstream_sx.ads/hani_desktop
-   /@x71?area&amp;kisano=1042940
+   /@x71?area&ampkisano=1042940
 
      *
 
@@ -4788,8 +4788,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -4815,7 +4815,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -4831,7 +4831,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -5391,7 +5391,7 @@ SNS 기사보내기
      * 제보 및 문의
      * 지면보기
      * 구독안내
-     * 사진검색 &amp; 구매
+     * 사진검색 &amp 구매
 
      * your vibes
      * The Korean Times
@@ -5748,7 +5748,7 @@ SNS 기사보내기
      * 제보 및 문의
      * 지면보기
      * 구독안내
-     * 사진검색 &amp; 구매
+     * 사진검색 &amp 구매
 
      * your vibes
      * The Korean Times
@@ -5782,7 +5782,7 @@ SNS 기사보내기
    좋아요0 싫어요0
    (BUTTON) 댓글달기 0
 
-   &lt;3&gt; 사랑이 중요한 20대 페미니스트 여성
+   <lt3>gt 사랑이 중요한 20대 페미니스트 여성
 
 편집자주
 
@@ -6201,7 +6201,7 @@ SNS 기사보내기
         광고안내
         사업제휴
         저작물구매안내
-        사진 검색 &amp; 구매
+        사진 검색 &amp 구매
         The Korean Times
 
      *
@@ -6237,7 +6237,7 @@ SNS 기사보내기
 
    0 (BUTTON) 댓글달기 0
 
-   &lt;11·끝&gt;  페미니즘에 우호적이지 않은 20대 남성
+   <lt11·끝>gt  페미니즘에 우호적이지 않은 20대 남성
 
 편집자주
 
@@ -6382,7 +6382,7 @@ SNS 기사보내기
 
    -페미니즘의 도전(2005), 정희진.
 
-   - 한국여성정책연구원, &lt;2019 변화하는 남성성을 분석한다: 성평등 정책의 확장을 위해&gt;, (2019.4.18.)
+   - 한국여성정책연구원, <lt2019 변화하는 남성성을 분석한다: 성평등 정책의 확장을 위해>gt, (2019.4.18.)
 
    - 마경희, 조영주, 문희영, 이은아, 이순미(2018), “성불평등과 남성의 삶의 질에 관한 연구”, 서울: 한국여성정책연구원
 
@@ -7123,7 +7123,7 @@ LIVE ISSUE
      * 댓글
      * 원고료로 응원원고료로 응원
 
-   목차9 ㅣ 첫화부터 읽기&gt;
+   목차9 ㅣ 첫화부터 읽기>gt
    이전글 "2030 여성 정치인이 계속 정치할 수 있단 걸 보여주고 싶다" "'페미니스트 도의원' 내세우기, 책임있게 이어가고
    싶다" 다음글
    명의 시민기자가 개의 기사를 작성하였습니다. 시민기자 전환하기
@@ -7145,9 +7145,9 @@ LIVE ISSUE
 
    IFRAME:
    https://www.facebook.com/plugins/like.php?href=http%3a%2f%2fwww.ohmynew
-   s.com%2fNWS_Web%2fView%2fat_pg.aspx%3fCNTN_CD%3dA0002878806&amp;send=false&amp;
-   layout=button_count&amp;width=105&amp;show_faces=true&amp;font=arial&amp;colorscheme=li
-   ght&amp;action=like&amp;height=21&amp;appId=145388638855931
+   s.com%2fNWS_Web%2fView%2fat_pg.aspx%3fCNTN_CD%3dA0002878806&ampsend=false&amp
+   layout=button_count&ampwidth=105&ampshow_faces=true&ampfont=arial&ampcolorscheme=li
+   ght&ampaction=like&ampheight=21&ampappId=145388638855931
 
      * 크게l
      * 작게l
@@ -7764,7 +7764,7 @@ LIVE ISSUE
      * 댓글2
      * 원고료로 응원원고료로 응원
 
-   목차23 ㅣ 첫화부터 읽기&gt;
+   목차23 ㅣ 첫화부터 읽기>gt
    이전글 로봇에게도 권리가 있다? 밭 한가운데서 볼 일... 깻잎 한 장에 깃든 불법 노동 다음글
    명의 시민기자가 개의 기사를 작성하였습니다. 시민기자 전환하기
 
@@ -7787,9 +7787,9 @@ LIVE ISSUE
 
    IFRAME:
    https://www.facebook.com/plugins/like.php?href=http%3a%2f%2fwww.ohmynew
-   s.com%2fNWS_Web%2fView%2fat_pg.aspx%3fCNTN_CD%3dA0002884937&amp;send=false&amp;
-   layout=button_count&amp;width=105&amp;show_faces=true&amp;font=arial&amp;colorscheme=li
-   ght&amp;action=like&amp;height=21&amp;appId=145388638855931
+   s.com%2fNWS_Web%2fView%2fat_pg.aspx%3fCNTN_CD%3dA0002884937&ampsend=false&amp
+   layout=button_count&ampwidth=105&ampshow_faces=true&ampfont=arial&ampcolorscheme=li
+   ght&ampaction=like&ampheight=21&ampappId=145388638855931
 
      * 크게l
      * 작게l
@@ -7818,13 +7818,13 @@ LIVE ISSUE
    인간해방철학."
    필자가 부산시 감사위원장으로 재직하면서 진행한 유튜브 '북위드유 페니니즘을 읽다'에서 인용한 페미니즘에 대한 여성주의 상담가
    김민예숙의 정의다.
-   18회에 소개한 &lt;비혼이고요 비건입니다&gt;의 공저자인 전범선은 동물해방을 말하면서 인간의 해방을 말하지 않을 수 없고, 비건이라면
+   18회에 소개한 <lt비혼이고요 비건입니다>gt의 공저자인 전범선은 동물해방을 말하면서 인간의 해방을 말하지 않을 수 없고, 비건이라면
    페미니스트이자 생태주의자일 수밖에 없다고 한다. (관련 기사: 이 커플의 혁명은 밥상에서
    시작된다 http://omn.kr/2116y)
    그 말이 사실이라면 페미니스트는 인간 여성만이 아닌 모든 억압받는 인간/비인간동물의 해방을 위해 실천하는 사람이어야 한다.
    그러나 반대의 경우를 자주 본다. 비록 과대 포장되고 자극적으로 보도되었다 하더라도 제주 예멘 난민이나 국내 성소수자에 대한
    공개적이고 극한 혐오를 가장 강하게 표출하는 집단은 페미니스트를 자처한 사람들이다.
-   개인적으로도 아픈 기억이 있다. 북위드유를 진행하면서 한국성소자연구회의 일원으로 &lt;무지개는 더 많을 빛깔을 원한다&gt;라는 책의
+   개인적으로도 아픈 기억이 있다. 북위드유를 진행하면서 한국성소자연구회의 일원으로 <lt무지개는 더 많을 빛깔을 원한다>gt라는 책의
    공저자인 트랜스젠더 박한희 변호사를 초청해 대담을 한 적이 있다. 그 직전까지 북위드는 페미니즘에 대한 반감으로 가득 찬 악플
    사태를 겪고 난 후, 악플을 모조리 덮어버리고도 남을 구독자가 몰려와 구독자 수와 조회 수가 날로 증가하는 추세였다.
    그런데 박한희 변호사와의 대담이 게시되자마자 페미니즘이 성소수자와 무슨 상관이냐는 항의와 성소수자를 노골적으로 혐오하는 글들로
@@ -7832,21 +7832,21 @@ LIVE ISSUE
    오직 '생물학적 여성'만이 페미니즘의 주체일 수 있다는 편협한 사고에 갇힌 이들에게 페미니즘은 여성의 안전과 남성과 동등한 권리
    보장을 위한 이론일뿐 그 이상은 될 수 없었다. 김민예숙의 페미니즘에 대한 정의에서도 인간이 아닌 존재의 해방은 상정하고 있지
    않다.
-   하지만 17회에 소개한 &lt;짐을 끄는 짐승들 - 동물해방과 장애해방&gt;의 저자 수나우라 테일러는 페미니스트이자 동물운동가이자
+   하지만 17회에 소개한 <lt짐을 끄는 짐승들 - 동물해방과 장애해방>gt의 저자 수나우라 테일러는 페미니스트이자 동물운동가이자
    장애운동가로서 페미니즘적 돌봄윤리를 통해 동물운동에 깃든 비장애중심주의를 넘어설 수 있는 가능성을 제시한다. 페미니즘이
    동물해방과 장애해방을 연결하는 고리가 될 수 있음을 보여 준 것이다.(관련 기사: 동물해방과 장애해방은 어떻게 만나는가
    http://omn.kr/20pks)
 
 
-큰사진보기 캐럴 J. 아담스 &lt; 인간도 짐승도 아닌 - 동물해방과 함께하는 페미니즘 &gt;
-▲  캐럴 J. 아담스 &lt; 인간도 짐승도 아닌 - 동물해방과 함께하는 페미니즘 &gt;
+큰사진보기 캐럴 J. 아담스 <lt 인간도 짐승도 아닌 - 동물해방과 함께하는 페미니즘 >gt
+▲  캐럴 J. 아담스 <lt 인간도 짐승도 아닌 - 동물해방과 함께하는 페미니즘 >gt
                               ⓒ 현실문화
 
                              관련사진보기
 
 
-   페미니스트 비건 채식주의자 활동가이며 독립 연구자인 캐럴 J. 애덤스는 &lt;인간도 짐승도 아닌 - 동물해방과 함께하는
-   페미니즘&gt;이라는 책에서 서구 백인 남성 중심의 지배적 문화, 가치, 제도 아래에서 비백인, 여성, 동물이 어떻게 짐승화되어
+   페미니스트 비건 채식주의자 활동가이며 독립 연구자인 캐럴 J. 애덤스는 <lt인간도 짐승도 아닌 - 동물해방과 함께하는
+   페미니즘>gt이라는 책에서 서구 백인 남성 중심의 지배적 문화, 가치, 제도 아래에서 비백인, 여성, 동물이 어떻게 짐승화되어
    왔는지를 분석하고 페미니즘과 동물옹호의 관계 맺기를 고찰한다.
    동물을 대상화하고 지배와 착취를 정당화한 이론은 그대로 여성에게도 적용돼 여성은 동물처럼 비이성적이고, 주체성이 없고,
    의존적이며, 취약한 존재로 취급된다. 위계적인 사회질서 속에서 어떤 집단이 동물과 결부된다는 것은 해당 집단의 무력함,
@@ -7857,7 +7857,7 @@ LIVE ISSUE
    성폭행은 부재 지시 대상이 된다. 강간 피해자가 된 여성이 "마치 고깃덩이가 된 것 같다"고 말할 때 동물에 대한 폭력은
    여성폭력을 은유적으로 표현하는 데 사용되어 부재 지시 대상이 된다. 여성의 동물화, 고기의 성애화는 부재 지시 대상을 통해
    중첩되고 강화된다.
-   페미니즘의 시작은, 아마도 지금도 일부는 이런 교차성을 충분히 인식하지 못하고 있다. &lt;여성의 권리 옹호&gt;를 쓴 메리
+   페미니즘의 시작은, 아마도 지금도 일부는 이런 교차성을 충분히 인식하지 못하고 있다. <lt여성의 권리 옹호>gt를 쓴 메리
    울스턴크래프트는 여성도 남성과 동등한 인간이라는 것을 강조하기 위해 "우리는 동물이 아니다. 우리는 인간이다"라고 항변했다.
    그러나 저자는 이런 입장은 남성 지배적 주류 문화가 동물에게 내비치는 경멸을 페미니즘 이론 내부로 흡수한 것으로, 그에 따라
    인간과 비인간동물의 경계는 공고하게 남은 채 여성은 그 경계의 한쪽에서 다른 쪽으로 옮겨간다고 비판한다.
@@ -8280,9 +8280,9 @@ LIVE ISSUE
 
    IFRAME:
    https://www.facebook.com/plugins/like.php?href=http%3a%2f%2fwww.ohmynew
-   s.com%2fNWS_Web%2fView%2fat_pg.aspx%3fCNTN_CD%3dA0002847916&amp;send=false&amp;
-   layout=button_count&amp;width=105&amp;show_faces=true&amp;font=arial&amp;colorscheme=li
-   ght&amp;action=like&amp;height=21&amp;appId=145388638855931
+   s.com%2fNWS_Web%2fView%2fat_pg.aspx%3fCNTN_CD%3dA0002847916&ampsend=false&amp
+   layout=button_count&ampwidth=105&ampshow_faces=true&ampfont=arial&ampcolorscheme=li
+   ght&ampaction=like&ampheight=21&ampappId=145388638855931
 
      * 크게l
      * 작게l
@@ -8988,8 +8988,8 @@ LIVE ISSUE
 
    IFRAME:
    https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebo
-   ok.com%2Fwnewskr%2F&amp;tabs=timeline&amp;width=300&amp;height=260&amp;small_header=tru
-   e&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId
+   ok.com%2Fwnewskr%2F&amptabs=timeline&ampwidth=300&ampheight=260&ampsmall_header=tru
+   e&ampadapt_container_width=true&amphide_cover=false&ampshow_facepile=false&ampappId
 
    트위터
    Tweets by wnewskr
@@ -9445,8 +9445,8 @@ Related Sites
 
    IFRAME:
    https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebo
-   ok.com%2Fwnewskr%2F&amp;tabs=timeline&amp;width=300&amp;height=260&amp;small_header=tru
-   e&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId
+   ok.com%2Fwnewskr%2F&amptabs=timeline&ampwidth=300&ampheight=260&ampsmall_header=tru
+   e&ampadapt_container_width=true&amphide_cover=false&ampshow_facepile=false&ampappId
 
    트위터
    Tweets by wnewskr
@@ -9890,8 +9890,8 @@ Related Sites
 
    IFRAME:
    https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebo
-   ok.com%2Fwnewskr%2F&amp;tabs=timeline&amp;width=300&amp;height=260&amp;small_header=tru
-   e&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId
+   ok.com%2Fwnewskr%2F&amptabs=timeline&ampwidth=300&ampheight=260&ampsmall_header=tru
+   e&ampadapt_container_width=true&amphide_cover=false&ampshow_facepile=false&ampappId
 
    트위터
    Tweets by wnewskr
@@ -9949,7 +9949,7 @@ Related Sites
    #alternate
 
    IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&amp;noscript=true
+   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&ampnoscript=true
 
    본문 바로가기
 
@@ -10027,8 +10027,8 @@ Related Sites
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -10054,7 +10054,7 @@ Related Sites
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -10070,7 +10070,7 @@ Related Sites
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -10158,7 +10158,7 @@ Related Sites
           +
 
 코로나19 추가접종 ‘6%대’ 과학방역 정부의 대책은?
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 북 핵실험·미사일 발사
           + 만리재사진첩
           + 한반도 평화
@@ -10188,9 +10188,9 @@ Related Sites
           +
 
 내 편 아니면 ‘부도덕 낙인’…윤 대통령, 비판세력 때리기
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 북한 무인기
@@ -10218,9 +10218,9 @@ Related Sites
           +
 
 합참, ‘북한 무인기 대비’ 육군·공군 참여 첫 합동방공훈련
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 이태원 참사
@@ -10248,9 +10248,9 @@ Related Sites
           +
 
 민주당 “이태원 국정조사 기간 연장해야…보고서 채택 등 불가능”
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 미안해, 기억할게
@@ -10278,9 +10278,9 @@ Related Sites
           +
 
 눈감은 널 2시간 쓰다듬었어, 엄마랑 얘기하는 거 좋아했잖아
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 검찰 사정정국
@@ -10308,12 +10308,12 @@ Related Sites
           +
 
 이재명 ‘공직선거법 위반’ 사건 재판…유동규 증인 채택
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
-     * 책&amp;생각🌄
+     * 책&amp생각🌄
           + 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
 
 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
@@ -10338,7 +10338,7 @@ Related Sites
           +
 
 당신의 나를 망칠 권리, 나에게 닿았다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 전성원의 길 위의 독서
           + 짬
           + 나는 역사다
@@ -10368,12 +10368,12 @@ Related Sites
           +
 
 품위 있는 달콤함, 마음 속 응어리가 사르르
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + [한겨레S] 인터뷰
           + ESC : 곽정은의 단호한 관계 클리닉
           + ESC : 커버스토리
           + ESC : 여행
-     * 미래&amp;과학
+     * 미래&amp과학
           + 2022년에 더 추락한 한국인의 행복감
 
 2022년에 더 추락한 한국인의 행복감
@@ -10398,7 +10398,7 @@ PCR과 항원검사, 뭐가 더 효율적일까…감염자 비율에 달렸다
           +
 
 밥상 차리는 마음이 돌봄의 정수다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 윤복원의 물리상식으로 푸는 요즘 세상
           + 김준혁의 의학과 서사
           + 전치형 과학의 언저리
@@ -10428,9 +10428,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 [단독] 탄소중립위 “이의 있소”…윤 정부 재생에너지 축소 방침 제동
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 뉴스레터
@@ -10462,9 +10462,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    이코노미 인사이트 _ Economy insight
    박중언의 노후경제학
-   2020년 방영된 드라마 &amp;lt;아는 건 별로 없지만 가족입니다&amp;gt; 포스터. 엄마의 졸혼 선언을 계기로 감춰졌던 가족
+   2020년 방영된 드라마 &amplt;아는 건 별로 없지만 가족입니다&ampgt; 포스터. 엄마의 졸혼 선언을 계기로 감춰졌던 가족
    이야기가 차례로 전개된다. 티브이엔 제공
-   2020년 방영된 드라마 &lt;아는 건 별로 없지만 가족입니다&gt; 포스터. 엄마의 졸혼 선언을 계기로 감춰졌던 가족 이야기가 차례로
+   2020년 방영된 드라마 <lt아는 건 별로 없지만 가족입니다>gt 포스터. 엄마의 졸혼 선언을 계기로 감춰졌던 가족 이야기가 차례로
    전개된다. 티브이엔 제공
 
    ▶이코노미 인사이트 구독하기 http://www.economyinsight.co.kr/com/com-spk4.html
@@ -10546,7 +10546,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
 광고
 
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 광고
 
@@ -10581,8 +10581,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
        IFRAME:
        https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.fa
-       cebook.com%2Fhankyoreh&amp;width=125&amp;layout=button_count&amp;action=like&amp;si
-       ze=large&amp;share=false&amp;height=30&amp;appId=217637861700365
+       cebook.com%2Fhankyoreh&ampwidth=125&amplayout=button_count&ampaction=like&ampsi
+       ze=large&ampshare=false&ampheight=30&ampappId=217637861700365
 
      * Follow @hanitweet
      * 전체기사RSSRSS페이지 목록
@@ -10592,7 +10592,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    IFRAME:
    https://adservice.hani.co.kr/RealMedia/ads/adstream_sx.ads/hani_desktop
-   /@x71?economy&amp;kisano=1066493
+   /@x71?economy&ampkisano=1066493
 
      *
 
@@ -10669,8 +10669,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -10696,7 +10696,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -10712,7 +10712,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -11039,9 +11039,9 @@ SNS 기사보내기
 
    IFRAME:
    https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebo
-   ok.com%2Fwomentimeskorea%2F&amp;tabs=timeline&amp;width=288&amp;height=320&amp;small_he
-   ader=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=tr
-   ue&amp;appId
+   ok.com%2Fwomentimeskorea%2F&amptabs=timeline&ampwidth=288&ampheight=320&ampsmall_he
+   ader=false&ampadapt_container_width=true&amphide_cover=false&ampshow_facepile=tr
+   ue&ampappId
 
    인기뉴스
    1 2023년 달라지는 것?... 교통비ㆍ가스비ㆍ전기세ㆍ보험료 줄줄이 인상
@@ -11050,7 +11050,7 @@ SNS 기사보내기
    4 [편집인 레터] '리얼 돌', 이제는 말해야 할 때다
    5 2022년 게임업계를 뒤흔든 빅이슈는?
    6 [우먼타임스 '2022년 여성 10대 뉴스'] 이태원참사, 여성 희생자가 남성의 1.5배
-   7 리오프닝 &amp; 리폼... 2022 패션·뷰티 업계 키워드는 'RE'
+   7 리오프닝 &amp 리폼... 2022 패션·뷰티 업계 키워드는 'RE'
    8 [박상주의 썰] 대한민국 언론에 던지는 '니묄러의 경고'
 
 하단영역
@@ -11364,9 +11364,9 @@ SNS 기사보내기
 
    IFRAME:
    https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebo
-   ok.com%2Fwomentimeskorea%2F&amp;tabs=timeline&amp;width=288&amp;height=320&amp;small_he
-   ader=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=tr
-   ue&amp;appId
+   ok.com%2Fwomentimeskorea%2F&amptabs=timeline&ampwidth=288&ampheight=320&ampsmall_he
+   ader=false&ampadapt_container_width=true&amphide_cover=false&ampshow_facepile=tr
+   ue&ampappId
 
    인기뉴스
    1 2023년 달라지는 것?... 교통비ㆍ가스비ㆍ전기세ㆍ보험료 줄줄이 인상
@@ -11375,7 +11375,7 @@ SNS 기사보내기
    4 [편집인 레터] '리얼 돌', 이제는 말해야 할 때다
    5 2022년 게임업계를 뒤흔든 빅이슈는?
    6 [우먼타임스 '2022년 여성 10대 뉴스'] 이태원참사, 여성 희생자가 남성의 1.5배
-   7 리오프닝 &amp; 리폼... 2022 패션·뷰티 업계 키워드는 'RE'
+   7 리오프닝 &amp 리폼... 2022 패션·뷰티 업계 키워드는 'RE'
    8 [박상주의 썰] 대한민국 언론에 던지는 '니묄러의 경고'
 
 하단영역
@@ -11862,7 +11862,7 @@ SNS 기사보내기
           + 전체
           + 기획특집
           + 7대륙 최고봉 오르다
-          + 이슈&amp;인물
+          + 이슈&amp인물
           + 설 특집
           + 신년특집
           + 지령 8000호
@@ -11911,14 +11911,14 @@ SNS 기사보내기
           + 미디어ㆍ오락
           + 영화ㆍ책 산책
           + 우리학교 짱
-          + Week&amp;Do
+          + Week&ampDo
           + 정가 미니보고
           + 인천의 최초.최고
           + 춘추관25시
           + 윤영자의 세무에센스
           + 한국最初 인천最古
           + 주말매거진
-     * Hot &amp; Issue
+     * Hot &amp Issue
      * 연재
           + 전체
           + 포토 슬라이드
@@ -12069,7 +12069,7 @@ newsis
      *
 
        IFRAME:
-       https://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=03U9&amp;out=ifram
+       https://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=03U9&ampout=ifram
        e
 
    네이버 구독베너
@@ -12107,7 +12107,7 @@ newsis
 
    오늘의 헤드라인
 
-   "與 지지층 당대표 여론조사 '나경원 &gt; 안철수 &gt; 김기현'
+   "與 지지층 당대표 여론조사 '나경원 >gt 안철수 >gt 김기현'
 
    뉴시스 MBC SBS 각 의뢰·실시한 조사서 같은 순위
 
@@ -12780,11 +12780,11 @@ SNS 기사보내기
    이 기사를 공유합니다
    (BUTTON) 페이스북(으)로 기사보내기 (BUTTON) 트위터(으)로 기사보내기 (BUTTON) URL복사(으)로 기사보내기
    (BUTTON) 닫기
-   ▲ 임승수 작가&lt;br&gt;글 써서 먹고삽니다.&lt;br&gt;와인으로 가산 탕진 중입니다&lt;br&gt; ▲ 임승수 작가
+   ▲ 임승수 작가<ltbr>gt글 써서 먹고삽니다.<ltbr>gt와인으로 가산 탕진 중입니다<ltbr>gt ▲ 임승수 작가
    글 써서 먹고삽니다.
    와인으로 가산 탕진 중입니다.
 
-   대학생 시절 동녘출판사에서 나온 &lt;여자는 왜?&gt;라는 책을 활자 하나하나 꾹꾹 눌러 읽었다. 초판 1쇄 발행일이 1991년 4월
+   대학생 시절 동녘출판사에서 나온 <lt여자는 왜?>gt라는 책을 활자 하나하나 꾹꾹 눌러 읽었다. 초판 1쇄 발행일이 1991년 4월
    10일이니 꽤 오래된 책이다. ‘여성 억압의 어제와 오늘’이라는 부제가 달려 있는데, 읽어나가면서 적지 않은 충격을 받았다.
    세상의 절반인 여성이 겪는 구조적인 억압과 소외, 차별을 깨닫게 됐으니 말이다. 내가 남자라서 전혀 고민해보지 못했던 그런
    종류의 문제들이 세상의 절반이나 되는 사람에게 엄연히 존재한다는 사실이 큰 무게감으로 다가왔다.
@@ -12865,7 +12865,7 @@ SNS 기사보내기
    가부장적 사회구조의 혜택을 입어온 남성의 관점에서는 그런 분노의 물결이 당혹스럽고 불편할 수도 있다. 하지만 그 당혹스러움과
    불편함은 신분제가 무너지는 광경을 바라보는 양반의 그것과 어딘가 닮아있다는 생각이 든다. 알다시피 인류 역사의 발전 과정은
    다양한 형태의 억압과 차별을 지양하고 좀 더 평등한 사회로 나아가는 여정이었다. 그런 의미에서 페미니즘의 성장은 거스를 수 없는
-   역사 발전의 순방향임이 명백하다. 오늘도 아내의 페미니즘 명저 &lt;캔버스를 찢고 나온 여자들&gt;에서 읽었던 내용을 되새기며 역사
+   역사 발전의 순방향임이 명백하다. 오늘도 아내의 페미니즘 명저 <lt캔버스를 찢고 나온 여자들>gt에서 읽었던 내용을 되새기며 역사
    발전에 일조하는 마음으로 설거지와 청소 투쟁에 나선다.
 
    IFRAME: publish
@@ -12891,7 +12891,7 @@ SNS 기사보내기
        명품 리폼의 명암
        사모펀드 사각지대
        BL이 어때서
-       뉴리테일 &amp; 더현대
+       뉴리테일 &amp 더현대
        시각장애인 블라인드 상담
        역사, 재현과 왜곡 사이
        글로벌 OTT 전쟁
@@ -13094,14 +13094,14 @@ SNS 기사보내기
 
    IFRAME:
    https://kr.widgets.investing.com/live-currency-cross-rates?theme=darkTh
-   eme&amp;hideTitle=true
+   eme&amphideTitle=true
 
    제공자 Investing.com
 
    IFRAME:
-   https://sslirates.investing.com/index.php?rows=2&amp;bg1=FFFFFF&amp;bg2=F1F5F8&amp;
-   text_color=333333&amp;enable_border=show&amp;border_color=0452A1&amp;header_bg=0452
-   A1&amp;header_text=FFFFFF&amp;force_lang=18
+   https://sslirates.investing.com/index.php?rows=2&ampbg1=FFFFFF&ampbg2=F1F5F8&amp
+   text_color=333333&ampenable_border=show&ampborder_color=0452A1&ampheader_bg=0452
+   A1&ampheader_text=FFFFFF&ampforce_lang=18
 
    Investing.com
    Interest Rates powered by Investing.com 한국어.
@@ -13472,7 +13472,7 @@ SNS 기사보내기
 알림
 
    바로가기
-     * [알립니다] 제9기 매경 빅데이터&amp;AI 최고위 과정
+     * [알립니다] 제9기 매경 빅데이터&ampAI 최고위 과정
      * [알립니다] 청소년 발명왕 주인공 나야나
      * [알립니다] 위기극복 대토론회
      * [알립니다] 하버드대 석학 케네스 로고프와 함께 19일 매경 '경제위기 극복 대토론회'
@@ -13706,7 +13706,7 @@ SNS 기사보내기
           + 문화지대 사람들
           + 우리 이웃
           + 결혼
-     * 라이프&amp;컬쳐
+     * 라이프&amp컬쳐
           + 전체
           + 라이프
           + 영화
@@ -13772,7 +13772,7 @@ SNS 기사보내기
           + 인천in이 만난사람
           + 문화지대 사람들
           + 날씨
-     * 라이프&amp;컬쳐
+     * 라이프&amp컬쳐
           + 라이프
           + 영화
           + 공연
@@ -13874,10 +13874,10 @@ SNS 기사보내기
    저작권자 © 인천in 무단전재 및 재배포 금지
    박교연
    박교연 다른기사 보기
-   [index.php?reg_date=2022-11-10&amp;modify_date=2022-11-10&amp;seq_local=8&amp;seq_p
-   ost=91978&amp;url=http%3A%2F%2Fwww.incheonin.com&amp;title=%EB%AA%A8%EB%91%90%E
+   [index.php?reg_date=2022-11-10&ampmodify_date=2022-11-10&ampseq_local=8&ampseq_p
+   ost=91978&ampurl=http%3A%2F%2Fwww.incheonin.com&amptitle=%EB%AA%A8%EB%91%90%E
    B%A5%BC+%EC%9C%84%ED%95%9C+%ED%8E%98%EB%AF%B8%EB%8B%88%EC%A6%98%EC%9D%8
-   0+%EC%9E%88%EB%8B%A4&amp;head=%EC%96%B4%EB%A0%A4%EC%9A%B4+%EC%9D%BC%EC%9D%B
+   0+%EC%9E%88%EB%8B%A4&amphead=%EC%96%B4%EB%A0%A4%EC%9A%B4+%EC%9D%BC%EC%9D%B
    4%EC%A7%80%EB%A7%8C+%EB%AA%A8%EB%91%90%EB%A5%BC+%EC%9C%84%ED%95%9C+%ED%
    8E%98%EB%AF%B8%EB%8B%88%EC%A6%98%EC%9D%80+%EC%9E%88%EB%8B%A4.+%EA%B2%8C
    %EC%9E%84+%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4+%EB%AA%A8%EB%8D%B8%EB%A1
@@ -13905,9 +13905,9 @@ SNS 기사보내기
    %9C+%ED%95%A0+%EC%88%98+%EC%9E%88%EB%8A%94+%EB%A7%8C%ED%81%BC%EC%9D%98+
    %ED%98%81%EC%8B%A0%EC%9D%84+%EC%9D%B4%EB%A3%A8%EB%A9%B4+%EB%90%9C%EB%8B
    %A4.+%EA%B7%B8%EB%9F%AC%EB%8B%A4+%EB%B3%B4%EB%A9%B4+%EA%B7%B8%EA%B2%8C+
-   %EC%8C%93%EC%97%AC%EC%84%9C+%EC%A0%9C%EB%8F%84%EC%A0%81%2C+%EC%82%AC&amp;se
-   q_news=80&amp;movie=n&amp;view_url=http%3A%2F%2Fwww.incheonin.com%2Fnews%2Farti
-   cleView.html%3Fidxno%3D91978&amp;photo=202211%2F91978_130637_384.jpg]
+   %EC%8C%93%EC%97%AC%EC%84%9C+%EC%A0%9C%EB%8F%84%EC%A0%81%2C+%EC%82%AC&ampse
+   q_news=80&ampmovie=n&ampview_url=http%3A%2F%2Fwww.incheonin.com%2Fnews%2Farti
+   cleView.html%3Fidxno%3D91978&ampphoto=202211%2F91978_130637_384.jpg]
      * (BUTTON) 카카오톡
      * (BUTTON) 페이스북
      * (BUTTON) 트위터
@@ -14323,14 +14323,14 @@ SNS 기사보내기
         방송
                 JTBC
                 JTBC2
-                JTBC3 GOLF &amp; SPORTS
+                JTBC3 GOLF &amp SPORTS
                 JTBC4
                 JTBC GOLF
                 JTBC worldwide
 
      *
 
-        멀티플렉스 &amp; 레저
+        멀티플렉스 &amp 레저
                 메가박스
                 필름 소사이어티
                 클래식 소사이어티
@@ -14340,7 +14340,7 @@ SNS 기사보내기
 
      *
 
-        매거진 &amp; 출판
+        매거진 &amp 출판
                 월간중앙
                 이코노미스트
                 포브스코리아
@@ -14386,14 +14386,14 @@ SNS 기사보내기
                             Sign In 검색 메인메뉴열기
 
                             NEWSROOM 투데이 포커스 팩트체크 기업이슈 MAGAZINE 정치·사회 경제
-                            문화 사람과 사람 히스토리 심층취재 HIP&amp;DEEP 이슈토크 스페셜리스트
+                            문화 사람과 사람 히스토리 심층취재 HIP&ampDEEP 이슈토크 스페셜리스트
 
                          @ 월간중앙
                          @ 포브스 코리아
                          @ [menu_home.png]
 
 이슈토크
-                 Home&gt;월간중앙&gt;이슈토크
+                 Home>gt월간중앙>gt이슈토크
                  2022.04.06 09:23:28
                  기사 제보|편집장에게 한마디 | 체험구독신청
 
@@ -14477,15 +14477,15 @@ SNS 기사보내기
                  보내고 있기 때문이다.*위 기고는 필자 요청으로 이름 대신 필명을 사용했습니다.- 필자명: 초원복국
 
                  IFRAME:
-                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dyn&amp;
+                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dyn&amp
                  out=iframe
 
                  IFRAME:
-                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dym&amp;
+                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dym&amp
                  out=iframe
 
                  IFRAME:
-                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dyx&amp;
+                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dyx&amp
                  out=iframe
 
                  페이스북트위터
@@ -14493,7 +14493,7 @@ SNS 기사보내기
                  [btn_like.png]
 
                  IFRAME:
-                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dyg&amp;
+                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dyg&amp
                  out=iframe
 
                     # 금주의 베스트 기사
@@ -14524,15 +14524,15 @@ SNS 기사보내기
                     # [2041357502_DhbKlmx8_2.jpg]
 
                  IFRAME:
-                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dye&amp;
+                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dye&amp
                  out=iframe
 
                  IFRAME:
-                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dz0&amp;
+                 //ad.adnmore.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0Dz0&amp
                  out=iframe
 
 고객센터
-                 정기구독신청|체험구독 신청|정기구독 인증받기|단체구독 문의|Q&amp;A|기사제보|페이스북
+                 정기구독신청|체험구독 신청|정기구독 인증받기|단체구독 문의|Q&ampA|기사제보|페이스북
                  [btn_callus.png]
                  중앙그룹
                  매체소개|광고/제휴|이용약관|개인정보 처리방침|윤리경영|윤리강령|청소년보호정책
@@ -14544,7 +14544,7 @@ SNS 기사보내기
                  중앙일보에스의 모든 콘텐트(기사)는 저작권법의 보호를 받은바, 무단 전재ㆍ복사ㆍ배포 등을 금합니다.
                  Copyright by Joongangilbos Co.,Ltd. All Rights Reserved.
                  정기구독신청|정기구독인증 | 체험구독신청 | 윤리강령
-                 매체소개|광고/제휴|이용약관|개인정보 처리방침|Q&amp;A
+                 매체소개|광고/제휴|이용약관|개인정보 처리방침|Q&ampA
                  [ 고객센터 : 1588-5792 ]
                  상호명 : 중앙일보에스 주식회사 / 대표자 : 박장희
                  사업자등록번호 : 220-86-68312 / 팩스 : 02-6442-5390
@@ -14565,7 +14565,7 @@ SNS 기사보내기
    #alternate
 
    IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&amp;noscript=true
+   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&ampnoscript=true
 
    본문 바로가기
 
@@ -14643,8 +14643,8 @@ SNS 기사보내기
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -14670,7 +14670,7 @@ SNS 기사보내기
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -14686,7 +14686,7 @@ SNS 기사보내기
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -14774,7 +14774,7 @@ SNS 기사보내기
           +
 
 코로나19 추가접종 ‘6%대’ 과학방역 정부의 대책은?
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 북 핵실험·미사일 발사
           + 만리재사진첩
           + 한반도 평화
@@ -14804,9 +14804,9 @@ SNS 기사보내기
           +
 
 내 편 아니면 ‘부도덕 낙인’…윤 대통령, 비판세력 때리기
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 북한 무인기
@@ -14834,9 +14834,9 @@ SNS 기사보내기
           +
 
 합참, ‘북한 무인기 대비’ 육군·공군 참여 첫 합동방공훈련
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 이태원 참사
@@ -14864,9 +14864,9 @@ SNS 기사보내기
           +
 
 민주당 “이태원 국정조사 기간 연장해야…보고서 채택 등 불가능”
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 미안해, 기억할게
@@ -14894,9 +14894,9 @@ SNS 기사보내기
           +
 
 눈감은 널 2시간 쓰다듬었어, 엄마랑 얘기하는 거 좋아했잖아
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 검찰 사정정국
@@ -14924,12 +14924,12 @@ SNS 기사보내기
           +
 
 이재명 ‘공직선거법 위반’ 사건 재판…유동규 증인 채택
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
-     * 책&amp;생각🌄
+     * 책&amp생각🌄
           + 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
 
 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
@@ -14954,7 +14954,7 @@ SNS 기사보내기
           +
 
 당신의 나를 망칠 권리, 나에게 닿았다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 전성원의 길 위의 독서
           + 짬
           + 나는 역사다
@@ -14984,12 +14984,12 @@ SNS 기사보내기
           +
 
 품위 있는 달콤함, 마음 속 응어리가 사르르
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + [한겨레S] 인터뷰
           + ESC : 곽정은의 단호한 관계 클리닉
           + ESC : 커버스토리
           + ESC : 여행
-     * 미래&amp;과학
+     * 미래&amp과학
           + 2022년에 더 추락한 한국인의 행복감
 
 2022년에 더 추락한 한국인의 행복감
@@ -15014,7 +15014,7 @@ PCR과 항원검사, 뭐가 더 효율적일까…감염자 비율에 달렸다
           +
 
 밥상 차리는 마음이 돌봄의 정수다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 윤복원의 물리상식으로 푸는 요즘 세상
           + 김준혁의 의학과 서사
           + 전치형 과학의 언저리
@@ -15044,9 +15044,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 [단독] 탄소중립위 “이의 있소”…윤 정부 재생에너지 축소 방침 제동
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 뉴스레터
@@ -15082,12 +15082,12 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    윤석열 국민의힘 대선 후보가 7일 오후 경기 시흥시 삼미시장 앞 유세 현장에서 지지를 호소하고 있다. 공동취재사진
    윤석열 국민의힘 대선 후보가 7일 오후 경기 시흥시 삼미시장 앞 유세 현장에서 지지를 호소하고 있다. 공동취재사진
 
-   윤석열 국민의힘 후보가 미국의 유력지 &lt;워싱턴포스트&gt;와의 서면 인터뷰에서 본인을 ‘페미니스트’라고 지칭했던 것으로 나타났다.
-   국민의힘은 보도 직후 ‘페미니스트’ 언급이 빠진 답변을 ‘원문’이라며 공개했으나, &lt;워싱턴포스트&gt; 기자가 공개한 답변 원문에는
+   윤석열 국민의힘 후보가 미국의 유력지 <lt워싱턴포스트>gt와의 서면 인터뷰에서 본인을 ‘페미니스트’라고 지칭했던 것으로 나타났다.
+   국민의힘은 보도 직후 ‘페미니스트’ 언급이 빠진 답변을 ‘원문’이라며 공개했으나, <lt워싱턴포스트>gt 기자가 공개한 답변 원문에는
    본인을 페미니스트라고 지칭한 문장이 포함되어 있었다. 국민의힘은 “원래는 ‘페미니스트’ 언급 문장을 빼기로 했으나 최종 데스킹을
    거치지 않은 답변이 전달된 것”이라는 취지로 해명했다.
 
-   &lt;워싱턴포스트&gt;는 7일(미국 동부시간) 윤석열 국민의힘 대선 후보와 이재명 더불어민주당 대선 후보를 서면 인터뷰한 기사를
+   <lt워싱턴포스트>gt는 7일(미국 동부시간) 윤석열 국민의힘 대선 후보와 이재명 더불어민주당 대선 후보를 서면 인터뷰한 기사를
    내보냈다. 기사는 “윤 후보는 여성의 권리를 지지하지 않는 것으로 여겨지는 선거 캠페인으로 비판받아왔다”며 “윤 후보에게 그가
    페미니스트인지 물었다”고 했다. 기사는 윤 후보가 이 질문에 대해 “페미니즘을 해석하는 방식은 다양하다고 생각한다”고 전제한 뒤
    “페미니즘은 휴머니즘의 하나로서, 성차별과 불평등을 현실로 인정하고 불평등과 차별을 시정해 나가려는 운동을 말한다. 그러한
@@ -15097,11 +15097,11 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    to correct that. In that sense, I consider myself a feminist.”)”고 답했다고
    썼다.
 
-   국민의힘이 8일 오전 공개한 &amp;lt;워싱턴포스트&amp;gt; 서면답변 원문. 국민의힘 제공
-   국민의힘이 8일 오전 공개한 &lt;워싱턴포스트&gt; 서면답변 원문. 국민의힘 제공
+   국민의힘이 8일 오전 공개한 &amplt;워싱턴포스트&ampgt; 서면답변 원문. 국민의힘 제공
+   국민의힘이 8일 오전 공개한 <lt워싱턴포스트>gt 서면답변 원문. 국민의힘 제공
 
-   &lt;워싱턴포스트&gt;의 기사를 통해 윤 후보가 본인을 ‘페미니스트’라고 지칭했다는 사실이 알려지자, 국민의힘 선거대책본부 공보단은
-   8일 오전 ‘서면답변 원문’이라며 “페미니스트” 문장이 없는 답변서를 공개했다. 공보단은 “어제(7일) 보도된 &lt;워싱턴포스트&gt;
+   <lt워싱턴포스트>gt의 기사를 통해 윤 후보가 본인을 ‘페미니스트’라고 지칭했다는 사실이 알려지자, 국민의힘 선거대책본부 공보단은
+   8일 오전 ‘서면답변 원문’이라며 “페미니스트” 문장이 없는 답변서를 공개했다. 공보단은 “어제(7일) 보도된 <lt워싱턴포스트>gt
    기사는 선대본부가 워싱턴포스트 쪽에 서면 답변하는 과정에서 행정상 실수로 전달된 축약본에 근거해 작성됐다”며 “이에 서면답변
    원문을 제공해드리니, 보도에 참고하시기 바란다”고 했다.
 
@@ -15111,11 +15111,11 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    만들기 때문”이라고 답했다. 이어 “따라서 저는 남성과 여성을 집합적으로 구분하지 않고 개개인의 문제 해결이라는 관점에서 국정을
    운영하겠다. 저는 티브이(TV)토론회에서 ‘페미니즘은 휴머니즘의 하나로서, 여성의 성차별과 불평등을 현실로 인정하고 불평등과
    차별을 시정해 나가려는 운동을 말하는 것’이라고 했다”라고 덧붙였다. 대선후보자 토론회에서 밝혔던 ‘페미니즘은 휴머니즘의
-   하나’라는 입장을 반복했을 뿐, &lt;워싱턴포스트&gt; 기사에 적힌 것처럼 “그러한 차원에서 페미니스트라고 생각한다”라고 답한 적은
+   하나’라는 입장을 반복했을 뿐, <lt워싱턴포스트>gt 기사에 적힌 것처럼 “그러한 차원에서 페미니스트라고 생각한다”라고 답한 적은
    없다는 것이다.
 
-   미셸 예희 리 &amp;lt;워싱턴포스트&amp;gt; 도쿄·서울지국장이 공개한 답변 원문. 트위터 갈무리
-   미셸 예희 리 &lt;워싱턴포스트&gt; 도쿄·서울지국장이 공개한 답변 원문. 트위터 갈무리
+   미셸 예희 리 &amplt;워싱턴포스트&ampgt; 도쿄·서울지국장이 공개한 답변 원문. 트위터 갈무리
+   미셸 예희 리 <lt워싱턴포스트>gt 도쿄·서울지국장이 공개한 답변 원문. 트위터 갈무리
 
    하지만 논란 뒤 미셸 예희 리 도쿄·서울지국장이 공개한 답변 원문은 국민의힘이 공개한 서면답변 원문과 달랐다. 리 지국장이 8일
    자신의 트위터에 공개한 답변을 보면, 윤 후보는 “페미니즘을 해석하는 방식은 다양하다고 생각한다. 저는 토론회에서 ‘페미니즘은
@@ -15123,9 +15123,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    밝혔으며, 그러한 차원에서 페미니스트라고 생각한다”라고 답했다. 국민의힘이 공개한 답변과 달리 본인을 “페미니스트”라고 지칭한
    문구가 존재하는 것이다. 리 지국장은 해당 답변 원문을 공개하며 “우리는 기사 속에서 전체 답변을 그대로 인용했다”고 강조했다.
 
-   국민의힘 쪽은 &lt;워싱턴포스트&gt;의 질의에 답변하는 과정에서 최종 데스킹을 거치지 않은 답변서가 전달되면서 발생한 착오라는
-   입장이다. 국민의힘 관계자는 &lt;한겨레&gt;와의 통화에서 “‘그런 차원에서 페미니스트라고 생각한다’는 부분은 실무진이 답변을 써서
-   올렸던 것”이라며 “최종 데스킹 과정에서 (그 부분을) 그래도 빼자고 했는데, &lt;워싱턴포스트&gt;에 최종 데스킹 전 파일이 넘겨진
+   국민의힘 쪽은 <lt워싱턴포스트>gt의 질의에 답변하는 과정에서 최종 데스킹을 거치지 않은 답변서가 전달되면서 발생한 착오라는
+   입장이다. 국민의힘 관계자는 <lt한겨레>gt와의 통화에서 “‘그런 차원에서 페미니스트라고 생각한다’는 부분은 실무진이 답변을 써서
+   올렸던 것”이라며 “최종 데스킹 과정에서 (그 부분을) 그래도 빼자고 했는데, <lt워싱턴포스트>gt에 최종 데스킹 전 파일이 넘겨진
    실수가 있었다”고 설명했다. 실제 답변과 달리 국민의힘 공보단이 낸 서면답변 원문에 ‘페미니스트’ 문장이 빠진 것에 대해서는
    “너무 빨리 해명하려다 보니 착오가 있었던 것이다. 조율과정에서 미스 정도로 생각해달라”고 해명했다.
 
@@ -15153,7 +15153,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
 광고
 
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 광고
 
@@ -15188,8 +15188,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
        IFRAME:
        https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.fa
-       cebook.com%2Fhankyoreh&amp;width=125&amp;layout=button_count&amp;action=like&amp;si
-       ze=large&amp;share=false&amp;height=30&amp;appId=217637861700365
+       cebook.com%2Fhankyoreh&ampwidth=125&amplayout=button_count&ampaction=like&ampsi
+       ze=large&ampshare=false&ampheight=30&ampappId=217637861700365
 
      * Follow @hanitweet
      * 전체기사RSSRSS페이지 목록
@@ -15199,7 +15199,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    IFRAME:
    https://adservice.hani.co.kr/RealMedia/ads/adstream_sx.ads/hani_desktop
-   /@x71?politics&amp;kisano=1034010
+   /@x71?politics&ampkisano=1034010
 
      *
 
@@ -15276,8 +15276,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -15303,7 +15303,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -15319,7 +15319,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -15481,7 +15481,7 @@ SNS 기사보내기
 
 페미니즘은 여성과 남성이 함께 살아가는 세상을 위한 운동
 
-   이 글은 &lt;가톨릭평론&gt; 35호(2022년 봄)에 실린 글입니다.
+   이 글은 <lt가톨릭평론>gt 35호(2022년 봄)에 실린 글입니다.
 
    우리는 참 슬프고도 이상한 세상에 살고 있다. 실업이 일상화되고, 부채가 증가하고, 소득은 턱없이 부족하고, 소비에는 많은
    제약이 따르며, 취업, 병역, 결혼 등 진로에 대한 부담으로 정신적 피로감 또한 가중되는 ‘5중고’를 겪는 청년들이 그것도
@@ -15606,7 +15606,7 @@ SNS 기사보내기
 
 
    1)　현대경제연구원, '청년층 경제 활동 제약의 5대 특징과 시사점', 안선희, '다섯 가지 ‘경제적 고통’에 시달리는 한국
-   청년들', &lt;한겨레&gt;, 2018.2.18.(최종 접속일, 2022.2.12.)
+   청년들', <lt한겨레>gt, 2018.2.18.(최종 접속일, 2022.2.12.)
 
    2) 미러링은 상대방의 폭력적인 언어와 행위, 특히 여성혐오적인 언어나 행동을 반대로 뒤집어 보여줌으로써 문제를 선명하게
    드러내기 위한 페미니스트 전략이다.
@@ -15618,12 +15618,12 @@ SNS 기사보내기
    19-24살 여성이 90.8퍼센트, 25-29살 여성이 86.2퍼센트인 반면, 19-24살 남성은 33.8퍼센트, 24-29살
    남성은 47퍼센트에 불과했다. 반면 ‘남성차별이 심각하다’는 19-24살 남성은 67.6퍼센트, 25-29살 남성은
    65.3퍼센트였다. 같은 생각을 하는 19-24살 여성은 38.2퍼센트, 25-29살 여성은 60퍼센트였다. 조혜정,
-   '‘이대남’을 화나게 한 ‘그 페미니즘’',  &lt;한겨레&gt;, 2021.12.25.(최종 접속일, 2022.2.14.)
+   '‘이대남’을 화나게 한 ‘그 페미니즘’',  <lt한겨레>gt, 2021.12.25.(최종 접속일, 2022.2.14.)
 
    4) ‘젠더갈등’이 아니라 성차별을 문제의 핵심으로 봐야 한다는 의견에 대해서는 여성학자 정희 진의 칼럼 '‘젠더갈등’이 아니라
-   성차별이다', &lt;경향신문&gt;, 2021.11.24. 참고.(최종 접속일, 2022.2.13.)
+   성차별이다', <lt경향신문>gt, 2021.11.24. 참고.(최종 접속일, 2022.2.13.)
 
-   5) 한상봉, '여성사제, 여전히 남은 숙제', &lt;가톨릭일꾼&gt;, 2018.12.3.(최종 접속일, 2022.2.14.) 참고.
+   5) 한상봉, '여성사제, 여전히 남은 숙제', <lt가톨릭일꾼>gt, 2018.12.3.(최종 접속일, 2022.2.14.) 참고.
 
    6) 교황 프란치스코·아브라함 스코르카, 강신규 옮김, "교황 프란치스코의 천국과 지상", 율리시스, 2014, 148-154쪽
    참고.
@@ -15633,7 +15633,7 @@ SNS 기사보내기
 
    신학자. 미국 조지타운대학교 교수
 
-   &lt;가톨릭뉴스 지금여기 http://www.catholicnews.co.kr&gt;
+   <lt가톨릭뉴스 지금여기 http://www.catholicnews.co.kr>gt
 
 관련기사
 
@@ -16226,7 +16226,7 @@ NF통신 매체정보
    모르겠어요.’ 류의 대답들이다.
 
 
-▲ 안느 샤를로트 위송, 토마스 마티유 저/강현주 역 &lt;우리는 왜 젠더를 이해해야 할까?&gt; 소개 이미지 (출처: 청아출판사)
+▲ 안느 샤를로트 위송, 토마스 마티유 저/강현주 역 <lt우리는 왜 젠더를 이해해야 할까?>gt 소개 이미지 (출처: 청아출판사)
 
 
    몇 년간 한국 사회에서 ‘젠더’는 때로는 시대를 선도하거나 힙스터처럼 보이게 하는 유행어처럼, 때로는 사회를 뒤흔드는 갈등과
@@ -16248,23 +16248,23 @@ NF통신 매체정보
    ‘젠더 반대’ ‘학교 성교육 폐지’ 우경화하는 사회
 
 
-   오늘 소개하려는 책 &lt;우리는 왜 젠더를 이해해야 할까?&gt;(Le Genre: Cet Obscur Objet Du Désorde)는
+   오늘 소개하려는 책 <lt우리는 왜 젠더를 이해해야 할까?>gt(Le Genre: Cet Obscur Objet Du Désorde)는
    제목 그 자체로 현재 우리들의 곤궁을 표현하고 있는 것 같다. 이 책의 저자인 안느 샤를로트 위송(Anne-Charlotte
    Husson)과 토마스 마티유(Thomas Mathieu)는 이미 공동작업을 통해 그래픽 북을 펴낸 적이 있다.
 
 
-▲ &lt;우리는 왜 젠더를 이해해야 할까?&gt; 저자인 안느 샤를로트 위송과 토마스 마티유의 또 다른 공동작업들. 일상 속 숱한
-성희롱, 성폭력을 여러 에피소드로 풀어낸 &lt;악어프로젝트-남자들만 모르는 성폭력과 새로운 페미니즘&gt;(이숲), “태초에 여성혐오가
-있었다...”로 시작하는 &lt;페미니즘-페미니스트의 일곱 가지 구호&gt;(푸른지식) 표지 이미지
+▲ <lt우리는 왜 젠더를 이해해야 할까?>gt 저자인 안느 샤를로트 위송과 토마스 마티유의 또 다른 공동작업들. 일상 속 숱한
+성희롱, 성폭력을 여러 에피소드로 풀어낸 <lt악어프로젝트-남자들만 모르는 성폭력과 새로운 페미니즘>gt(이숲), “태초에 여성혐오가
+있었다...”로 시작하는 <lt페미니즘-페미니스트의 일곱 가지 구호>gt(푸른지식) 표지 이미지
 
 
    일상 속 숱한 성희롱과 성폭력을 여러 에피소드로 풀어내어 많은 사람들이 이에 감정이입할 수 있게 하면서 문제의 심각성을 폭로하고
-   설득했던 &lt;악어프로젝트-남자들만 모르는 성폭력과 새로운 페미니즘&gt;, 근대 이후의 여성운동과 페미니즘 이론의 기본적인 논지를
-   차분히 되짚어가며 설명해준 &lt;페미니즘-페미니스트의 일곱 가지 구호&gt;는 어쩌면 페미니즘 초심자들(?)을 위한 가이드이자 그야말로
+   설득했던 <lt악어프로젝트-남자들만 모르는 성폭력과 새로운 페미니즘>gt, 근대 이후의 여성운동과 페미니즘 이론의 기본적인 논지를
+   차분히 되짚어가며 설명해준 <lt페미니즘-페미니스트의 일곱 가지 구호>gt는 어쩌면 페미니즘 초심자들(?)을 위한 가이드이자 그야말로
    개론적인 성격을 가지고 있었다.
 
 
-   반면 &lt;우리는 왜 젠더를 이해해야 할까?&gt;는 전작들처럼 결코 가벼운 안내서일 수만은 없어 보인다. 젠더 연구와 분석들이 제멋대로
+   반면 <lt우리는 왜 젠더를 이해해야 할까?>gt는 전작들처럼 결코 가벼운 안내서일 수만은 없어 보인다. 젠더 연구와 분석들이 제멋대로
    농락당하고 왜곡되고 있는 최전선에서 젠더의 이해를 시도하고 있기 때문이다. 이 책은 ‘젠더 반대’, ‘젠더이론 반대’와 같은
    구호를 통해 반페미니즘을 기치로 삼고, ‘동성애 반대’, ‘학교 성교육 폐지’와 같은 요구를 행동 전략이자 실천으로 하는
    혐오선동의 정치 한가운데에서 젠더를 설명하고 있다.
@@ -16287,7 +16287,7 @@ NF통신 매체정보
    되었다.
 
 
-▲ 안느 샤를로트 위송, 토마스 마티유 저/강현주 역 &lt;우리는 왜 젠더를 이해해야 할까?&gt; 중에서, 청아출판사, 2021
+▲ 안느 샤를로트 위송, 토마스 마티유 저/강현주 역 <lt우리는 왜 젠더를 이해해야 할까?>gt 중에서, 청아출판사, 2021
 
 
    저자는 성적지향과 결혼에 대한 내용들이 어떻게 젠더에 대한 변화를 요청하는 것으로 읽히게 되었는지 살핀다. 우파들의 수사 전략
@@ -16316,7 +16316,7 @@ NF통신 매체정보
    제대로 이해하는 것이 얼마나 중요한지 새삼 깨닫게 된다.
 
 
-▲ 안느 샤를로트 위송, 토마스 마티유 작가의 그래픽노블 &lt;우리는 왜 젠더를 이해해야 할까?&gt; 표지 이미지. (출처:
+▲ 안느 샤를로트 위송, 토마스 마티유 작가의 그래픽노블 <lt우리는 왜 젠더를 이해해야 할까?>gt 표지 이미지. (출처:
                               청아출판사)
 
 
@@ -16352,13 +16352,13 @@ NF통신 매체정보
 
    여성가족부 폐지와 성폭력 무고죄 강화를 공약으로 내걸고 젠더갈등을 부추기며 반페미니즘을 동력 삼아 선거에 승리한 대통령을
    맞이하게 된 한국에서 다시 한번 진지하게 질문해보고 싶다. 대체 우리는 젠더가 뭐라고 생각하는가? 이 단어를 언제 누구로부터
-   들었으며, 무엇이라고 알고 있나? 우리에게 젠더와 섹슈얼리티와 같은 용어들은 과연 어떠한 전선과 정쟁 위에 있는가? &lt;우리는 왜
-   젠더를 이해해야 할까?&gt;는 얇은 그래픽 노블이지만 여러 번 반복하고 자료를 추가적으로 찾으며, 한국의 상황과 교차적으로 읽어보면
+   들었으며, 무엇이라고 알고 있나? 우리에게 젠더와 섹슈얼리티와 같은 용어들은 과연 어떠한 전선과 정쟁 위에 있는가? <lt우리는 왜
+   젠더를 이해해야 할까?>gt는 얇은 그래픽 노블이지만 여러 번 반복하고 자료를 추가적으로 찾으며, 한국의 상황과 교차적으로 읽어보면
    좋을 것 같다. 지금 한국의 상황 역시 우리로 하여금 ‘왜 젠더를 이해해야만 하는지’를 요청하고 있다.
 
 
-   [필자 소개] 김서화. 젠더교육연구소 이제IGE 연구원. 대학에서 여성학을 가르치고 있다. &lt;페미니스트 엄마와 초딩아들의 성적
-   대화&gt;(2018) 작가이며, 공저로 &lt;페미니즘 교육은 가능한가&gt;(2021)를 펴냈다.
+   [필자 소개] 김서화. 젠더교육연구소 이제IGE 연구원. 대학에서 여성학을 가르치고 있다. <lt페미니스트 엄마와 초딩아들의 성적
+   대화>gt(2018) 작가이며, 공저로 <lt페미니즘 교육은 가능한가>gt(2021)를 펴냈다.
 
    기사입력 : 2022-03-15
 
@@ -16569,7 +16569,7 @@ NF통신 매체정보
 
    IFRAME:
    //kitweb.tadapi.info/network/adapi.php?a=babytimes_p_at_ltf_a01_120x600
-   &amp;refercheck=101
+   &amprefercheck=101
 
    IFRAME: babytimes_p_at_rtf_a02_120x600
 
@@ -16743,7 +16743,7 @@ NF통신 매체정보
 
    IFRAME:
    //kitweb.tadapi.info/network/tadtext5/adapi.php?a=babytimes_p_at_tadtex
-   t5_670x200&amp;refercheck=101
+   t5_670x200&amprefercheck=101
      __________________________________________________________________
 
    댓글삭제
@@ -16784,7 +16784,7 @@ NF통신 매체정보
      __________________________________________________________________
 
    IFRAME:
-   //kitweb.tadapi.info/network/adapi.php?a=babytimes_p_at_r_a01_300x250&amp;r
+   //kitweb.tadapi.info/network/adapi.php?a=babytimes_p_at_r_a01_300x250&ampr
    efercheck=101
 
    인기뉴스
@@ -16810,7 +16810,7 @@ NF통신 매체정보
        한국유치원총연합회 첫 직선 이사장에 김애순 원장 당선
 
    IFRAME:
-   //kitweb.tadapi.info/network/adapi.php?a=babytimes_p_at_r_a02_300x250&amp;r
+   //kitweb.tadapi.info/network/adapi.php?a=babytimes_p_at_r_a02_300x250&ampr
    efercheck=101
 
    카드뉴스
@@ -16826,7 +16826,7 @@ NF통신 매체정보
    “수능 수험생 여러분, 이것만은 꼭 지켜주세요!”
 
    IFRAME:
-   //kitweb.tadapi.info/network/adapi.php?a=babytimes_p_at_r_a03_300x250&amp;r
+   //kitweb.tadapi.info/network/adapi.php?a=babytimes_p_at_r_a03_300x250&ampr
    efercheck=101
 
    베이비타임즈
@@ -16859,7 +16859,7 @@ NF통신 매체정보
 
    서울신문
    공식 SNS 채널
-   구독 &amp; 좋아요!!
+   구독 &amp 좋아요!!
 
    서울신문 페이스북 서울신문 유튜브
    서울신문 인스타그램 서울신문 트위터 서울신문 네이버채널
@@ -16991,7 +16991,7 @@ NF통신 매체정보
    증오선동의 정치에 함께 맞서 오늘과 내일을 만들어 가길 기원하며.
    2022-02-15 30면
 
-   IFRAME: //ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08XF&amp;out=iframe
+   IFRAME: //ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08XF&ampout=iframe
 
    페이스북 공유 트위터 공유 카카오톡 공유 카카오스토리 공유 네이버밴드 공유 네이버블로그 공유 구분선 댓글
 
@@ -17005,7 +17005,7 @@ NF통신 매체정보
      * 대법 “수지 ‘국민호텔녀’ 댓글 모욕죄 성립”
      * “순간적 반응”…아파트 추락女 맨손으로 받은 순경
 
-   IFRAME: //ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08XG&amp;out=iframe
+   IFRAME: //ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08XG&ampout=iframe
 
    [20_onlines_t.png] [20_a_left2.png] [20_a_right2.png]
      * 밀리터리 인사이드
@@ -17076,7 +17076,7 @@ NF통신 매체정보
    IFRAME: //ads.mncmedia.co.kr/mad/SEOUL/seoul_pc_right_N.html
 
    IFRAME:
-   https://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08XE&amp;out=iframe
+   https://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08XE&ampout=iframe
 
    나우뉴스 : 지구촌 별별 이야기 더보기
      * 샴페인 든 푸틴, 우크라 폭격후 승리 다짐
@@ -17159,7 +17159,7 @@ NF통신 매체정보
    ht
 
    서울신문 공식 SNS 채널
-   구독 &amp; 좋아요!!
+   구독 &amp 좋아요!!
    서울신문 페이스북 서울신문 유튜브 네이버채널 서울신문 인스타그램 서울신문 트위터
 
      * 신문구독
@@ -17186,8 +17186,8 @@ NF통신 매체정보
    모바일버전보기
 
    IFRAME:
-   /weblog/proc/weblog_current.php?un=0000100&amp;articleId=20220215030008&amp;wlo
-   g_sub=&amp;wlog_tag1=&amp;wlog_tag2=&amp;wlog_tag3=&amp;wlog_tag4=&amp;m_sub=&amp;refer=
+   /weblog/proc/weblog_current.php?un=0000100&amparticleId=20220215030008&ampwlo
+   g_sub=&ampwlog_tag1=&ampwlog_tag2=&ampwlog_tag3=&ampwlog_tag4=&ampm_sub=&amprefer=
 
    IFRAME:
    https://wwwads.seoul.co.kr/RealMedia/ads/adstream_sx.ads/seoul/news@x51
@@ -17664,7 +17664,7 @@ mbn news
      * 인기척
      * 다듬은 우리말
 
-   뉴스 &gt; 정치
+   뉴스 >gt 정치
 
 與 "김건희 슬리퍼 외교 결례? 野 영부인 관음증·민주당식 페미니즘'"
 
@@ -17713,8 +17713,8 @@ mbn news
    오늘의 이슈픽
 
    IFRAME:
-   https://www.mbn.co.kr/player/videojs/sharevideo.html?clipID=4800788&amp;cpI
-   D=&amp;autoplay=true&amp;muted=true&amp;site=MPLAY
+   https://www.mbn.co.kr/player/videojs/sharevideo.html?clipID=4800788&ampcpI
+   D=&ampautoplay=true&ampmuted=true&ampsite=MPLAY
 
      * 인기영상
      * 시선집중
@@ -18067,7 +18067,7 @@ mbn로고
    [INS: :INS]
 
    IFRAME:
-   https://media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=04V1&amp;utf-8&amp;ou
+   https://media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=04V1&amputf-8&ampou
    t=iframe
 
    천지일보 newscj@newscj.com
@@ -18086,8 +18086,8 @@ mbn로고
    [tv_01.jpg] [tv_02.jpg] [tv_03.jpg]
 
    IFRAME:
-   https://media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=05JF&amp;lang=utf
-   -8&amp;out=iframe
+   https://media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=05JF&amplang=utf
+   -8&ampout=iframe
 
 천지오피니언
 
@@ -18990,7 +18990,7 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
      * 2022 카타르
 
    ____________________ (BUTTON) 검색
-   사회 &gt;
+   사회 >gt
 
 "우영우, 페미 묻었다" vs "이게 무슨 페미냐" 논란
 
@@ -19075,7 +19075,7 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
    #alternate
 
    IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&amp;noscript=true
+   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&ampnoscript=true
 
    본문 바로가기
 
@@ -19153,8 +19153,8 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -19180,7 +19180,7 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -19196,7 +19196,7 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -19284,7 +19284,7 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
           +
 
 코로나19 추가접종 ‘6%대’ 과학방역 정부의 대책은?
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 북 핵실험·미사일 발사
           + 만리재사진첩
           + 한반도 평화
@@ -19314,9 +19314,9 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
           +
 
 내 편 아니면 ‘부도덕 낙인’…윤 대통령, 비판세력 때리기
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 북한 무인기
@@ -19344,9 +19344,9 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
           +
 
 합참, ‘북한 무인기 대비’ 육군·공군 참여 첫 합동방공훈련
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 이태원 참사
@@ -19374,9 +19374,9 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
           +
 
 민주당 “이태원 국정조사 기간 연장해야…보고서 채택 등 불가능”
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 미안해, 기억할게
@@ -19404,9 +19404,9 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
           +
 
 눈감은 널 2시간 쓰다듬었어, 엄마랑 얘기하는 거 좋아했잖아
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 검찰 사정정국
@@ -19434,12 +19434,12 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
           +
 
 이재명 ‘공직선거법 위반’ 사건 재판…유동규 증인 채택
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
-     * 책&amp;생각🌄
+     * 책&amp생각🌄
           + 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
 
 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
@@ -19464,7 +19464,7 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
           +
 
 당신의 나를 망칠 권리, 나에게 닿았다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 전성원의 길 위의 독서
           + 짬
           + 나는 역사다
@@ -19494,12 +19494,12 @@ K푸드는 어떻게 세계인의 일상에 스며들었나
           +
 
 품위 있는 달콤함, 마음 속 응어리가 사르르
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + [한겨레S] 인터뷰
           + ESC : 곽정은의 단호한 관계 클리닉
           + ESC : 커버스토리
           + ESC : 여행
-     * 미래&amp;과학
+     * 미래&amp과학
           + 2022년에 더 추락한 한국인의 행복감
 
 2022년에 더 추락한 한국인의 행복감
@@ -19524,7 +19524,7 @@ PCR과 항원검사, 뭐가 더 효율적일까…감염자 비율에 달렸다
           +
 
 밥상 차리는 마음이 돌봄의 정수다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 윤복원의 물리상식으로 푸는 요즘 세상
           + 김준혁의 의학과 서사
           + 전치형 과학의 언저리
@@ -19554,9 +19554,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 [단독] 탄소중립위 “이의 있소”…윤 정부 재생에너지 축소 방침 제동
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 뉴스레터
@@ -19629,7 +19629,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    안 된다, 여자만 할 수 있다는 얘기만 한다”며 “남성을 차별하는 도구”라고 말했다. 페미니즘을 지지하는 ㅎ(25)씨도 “20대
    남성들 사이에선 반페미니즘이 디폴트값이어서, 나처럼 페미니즘을 지지하는 것 자체가 좀 특이한 경우”라고 했다.
 
-   기존 연구 결과도 이와 다르지 않다. 한국여성정책연구원이 2018년 공개한 &lt;성 불평등과 남성의 삶의 질에 관한 연구&gt; 보고서를
+   기존 연구 결과도 이와 다르지 않다. 한국여성정책연구원이 2018년 공개한 <lt성 불평등과 남성의 삶의 질에 관한 연구>gt 보고서를
    보면, 남성의 반페미니즘 의식(5점 만점)은 20대 3.78, 30대 3.61, 40대 3.24, 50대 3.06으로 20대
    남성이 페미니즘에 가장 강하게 반대했다. 김경희 중앙대 사회학과 교수와 마경희 한국여성정책연구원 연구위원의 ‘새로운 세대의
    의식과 태도: 2030세대 젠더 및 사회의식 조사 결과’(2019년)에선 ‘페미니즘은 여성우월주의’라고 여기는 남성이
@@ -19754,13 +19754,13 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    이 때문에 청년용접공 천현우 작가는 “지금 20대에게 페미니즘은 트위터 등에서 나오는 일부 메시지를 조리돌림 하면서 생긴 가상의
    공포다. 이걸 공론장을 계속 열어 서로 알려주고, 남성과 여성이 쓰는 언어에 차이가 있다는 걸 하나씩 밝혀나가야 한다”고
-   말했다. 가능성이 영 없는 건 아니다. &lt;성 불평등과 남성의 삶의 질에 관한 연구&gt;를 보면, 20대 남성은 적대적
+   말했다. 가능성이 영 없는 건 아니다. <lt성 불평등과 남성의 삶의 질에 관한 연구>gt를 보면, 20대 남성은 적대적
    성차별·반페미니즘 성향(50.5%)이 가장 높지만 반성차별주의 성향도 25.7%다. 이에 마경희 연구위원은 “이미 변화하고 있는
    20대와 비전통적 남성이 자신의 갈등적 경험을 반성차별주의 언어로 성찰할 수 있도록 하는 것이 관건”이라고 짚었다. 20대
    남성이 자신의 사회적 불안을 페미니즘을 통해 소통할 수 있도록 만드는 게 중요하다는 것이다.
 
-   당사자가 직접 의견을 개진하고 의제를 만들 기회를 더 많이 만들어야 한다는 제안도 있다. 이는 조귀동 작가가 &lt;세습 중산층
-   사회&gt;에서 언급한 “중상위층 20대는 동일 계층 여성과 명문대 진학과 번듯한 일자리 취업을 놓고 예전보다 격렬한 경쟁을 벌여야
+   당사자가 직접 의견을 개진하고 의제를 만들 기회를 더 많이 만들어야 한다는 제안도 있다. 이는 조귀동 작가가 <lt세습 중산층
+   사회>gt에서 언급한 “중상위층 20대는 동일 계층 여성과 명문대 진학과 번듯한 일자리 취업을 놓고 예전보다 격렬한 경쟁을 벌여야
    하기 때문에 분노한다면, 사회경제적 약자로 살아가는 20대는 연애와 결혼 시장에서의 경험을 통해 자신이 ‘약자’라는 현실을
    절감하게 되면서 분노”한다는 지적과 맞닿아 있다. “20대 남성 집단이 주도하는 젠더 갈등이 결국 20대 남성 각각이 속한
    계층에 따라 다른 동기에 의해서 발생하며, 또 그것이 계층에 따른 사회경제적 이해관계와 혼합될 가능성이 높”기 때문에, 20대
@@ -19770,7 +19770,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    조혜정 기자 zesty@hani.co.kr
 
-   ☞주말 뉴스를 가장 손쉽게. 레터&gt;를 ‘무료’ 구독해주세요.
+   ☞주말 뉴스를 가장 손쉽게. 레터>gt를 ‘무료’ 구독해주세요.
 
    구독하기 https://page.stibee.com/subscriptions/151115
 
@@ -19787,7 +19787,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
 광고
 
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 광고
 
@@ -19822,8 +19822,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
        IFRAME:
        https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.fa
-       cebook.com%2Fhankyoreh&amp;width=125&amp;layout=button_count&amp;action=like&amp;si
-       ze=large&amp;share=false&amp;height=30&amp;appId=217637861700365
+       cebook.com%2Fhankyoreh&ampwidth=125&amplayout=button_count&ampaction=like&ampsi
+       ze=large&ampshare=false&ampheight=30&ampappId=217637861700365
 
      * Follow @hanitweet
      * 전체기사RSSRSS페이지 목록
@@ -19833,7 +19833,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    IFRAME:
    https://adservice.hani.co.kr/RealMedia/ads/adstream_sx.ads/hani_desktop
-   /@x71?society&amp;kisano=1024750
+   /@x71?society&ampkisano=1024750
 
      *
 
@@ -19910,8 +19910,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -19937,7 +19937,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -19953,7 +19953,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -20241,14 +20241,14 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    [profile_33289_1606981731.png ]
    김하나 기자
    (hanakim@dailian.co.kr)
-   기사 모아 보기 &gt;
+   기사 모아 보기 >gt
    (BUTTON) +네이버 구독
    0
    0
    [\newCommon\icon\share.svg]
 
    IFRAME:
-   https://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=090q&amp;out=iframe
+   https://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=090q&ampout=iframe
 
    [201020_배너.png]
 
@@ -20283,7 +20283,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    9 ‘절대 1강’ 대한항공의 천적은? 현대건설 연패 탈출
    10 빨래하던 女 쳐다보더니…쫓아가 주거지 침입한 50대男
 
-   IFRAME: https://stt.pltapad.com/contain.php?jc=Plt22048&amp;st=3
+   IFRAME: https://stt.pltapad.com/contain.php?jc=Plt22048&ampst=3
 
    [INS: :INS]
    [INS: :INS]
@@ -20427,11 +20427,11 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    연합뉴스
 
    “남성은 주로 구체적인 특정 집단에 대한 편견 및 갈등을 혐오라고 규정하고, 여성은 주로 ‘다름’을 인정하지 않는 사회에서
-   발생하는 구조적 차별과 폭력을 혐오로 규정한다.”(홍찬숙, &lt;한국 사회의 압축적 개인화와 문화변동&gt;)
+   발생하는 구조적 차별과 폭력을 혐오로 규정한다.”(홍찬숙, <lt한국 사회의 압축적 개인화와 문화변동>gt)
    ‘혐오가 문제’라고 모두 말하지만, 각자가 인식하는 혐오는 다르다. 무엇을 어디까지 혐오로 인식할지, 어떻게 접근하고 어떤
    해결책을 모색할지를 두고 또 다른 충돌이 발생한다. 이 때문에 혐오의 원인과 맥락에 접근할 길을 찾는 대신, 겉으로 드러난 갈등
    자체만을 정치적으로 이용하려는 흐름이 두드러진다.
-   &lt;한겨레21&gt;은 이같은 혐오 현상을 새로운 접근법으로 분석해보려 했다. 1부에서는 지식콘텐츠 스타트업 ‘언더스코어’와 함께
+   <lt한겨레21>gt은 이같은 혐오 현상을 새로운 접근법으로 분석해보려 했다. 1부에서는 지식콘텐츠 스타트업 ‘언더스코어’와 함께
    온라인 커뮤니티와 포털 뉴스 댓글 등의 빅데이터를 분석해 한국의 혐오가 온라인 공간에서 어떤 맥락 안에 축적돼왔는지를 살폈다.
    온라인 공간은 오프라인 공간보다 혐오를 둘러싸고 가장 치열한 논쟁이 벌어지는 곳이며, 언론과 정치인의 목소리를 통해 혐오가
    확대재생산될 가능성이 큰 곳이기도 하다. 여성혐오 표현에 거울을 비추는 방식(미러링)으로 혐오를 되돌려주려 한, 온라인 커뮤니티
@@ -20559,7 +20559,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    2017년 대선을 거치면서는 문재인 정부, 정의당, 여성가족부 등을 함께 언급하며 정치·정책적으로 비판하는 게시글의 형태가
    나타났다. 2018년 5~12월엔 메갈과 페미니즘에 대한 반감이 더욱 높아지고 여성혐오 표현도 다양해졌다. 서울 혜화역에서
    불법촬영 범죄에 항의하는 ‘불편한 용기’ 집회가 이어졌던 때다. 이 기간에 펨코 추천 비율 상위 10개 글 중 8개는 ‘페미’
-   ‘메갈’ ‘워마드’를 혼용한 비난글이었다. 특정 콘텐츠나 인물을 향한 ‘좌표찍기’도 더욱 활성화한다. &lt;82년생 김지영&gt;을
+   ‘메갈’ ‘워마드’를 혼용한 비난글이었다. 특정 콘텐츠나 인물을 향한 ‘좌표찍기’도 더욱 활성화한다. <lt82년생 김지영>gt을
    비난하고 여성 유튜버, 여성 게임 스트리머를 신고해달라고 부탁하는 글 등이 예다.
 
    새로운 질문을 던져야 한다
@@ -20582,7 +20582,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    [어떻게 분석했나] 3만5천 개 텍스트 학습한 AI가 게시글·댓글 정밀분석
 
-   ‘혐오’를 주제로 한 &lt;한겨레21&gt;의 기획취재에서 언더스코어는 ‘헤이트스코어(HateScore) 알고리즘’을 바탕으로
+   ‘혐오’를 주제로 한 <lt한겨레21>gt의 기획취재에서 언더스코어는 ‘헤이트스코어(HateScore) 알고리즘’을 바탕으로
    에펨코리아, 일간베스트저장소 등 온라인 커뮤니티 게시물과 네이버와 다음 등 포털 뉴스 댓글을 분석했다. 사람이 직접 온라인
    커뮤니티나 댓글을 하나하나 살펴볼 수도 있겠지만, 그 자의적인 판단 가능성을 최소화하고 몇십만 건에 이르는 대규모 데이터의
    혐오표현 정도를 하나하나 측정하기 위해서는 정량적인 접근이 필요하기 때문이다.
@@ -20604,7 +20604,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    이렇듯 주어진 문장이 혐오발언인지 아닌지, 만약 혐오발언이라면 여성혐오인지 성소수자혐오인지 지역혐오인지 그 확률값을
    0~100%에서 계산하도록 하는 헤이트스코어 모델 이외에, 텍스트의 특성을 정량화하기 위해 군집화(clustering)
-   알고리즘도 이번 분석에서 함께 활용했다. 예를 들어 드라마 &lt;이상한 변호사 우영우&gt;와 관련한 에펨코리아 게시물에서 ‘뒤로 갈수록
+   알고리즘도 이번 분석에서 함께 활용했다. 예를 들어 드라마 <lt이상한 변호사 우영우>gt와 관련한 에펨코리아 게시물에서 ‘뒤로 갈수록
    PC스러운 소재들이 계속 나오네’라는 문장은 명시적인 혐오발언이라고 볼 수는 없겠지만, 혐오와 관련 있는 소재를 언급했기에
    추출할 가치가 있다. 군집화 알고리즘은 이를 위해 주어진 텍스트를 몇 가지 유형으로 나눈 뒤 각 유형이 다루는 주제를 살필 수
    있게 돕는다.
@@ -20632,9 +20632,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * ‘투명화’란 말로 ‘부패’ 뒤집어 씌우기 [뉴스 큐레이터]
 
 ‘투명화’란 말로 ‘부패’ 뒤집어 씌우기 [뉴스 큐레이터]
-     * 아쿠아리움 체험이 아무리 화려한들 &amp;lt;아바타: 물의 길&amp;gt;
+     * 아쿠아리움 체험이 아무리 화려한들 &amplt;아바타: 물의 길&ampgt;
 
-아쿠아리움 체험이 아무리 화려한들 &lt;아바타: 물의 길&gt;
+아쿠아리움 체험이 아무리 화려한들 <lt아바타: 물의 길>gt
 
 한겨레 인기기사
 
@@ -20691,7 +20691,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    #alternate
 
    IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&amp;noscript=true
+   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&ampnoscript=true
 
    본문 바로가기
 
@@ -20769,8 +20769,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -20796,7 +20796,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -20812,7 +20812,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -20900,7 +20900,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 코로나19 추가접종 ‘6%대’ 과학방역 정부의 대책은?
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 북 핵실험·미사일 발사
           + 만리재사진첩
           + 한반도 평화
@@ -20930,9 +20930,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 내 편 아니면 ‘부도덕 낙인’…윤 대통령, 비판세력 때리기
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 북한 무인기
@@ -20960,9 +20960,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 합참, ‘북한 무인기 대비’ 육군·공군 참여 첫 합동방공훈련
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 이태원 참사
@@ -20990,9 +20990,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 민주당 “이태원 국정조사 기간 연장해야…보고서 채택 등 불가능”
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 미안해, 기억할게
@@ -21020,9 +21020,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 눈감은 널 2시간 쓰다듬었어, 엄마랑 얘기하는 거 좋아했잖아
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 검찰 사정정국
@@ -21050,12 +21050,12 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 이재명 ‘공직선거법 위반’ 사건 재판…유동규 증인 채택
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
-     * 책&amp;생각🌄
+     * 책&amp생각🌄
           + 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
 
 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
@@ -21080,7 +21080,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 당신의 나를 망칠 권리, 나에게 닿았다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 전성원의 길 위의 독서
           + 짬
           + 나는 역사다
@@ -21110,12 +21110,12 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 품위 있는 달콤함, 마음 속 응어리가 사르르
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + [한겨레S] 인터뷰
           + ESC : 곽정은의 단호한 관계 클리닉
           + ESC : 커버스토리
           + ESC : 여행
-     * 미래&amp;과학
+     * 미래&amp과학
           + 2022년에 더 추락한 한국인의 행복감
 
 2022년에 더 추락한 한국인의 행복감
@@ -21140,7 +21140,7 @@ PCR과 항원검사, 뭐가 더 효율적일까…감염자 비율에 달렸다
           +
 
 밥상 차리는 마음이 돌봄의 정수다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 윤복원의 물리상식으로 푸는 요즘 세상
           + 김준혁의 의학과 서사
           + 전치형 과학의 언저리
@@ -21170,9 +21170,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 [단독] 탄소중립위 “이의 있소”…윤 정부 재생에너지 축소 방침 제동
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 뉴스레터
@@ -21210,7 +21210,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    “여성가족부는 나쁘다”는 비판에는 별다른 근거 없이 그 ‘이름’만을 공격하는 경우들이 있다. 사진은 반페미니즘 시위 현장 모습.
    문화방송(MBC) ‘PD수첩’ 화면 갈무리
 
-   대선 직후 &lt;피디(PD)수첩&gt;에서 일반인 20대 남성을 상대로 한 길거리 인터뷰에서 한 남성이 여성가족부를 비난했다. 말도 안
+   대선 직후 <lt피디(PD)수첩>gt에서 일반인 20대 남성을 상대로 한 길거리 인터뷰에서 한 남성이 여성가족부를 비난했다. 말도 안
    되는 정책을 펼친다는 것이 이유였다. 피디는 “그 말도 안 된다는 정책에 무엇이 있냐”고 물었고, 이 남성은 “그것까지는 잘
    모르겠다”고 대답했다. 여가부가 무엇을 하는 곳인지, 무엇을 했는지에 대한 지식과 이해가 거의 없지만, 여가부가 나쁜 집단이라는
    것만큼은 잘 안다고 스스로 믿고 있다. 여가부에 대한 반감은 여가부 자체를 향한 것이 아니라 여가부라는 이름에 대한 반감이다.
@@ -21246,19 +21246,19 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    남성들은 성차별적 사회를 지향하기 때문에 페미니즘에 반대하는 것이 아니라 페미니즘이 싫어서 그와 관련된 성평등 움직임에 반발하는
    것이다. 페미니즘이라는 이름에 대한 반감이 먼저 있고, 그에 결부된 가치들에 대한 반감이 후행한다.
 
-   지난 3월15일 방영된 문화방송 &amp;lt;피디수첩&amp;gt; ‘젠더 갈등과 여성가족부’ 편의 한 장면. 문화방송 제공
-   지난 3월15일 방영된 문화방송 &lt;피디수첩&gt; ‘젠더 갈등과 여성가족부’ 편의 한 장면. 문화방송 제공
+   지난 3월15일 방영된 문화방송 &amplt;피디수첩&ampgt; ‘젠더 갈등과 여성가족부’ 편의 한 장면. 문화방송 제공
+   지난 3월15일 방영된 문화방송 <lt피디수첩>gt ‘젠더 갈등과 여성가족부’ 편의 한 장면. 문화방송 제공
 
    반페미니즘이 확산하는 경로
 
    한 방송에서 조병영 한양대 교수(국어교육과)는 오늘날 점점 하락하는 문해력과 관련해서, 화자의 맥락 파악 없이 특정 단어에만
    반응하고 집착하는 경향에 관해 이야기했다. 반페미니즘은 이러한 경향과 만나서 아주 빠르고 강하게 증폭된다. 최근의 예로는 드라마
-   &lt;이상한 변호사 우영우&gt;의 특정 에피소드와 관련한 짧은 해프닝이 있었다. 해당 회차는 여성 노동 인권, 구조조정 때 성차별을
+   <lt이상한 변호사 우영우>gt의 특정 에피소드와 관련한 짧은 해프닝이 있었다. 해당 회차는 여성 노동 인권, 구조조정 때 성차별을
    다루며, 실화를 각색한 것이다. 이전까지의 회차와 비교해 특별할 것이 없는 에피소드였지만 몇몇 헌신적인 반페미니스트는 해당
    에피소드에서 몇 차례 거론된 여성 노동 인권이라는 단어에 꽂혔던가 보다. 이들은 드라마 작가의 이력을 찾아보고 그가 과거
    ‘페미니즘 영화’를 연출한 바 있다는 사실을 들며(서울국제여성영화제 신인상 수상 이력으로부터 페미니즘 영화를 유추한 듯하다)
    작가가 사실은 페미니스트였다고 소문을 퍼뜨렸다. 작가가 페미니스트라는 사실이 흥행에 어떤 악영향이라도 줄 거라고 믿는 양, 더
-   나아가 &lt;이상한 변호사 우영우&gt;가 ‘남혐’ 드라마라고 주장하는 사람도 많았다. 이러한 이야기를 진지하게 받아들이는 사람은 극히
+   나아가 <lt이상한 변호사 우영우>gt가 ‘남혐’ 드라마라고 주장하는 사람도 많았다. 이러한 이야기를 진지하게 받아들이는 사람은 극히
    적었다. 하지만 몇몇 언론사에서 이것을 ‘논란’이라고 보도한 탓에, 짧은 해프닝으로 그칠 일이 시끄러운 논쟁으로 번질 뻔했다.
 
    살면서 할 수 있는 가장 쉬운 일 중 하나가 유치원생 웃기는 것이다. 똥, 방귀 이야기만 하면 깔깔거리니까. 그 못지않게 쉬운
@@ -21266,7 +21266,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    남성을 발끈하게 만들기인 듯하다. 페미니즘의 편린이라도 연상케 하는 단어 몇개만 귀에 들어가면 반사적으로 화부터 내는 사람이
    점점 더 많이 보인다.
 
-   첫 책 &lt;프로보커터&gt;에 이어 &lt;급진의 20대&gt;를 썼고, &lt;인싸를 죽여라&gt;를 번역했다. 한국의 20대 현상과 좌파 포퓰리즘, 밈과
+   첫 책 <lt프로보커터>gt에 이어 <lt급진의 20대>gt를 썼고, <lt인싸를 죽여라>gt를 번역했다. 한국의 20대 현상과 좌파 포퓰리즘, 밈과
    인터넷커뮤니케이션 같은 디지털 현상에 관심이 많다.
 
 연재[한겨레S] 김내훈의 속도조절
@@ -21282,7 +21282,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
 광고
 
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 광고
 
@@ -21317,8 +21317,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
        IFRAME:
        https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.fa
-       cebook.com%2Fhankyoreh&amp;width=125&amp;layout=button_count&amp;action=like&amp;si
-       ze=large&amp;share=false&amp;height=30&amp;appId=217637861700365
+       cebook.com%2Fhankyoreh&ampwidth=125&amplayout=button_count&ampaction=like&ampsi
+       ze=large&ampshare=false&ampheight=30&ampappId=217637861700365
 
      * Follow @hanitweet
      * 전체기사RSSRSS페이지 목록
@@ -21328,7 +21328,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    IFRAME:
    https://adservice.hani.co.kr/RealMedia/ads/adstream_sx.ads/hani_desktop
-   /@x71?society&amp;kisano=1057745
+   /@x71?society&ampkisano=1057745
 
      *
 
@@ -21405,8 +21405,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -21432,7 +21432,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -21448,7 +21448,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -21546,7 +21546,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    #alternate
 
    IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&amp;noscript=true
+   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&ampnoscript=true
 
    본문 바로가기
 
@@ -21624,8 +21624,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -21651,7 +21651,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -21667,7 +21667,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -21755,7 +21755,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 코로나19 추가접종 ‘6%대’ 과학방역 정부의 대책은?
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 북 핵실험·미사일 발사
           + 만리재사진첩
           + 한반도 평화
@@ -21785,9 +21785,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 내 편 아니면 ‘부도덕 낙인’…윤 대통령, 비판세력 때리기
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 북한 무인기
@@ -21815,9 +21815,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 합참, ‘북한 무인기 대비’ 육군·공군 참여 첫 합동방공훈련
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 이태원 참사
@@ -21845,9 +21845,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 민주당 “이태원 국정조사 기간 연장해야…보고서 채택 등 불가능”
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 미안해, 기억할게
@@ -21875,9 +21875,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 눈감은 널 2시간 쓰다듬었어, 엄마랑 얘기하는 거 좋아했잖아
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 검찰 사정정국
@@ -21905,12 +21905,12 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 이재명 ‘공직선거법 위반’ 사건 재판…유동규 증인 채택
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
-     * 책&amp;생각🌄
+     * 책&amp생각🌄
           + 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
 
 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
@@ -21935,7 +21935,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 당신의 나를 망칠 권리, 나에게 닿았다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 전성원의 길 위의 독서
           + 짬
           + 나는 역사다
@@ -21965,12 +21965,12 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 품위 있는 달콤함, 마음 속 응어리가 사르르
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + [한겨레S] 인터뷰
           + ESC : 곽정은의 단호한 관계 클리닉
           + ESC : 커버스토리
           + ESC : 여행
-     * 미래&amp;과학
+     * 미래&amp과학
           + 2022년에 더 추락한 한국인의 행복감
 
 2022년에 더 추락한 한국인의 행복감
@@ -21995,7 +21995,7 @@ PCR과 항원검사, 뭐가 더 효율적일까…감염자 비율에 달렸다
           +
 
 밥상 차리는 마음이 돌봄의 정수다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 윤복원의 물리상식으로 푸는 요즘 세상
           + 김준혁의 의학과 서사
           + 전치형 과학의 언저리
@@ -22025,9 +22025,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 [단독] 탄소중립위 “이의 있소”…윤 정부 재생에너지 축소 방침 제동
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 뉴스레터
@@ -22065,10 +22065,10 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    지난 대선에서 윤석열 당시 후보는 성범죄 처벌 강화, 무고죄 처벌 강화, 여성가족부 폐지를 성평등 공약으로 내걸었다. 지난
    12일 강원도 원주 상지대에서 연 한국여성학회 추계학술대회에서는 이 공약들이 한국 사회의 ‘반페미 담론’을 반영한다는 분석이
-   나왔다. &amp;lt;한겨레&amp;gt; 자료사진
+   나왔다. &amplt;한겨레&ampgt; 자료사진
    지난 대선에서 윤석열 당시 후보는 성범죄 처벌 강화, 무고죄 처벌 강화, 여성가족부 폐지를 성평등 공약으로 내걸었다. 지난
    12일 강원도 원주 상지대에서 연 한국여성학회 추계학술대회에서는 이 공약들이 한국 사회의 ‘반페미 담론’을 반영한다는 분석이
-   나왔다. &lt;한겨레&gt; 자료사진
+   나왔다. <lt한겨레>gt 자료사진
 
    ☞한겨레S 뉴스레터 무료 구독. 검색창에 ‘에스레터’를 쳐보세요.
 
@@ -22103,10 +22103,10 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    지난 대선에서 윤석열 당시 후보는 성범죄 처벌 강화, 무고죄 처벌 강화, 여성가족부 폐지를 성평등 공약으로 내걸었다. 지난
    12일 강원도 원주 상지대에서 연 한국여성학회 추계학술대회에서는 이 공약들이 한국 사회의 ‘반페미 담론’을 반영한다는 분석이
-   나왔다. &amp;lt;한겨레&amp;gt; 자료사진
+   나왔다. &amplt;한겨레&ampgt; 자료사진
    지난 대선에서 윤석열 당시 후보는 성범죄 처벌 강화, 무고죄 처벌 강화, 여성가족부 폐지를 성평등 공약으로 내걸었다. 지난
    12일 강원도 원주 상지대에서 연 한국여성학회 추계학술대회에서는 이 공약들이 한국 사회의 ‘반페미 담론’을 반영한다는 분석이
-   나왔다. &lt;한겨레&gt; 자료사진
+   나왔다. <lt한겨레>gt 자료사진
 
     “남자가 피해자다” 미러링 확산
 
@@ -22226,7 +22226,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * “물밑 백래시 끌어올린, 여성 향한 조롱 가득한 선거였다” “물밑 백래시 끌어올린, 여성 향한 조롱 가득한 선거였다”
      * [사설] 여성 보호 강화하려고 여가부 폐지한다는 윤 대통령의 궤변 [사설] 여성 보호 강화하려고 여가부 폐지한다는 윤
        대통령의 궤변
-     * [책&amp;생각] 신념을 잃지 않고 일상을 되찾기까지 4년의 기록 [책&amp;생각] 신념을 잃지 않고 일상을 되찾기까지 4년의 기록
+     * [책&amp생각] 신념을 잃지 않고 일상을 되찾기까지 4년의 기록 [책&amp생각] 신념을 잃지 않고 일상을 되찾기까지 4년의 기록
 
    항상 시민과 함께하겠습니다. 한겨레 구독신청 하기
    이벤트 참여하기
@@ -22235,7 +22235,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
 광고
 
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 광고
 
@@ -22270,8 +22270,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
        IFRAME:
        https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.fa
-       cebook.com%2Fhankyoreh&amp;width=125&amp;layout=button_count&amp;action=like&amp;si
-       ze=large&amp;share=false&amp;height=30&amp;appId=217637861700365
+       cebook.com%2Fhankyoreh&ampwidth=125&amplayout=button_count&ampaction=like&ampsi
+       ze=large&ampshare=false&ampheight=30&ampappId=217637861700365
 
      * Follow @hanitweet
      * 전체기사RSSRSS페이지 목록
@@ -22281,7 +22281,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    IFRAME:
    https://adservice.hani.co.kr/RealMedia/ads/adstream_sx.ads/hani_desktop
-   /@x71?society&amp;kisano=1067974
+   /@x71?society&ampkisano=1067974
 
      *
 
@@ -22358,8 +22358,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -22385,7 +22385,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -22401,7 +22401,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -22500,7 +22500,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
    #alternate
 
    IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&amp;noscript=true
+   https://www.googletagmanager.com/ns.html?id=GTM-PVJ2FJK&ampnoscript=true
 
    본문 바로가기
 
@@ -22578,8 +22578,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -22605,7 +22605,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -22621,7 +22621,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -22709,7 +22709,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 코로나19 추가접종 ‘6%대’ 과학방역 정부의 대책은?
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 북 핵실험·미사일 발사
           + 만리재사진첩
           + 한반도 평화
@@ -22739,9 +22739,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 내 편 아니면 ‘부도덕 낙인’…윤 대통령, 비판세력 때리기
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 북한 무인기
@@ -22769,9 +22769,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 합참, ‘북한 무인기 대비’ 육군·공군 참여 첫 합동방공훈련
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 이태원 참사
@@ -22799,9 +22799,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 민주당 “이태원 국정조사 기간 연장해야…보고서 채택 등 불가능”
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 미안해, 기억할게
@@ -22829,9 +22829,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 눈감은 널 2시간 쓰다듬었어, 엄마랑 얘기하는 거 좋아했잖아
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 검찰 사정정국
@@ -22859,12 +22859,12 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 이재명 ‘공직선거법 위반’ 사건 재판…유동규 증인 채택
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
-     * 책&amp;생각🌄
+     * 책&amp생각🌄
           + 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
 
 머리는 냉철하게 가슴은 뜨겁게, 책과 더불어
@@ -22889,7 +22889,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 당신의 나를 망칠 권리, 나에게 닿았다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 전성원의 길 위의 독서
           + 짬
           + 나는 역사다
@@ -22919,12 +22919,12 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 품위 있는 달콤함, 마음 속 응어리가 사르르
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + [한겨레S] 인터뷰
           + ESC : 곽정은의 단호한 관계 클리닉
           + ESC : 커버스토리
           + ESC : 여행
-     * 미래&amp;과학
+     * 미래&amp과학
           + 2022년에 더 추락한 한국인의 행복감
 
 2022년에 더 추락한 한국인의 행복감
@@ -22949,7 +22949,7 @@ PCR과 항원검사, 뭐가 더 효율적일까…감염자 비율에 달렸다
           +
 
 밥상 차리는 마음이 돌봄의 정수다
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 윤복원의 물리상식으로 푸는 요즘 세상
           + 김준혁의 의학과 서사
           + 전치형 과학의 언저리
@@ -22979,9 +22979,9 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
           +
 
 [단독] 탄소중립위 “이의 있소”…윤 정부 재생에너지 축소 방침 제동
-          + 관련 이슈&amp;연재
+          + 관련 이슈&amp연재
           + 아베, 피격 사망
-          + 숨&amp;결
+          + 숨&amp결
           + 세상읽기
           + 편집국에서
      * 뉴스레터
@@ -23080,7 +23080,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
 광고
 
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 광고
 
@@ -23115,8 +23115,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
        IFRAME:
        https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.fa
-       cebook.com%2Fhankyoreh&amp;width=125&amp;layout=button_count&amp;action=like&amp;si
-       ze=large&amp;share=false&amp;height=30&amp;appId=217637861700365
+       cebook.com%2Fhankyoreh&ampwidth=125&amplayout=button_count&ampaction=like&ampsi
+       ze=large&ampshare=false&ampheight=30&ampappId=217637861700365
 
      * Follow @hanitweet
      * 전체기사RSSRSS페이지 목록
@@ -23126,7 +23126,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
 
    IFRAME:
    https://adservice.hani.co.kr/RealMedia/ads/adstream_sx.ads/hani_desktop
-   /@x71?society&amp;kisano=1030372
+   /@x71?society&ampkisano=1030372
 
      *
 
@@ -23203,8 +23203,8 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 여행·여가
      * 음악·공연·전시
      * 학술
-     * 책&amp;생각
-     * 제주&amp;
+     * 책&amp생각
+     * 제주&amp
 
    스포츠
      * 스포츠일반
@@ -23230,7 +23230,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 인간과동물
      * 생태와진화
 
-   기후변화&amp;
+   기후변화&amp
      * 기후정책
      * 기후행동
      * 기후과학
@@ -23246,7 +23246,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 옵스큐라
 
    만화 | ESC | 한겨레S | 한겨레 데이터베이스 | 뉴스그래픽 | 연재 | 이슈 | 함께하는교육 | HERI 이슈 |
-   탐사보도 | 서울&amp;
+   탐사보도 | 서울&amp
    스페셜
      * 물바람숲
      * 휴심정
@@ -23679,7 +23679,7 @@ RE100 기업들, 재생에너지 ‘직접구매’ 가장 선호
      * 북마크
 
    기사 제보 지면 구독신청 온라인 구독신청
-   &gt;Please activate JavaScript for write a comment in LiveRe.
+   >gtPlease activate JavaScript for write a comment in LiveRe.
 
 플랫 기사 더보기
 
