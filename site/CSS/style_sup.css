@@ -37,9 +37,14 @@ body{
 }
 
 /*hide the inputs/checkmarks and submenu*/
-input, .submenu {
+input, table.submenu {
   display: none;
 }
+
+input, pre.submenu {
+  display: none;
+}
+
 
 /*position the label*/
 div > label::after{
@@ -58,9 +63,14 @@ input:checked~label::after{
 
 
 /*show the submenu when input is checked*/
-input:checked~.submenu {
+input:checked~table.submenu {
   display: block;
 }
+
+input:checked~pre.submenu {
+  display: block;
+}
+
 
 div {
   margin-bottom : 2%;
