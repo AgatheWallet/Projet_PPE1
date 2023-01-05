@@ -5,7 +5,7 @@
 # doit être exécuté depuis la racine du projet
 # cela lui permet de récupérer les fichiers dans les bons dossiers
 #
-# Se lancera donc comme ça : ./scripts/make_itrameur_corpus.sh
+# Se lancera donc comme ça : ./scripts/make_itrameur_corpus.sh <dossier>
 #=======================================================================
 
 if [[ $# -ne 1 ]]
@@ -15,15 +15,15 @@ then
 fi
 
 
-folder=$1 # dumps-text OU contextes (attention, ne pas mettre la "/" après le nom du répertoire)
-if [ $folder == "dumps-text" ]
+folder=$1 # dumps-text/ OU contextes/ (attention, ne pas oublier le "/" après le nom du répertoire)
+if [ $folder == "dumps-text/" ]
 then
-	foldername="dumps"
-elif [ $folder == "contextes" ]
+	foldername="dump"
+elif [ $folder == "contextes/" ]
 then
-	foldername="contextes"
+	foldername="contexte"
 fi
-path="$folder/*"
+path="$folder*"
 #echo "$path"
 
 # création du fichier de concaténation
@@ -32,7 +32,7 @@ touch $concatenationFile
 
 for subpath in $path
 do
-	basename=$(echo "$subpath" | egrep -o "(fr)|(jp)|(kr)|(pt)")
+	basename=$(echo "$subpath" | egrep -o "(fr)|(jp)|(kr)")
 	
 	output="./iTrameur/$foldername-$basename.txt"
 	
@@ -42,6 +42,11 @@ do
 	do
 		# filepath == dumps-texts/jp-1.txt
 		# 	==> pagename = fr-1
+		if [[ $filepath =~ .*jp.*[^(tok)].txt ]]
+		then
+			continue
+		fi
+		echo "$filepath"
 		filename=$(echo "$file" | basename -s .txt $filepath)
 		echo "<page=\"$filename\">" >> $output
 		echo "<text>" >> $output
@@ -52,9 +57,9 @@ do
 		
 		# ordre important : & en premier
 		# sinon : < => &lt; => &amp;lt;
-		content=$(echo "$content" | sed 's/\&/\&amp;/g')
-		content=$(echo "$content" | sed 's/</\&lt;/g')
-		content=$(echo "$content" | sed 's/>/\&gt;/g')
+		content=$(echo "$content" | sed 's/&/&amp/g')
+		content=$(echo "$content" | sed 's/</&lt/g')
+		content=$(echo "$content" | sed 's/>/&gt/g')
 		
 		echo "$content" >> $output
 		
