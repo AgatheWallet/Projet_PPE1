@@ -35,6 +35,9 @@ Fanny :
 - Ajout des derniers URL pour le portugais
 - Mise sur le git de la première version du script qu'il est nécessaire de modifier. 
 
+Agathe : 
+- Travail sur le script pour générer les tableaux
+- Mise en page du site : ajout de la fiche CSS Bulma et d'une feuille CSS supplémentaire pour pouvoir modifier certaines choses
 
 ## 20 décembre
 Agathe :
@@ -102,4 +105,13 @@ Agathe :
 - Exécution du programme `make_itrameur_corpus.sh` et test des fichiers `dumps.txt` et `contextes.txt` sur iTrameur → les fichiers sont correctement lus
 - Insertion de la page féminisme sur le site et ajout de la définition du féminisme selon le dictionnaire en ligne coréen Naver
 
+## 4 janvier
+Agathe :
+- Génération des nuages de mots pour le français et le portugais à partir des dumps-text
 
+## 5 janvier
+Agathe : 
+- Tokenization des contextes japonais avec script utilisant tokenizer spacy pour génération des nuages de mots
+- Génération des nuages de mots pour le français, le portugais, le coréen et le japonais (stopwords encore à supprimer pour portugais et japonais) à partir des contextes → plus pertinent et retire les menus, etc
+- Ajout des scripts bash sur le site
+- Ajout de l'image bas-de-page sur toutes les pages du site
