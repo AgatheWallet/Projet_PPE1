@@ -24,10 +24,10 @@ print(sortie)
 
 nlp = spacy.load("ja_core_news_sm")
 with open (entree, 'r') as rf:
- 	with open (sortie, 'w') as wt:
+	with open (sortie, 'w') as wt:
 		for line in rf:
- 			doc=nlp(line)
- 			for token in doc:
+			doc=nlp(line)
+			for token in doc:
 				wt.write(token.text)
 				wt.write(" ")
 
