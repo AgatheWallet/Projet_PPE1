@@ -22,7 +22,217 @@
 				</div>
 			</nav>
 		</header>
-		<p> Voici de très beaux scripts </p>
+		
+		<h1 class="title">SCRIPTS</h1>
+		<div class="box">
+			<div>
+				<input id="check01" type="checkbox" name="menu" />
+				<label for="check01" class="subtitle  is-4">Script pour la création des tableaux d'URL et des concordanciers</label>
+				<pre class="submenu"><code class="language-bash">#!/usr/bin/env bash
+
+#=======================================================================
+# script pour créer un tableau html et le concordancier
+# prend 4 arguments :
+#    1: le nom du fichier en entrée contenant les urls 
+#    2: le nom du fichier html de tableau renvoyé en sortie  
+#   3: le nom du fichier html du concordancier  renvoyé en sortie
+#    4: le mot dans la langue considérée
+# Pour lancer le script: 
+# ./script/base_tableaux_fichier.sh &lt;fichier_url&gt; &lt;fichier_html&gt; &lt;fichier_concordancier&gt; &lt;mot&gt;
+#=======================================================================
+
+fichier_urls=$1 # le fichier d&#39;URL en entrée
+fichier_tableau=$2 # le fichier HTML en sortie
+fichier_concordancier=$3 # le fichier concordancier en sortie
+mot=$4 # le mot dans la langue cherchée
+
+if [[ $# -ne 4 ]]
+then
+	echo &quot;Quatre arguments attendus: &lt;fichier_URL&gt; &lt;fichier_HTML&gt; &lt;fichier_concordancier&gt; &lt;mot&gt;&quot;
+	exit
+fi
+
+
+echo $fichier_urls;
+basename=$(basename -s .txt $fichier_urls)
+lang=$(basename -s .txt $fichier_urls | sed &quot;s/URL_//g&quot;)
+
+######
+
+# Initialisation tableau URLs
+
+echo &quot;&lt;html&gt;&lt;body&gt;&quot; &gt; $fichier_tableau
+echo &quot;&lt;h2&gt;Tableau $basename :&lt;/h2&gt;&quot; &gt;&gt; $fichier_tableau
+echo &quot;&lt;br/&gt;&quot; &gt;&gt; $fichier_tableau
+echo &quot;&lt;table&gt;&quot; &gt;&gt; $fichier_tableau
+echo &quot;&lt;tr&gt;&lt;th&gt;ligne&lt;/th&gt;&lt;th&gt;code&lt;/th&gt;&lt;th&gt;URL&lt;/th&gt;&lt;th&gt;encodage&lt;/th&gt;&lt;th&gt;aspiration&lt;/th&gt;&lt;th&gt;dump-text&lt;/th&gt;&lt;th&gt;occurrences&lt;/th&gt;&lt;th&gt;contextes&lt;/th&gt;&lt;/tr&gt;&quot; &gt;&gt; $fichier_tableau
+
+
+# Initialisation concordancier
+
+echo &quot;&lt;html&gt;&lt;body&gt;&quot; &gt; $fichier_concordancier
+echo &quot;&lt;h2&gt;Tableau $basename :&lt;/h2&gt;&quot; &gt;&gt; $fichier_concordancier
+echo &quot;&lt;br/&gt;&quot; &gt;&gt; $fichier_concordancier
+echo &quot;&lt;table&gt;&quot; &gt;&gt; $fichier_concordancier
+echo &quot;&lt;tr&gt;&lt;th&gt;Contexte gauche&lt;/th&gt;&lt;th class=\&quot;centre-tableau\&quot;&gt;$mot&lt;/th&gt;&lt;th&gt;Contexte droit&lt;/th&gt;&lt;/tr&gt;&quot; &gt;&gt; $fichier_concordancier
+
+######
+
+lineno=1;
+while read -r URL; do
+	echo -e &quot;\tURL : $URL&quot;;
+	# la façon attendue, sans l&#39;option -w de cURL
+	code=$(curl -ILs $URL | grep -e &quot;^HTTP/&quot; | grep -Eo &quot;[0-9]{3}&quot; | tail -n 1)
+	charset=$(curl -ILs $URL | grep -Eo &quot;charset=(\w|-)+&quot; | tail -n 1 | cut -d= -f2)
+	#contenu=$(curl $URL) 
+
+	# autre façon, avec l&#39;option -w de cURL
+	# code=$(curl -Ls -o /dev/null -w &quot;%{http_code}&quot; $URL)
+	# charset=$(curl -ILs -o /dev/null -w &quot;%{content_type}&quot; $URL | grep -Eo &quot;charset=(\w|-)+&quot; | cut -d= -f2)
+	
+	
+	echo -e &quot;\tcode : $code&quot;;
+
+	if [[ ! $charset ]]
+	then
+		echo -e &quot;\tencodage non détecté, on prendra UTF-8 par défaut.&quot;;
+		charset=&quot;UTF-8&quot;;
+	else
+		echo -e &quot;\tencodage : $charset&quot;;
+	fi
+
+	if [[ $code -eq 200 ]]
+	then
+		dump=$(lynx -dump -nolist -assume_charset=$charset -display_charset=$charset $URL)
+	
+		
+		if [[ $charset -ne &quot;UTF-8&quot; &amp;&amp; -n &quot;$dump&quot; ]]
+		then
+			dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)
+	
+		fi
+		
+		curl $URL &gt; ./aspirations/$lang/$basename-$lineno.html
+		echo &quot;$dump&quot; &gt; ./dumps-text/$lang/$basename-$lineno.txt
+		contexte=$(echo &quot;$dump&quot; | egrep -i -A 1 -B 1 &quot;$mot&quot;)
+		echo &quot;$contexte&quot; &gt; ./contextes/$lang/$basename-$lineno.txt
+		
+		nb_occ=$(echo &quot;$dump&quot; | egrep -io &quot;$mot&quot; | wc -w)
+		
+		dump_continu=$(echo &quot;$dump&quot; | sed &#39;:a;N;$!ba;s/\n\n/§/g&#39;)
+		dump_continu=$(echo &quot;$dump_continu&quot; | sed &#39;:a;N;$!ba;s/\n//g&#39;)
+		dump_continu=$(echo &quot;$dump_continu&quot; | sed &#39;s/\&amp;/\&amp;amp;/g; s/&lt;/\&amp;lt;/g; s/&gt;/\&amp;gt;/g&#39;)
+		
+		
+		contexte_concordance=$(echo &quot;$dump_continu&quot; | egrep -io &quot;[。.?？！!…§][^。.?？！!…§]*$mot[^。.?？！!…§]*[。.?？！!…§]&quot;)
+		
+		while read -r line
+		do
+			contexte_gauche=$(echo &quot;$line&quot; | sed -s &quot;s/[。.?？！!…§]\([^。.?？！!…§]*\)$mot\([^。.?？！!…§]*[。.?？！!…§]\)/\1/g&quot;)
+			contexte_droit=$(echo &quot;$line&quot; | sed -s &quot;s/[。.?？！!…§]\([^。.?？！!…§]*\)$mot\([^。.?？！!…§]*[。.?？！!…§]\)/\2/g&quot;)
+			echo &quot;&lt;tr&gt;&lt;td class=\&quot;has-text-right\&quot;&gt;$contexte_gauche&lt;/td&gt;&lt;td class=\&quot;centre-tableau\&quot;&gt;$mot&lt;/td&gt;&lt;td class=\&quot;has-text-left\&quot;&gt;$contexte_droit&lt;/td&gt;&lt;/tr&gt;&quot; &gt;&gt; $fichier_concordancier
+		done &lt;&lt;&lt; $contexte_concordance
+		
+	else
+		echo -e &quot;\tcode différent de 200 utilisation d&#39;un dump vide&quot;
+		dump=&quot;&quot;
+		charset=&quot;&quot;
+	fi
+	URL=$(echo &quot;$URL&quot; | sed &#39;s/\&amp;/\&amp;amp;/g; s/&lt;/\&amp;lt;/g; s/&gt;/\&amp;gt;/g&#39; )
+	# Met l&#39;encodage en majuscule
+	charset=$(echo ${charset^^})
+	# Remplit le tableau avec les informations récupérés pour l&#39;URL en cours de lecture
+	echo &quot;&lt;tr&gt;&lt;td&gt;$lineno&lt;/td&gt;&lt;td&gt;$code&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;$URL\&quot;&gt;$URL&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$charset&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;../aspirations/$lang/$basename-$lineno.html\&quot;&gt;aspiration&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;../dumps-text/$lang/$basename-$lineno.txt\&quot;&gt;dump&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$nb_occ&lt;/td&gt;&lt;td&gt;&lt;a href=\&quot;../contextes/$lang/$basename-$lineno.txt\&quot;&gt; contextes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&quot; &gt;&gt; $fichier_tableau
+	echo -e &quot;\t--------------------------------&quot;
+	lineno=$((lineno+1));
+done &lt; $fichier_urls
+
+######
+
+# Fermeture fichier tableau URL
+
+echo &quot;&lt;/table&gt;&quot; &gt;&gt; $fichier_tableau
+echo &quot;&lt;/body&gt;&lt;/html&gt;&quot; &gt;&gt; $fichier_tableau
+
+# Fermeture fichier concordancier
+
+echo &quot;&lt;/table&gt;&quot; &gt;&gt; $fichier_concordancier
+echo &quot;&lt;/body&gt;&lt;/html&gt;&quot; &gt;&gt; $fichier_concordancier
+			</code></pre>
+			</div>
+			<div>
+				<input id="check02" type="checkbox" name="menu" />
+				<label for="check02" class="subtitle  is-4">Script pour la normalisation des textes pour iTrameur</label>
+				<pre class="submenu"><code class="language-bash">#!/usr/bin/env bash
+
+#=======================================================================
+# script pour créer le corpus itrameur
+# doit être exécuté depuis la racine du projet
+# cela lui permet de récupérer les fichiers dans les bons dossiers
+#
+# Se lancera donc comme ça : ./scripts/make_itrameur_corpus.sh
+#=======================================================================
+
+if [[ $# -ne 1 ]]
+then
+    echo &quot;Un argument attendu: &lt;dossier&gt;&quot;
+    exit
+fi
+
+
+folder=$1 # dumps-text OU contextes (attention, ne pas mettre la &quot;/&quot; après le nom du répertoire)
+if [ $folder == &quot;dumps-text&quot; ]
+then
+    foldername=&quot;dumps&quot;
+elif [ $folder == &quot;contextes&quot; ]
+then
+    foldername=&quot;contextes&quot;
+fi
+path=&quot;$folder/*&quot;
+#echo &quot;$path&quot;
+
+# création du fichier de concaténation
+concatenationFile=&quot;./iTrameur/$foldername.txt&quot;
+touch $concatenationFile
+
+for subpath in $path
+do
+    basename=$(echo &quot;$subpath&quot; | egrep -o &quot;(fr)|(jp)|(kr)|(pt)&quot;)
+    
+    output=&quot;./iTrameur/$foldername-$basename.txt&quot;
+    
+    echo &quot;&lt;lang=\&quot;$basename\&quot;&gt;&quot; &gt; $output
+    
+    for filepath in $subpath/*
+    do
+        # filepath == dumps-texts/jp-1.txt
+        #     ==&gt; pagename = fr-1
+        filename=$(echo &quot;$file&quot; | basename -s .txt $filepath)
+        echo &quot;&lt;page=\&quot;$filename\&quot;&gt;&quot; &gt;&gt; $output
+        echo &quot;&lt;text&gt;&quot; &gt;&gt; $output
+        
+        #on récupère les dumps/contextes
+        #et on écrit à l&#39;intérieur de la balise text
+        content=$(cat $filepath) 
+        
+        # ordre important : &amp; en premier
+        # sinon : &lt; =&gt; &amp;lt; =&gt; &amp;amp;lt;
+        content=$(echo &quot;$content&quot; | sed &#39;s/\&amp;/\&amp;amp;/g&#39;)
+        content=$(echo &quot;$content&quot; | sed &#39;s/&lt;/\&amp;lt;/g&#39;)
+        content=$(echo &quot;$content&quot; | sed &#39;s/&gt;/\&amp;gt;/g&#39;)
+        
+        echo &quot;$content&quot; &gt;&gt; $output
+        
+        echo &quot;&lt;/text&gt;&quot; &gt;&gt; $output
+        echo &quot;&lt;/page&gt; §&quot; &gt;&gt; $output
+    done
+    echo &quot;&lt;/lang&gt;&quot; &gt;&gt; $output
+    
+    cat &quot;$output&quot; &gt;&gt; $concatenationFile
+done
+			</code></pre>
+			</div>
+		</div>
 	</body> 
 
 </html>

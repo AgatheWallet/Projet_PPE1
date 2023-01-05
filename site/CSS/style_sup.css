@@ -37,7 +37,7 @@ body{
 }
 
 /*hide the inputs/checkmarks and submenu*/
-input, table.submenu {
+input, .submenu {
   display: none;
 }
 
@@ -58,7 +58,7 @@ input:checked~label::after{
 
 
 /*show the submenu when input is checked*/
-input:checked~table.submenu {
+input:checked~.submenu {
   display: block;
 }
 
