@@ -115,3 +115,10 @@ Agathe :
 - Génération des nuages de mots pour le français, le portugais, le coréen et le japonais (stopwords encore à supprimer pour portugais et japonais) à partir des contextes → plus pertinent et retire les menus, etc
 - Ajout des scripts bash sur le site
 - Ajout de l'image bas-de-page sur toutes les pages du site
+
+Florian :  
+- Modification du script de tokenisation python pour accepter un argument (le nom du fichier à tokeniser) lors de son exécution
+- Écriture script bash pour tokeniser tous les dumps et tous les contextes japonais car iTrameur a besoin que les textes soient tokenisés pour pouvoir faire une analyse textométrique 
+- Mise à jour de toutes les aspirations, dumps et contextes japonais car ceux-ci n'étaient plus en accord avec les liens japonais
+- Tokenisation des dumps et des contextes japonais
+- Création du corpus `dump-jp` et `contexte-jp` pour itrameur avec les dumps et les contextes tokenisés 
