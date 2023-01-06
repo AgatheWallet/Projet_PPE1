@@ -18,16 +18,16 @@ fi
 folder=$1 # dumps-text/ OU contextes/ (attention, ne pas oublier le "/" après le nom du répertoire)
 if [ $folder == "dumps-text/" ]
 then
-	foldername="dump"
+	foldername="dumps"
 elif [ $folder == "contextes/" ]
 then
-	foldername="contexte"
+	foldername="contextes"
 fi
 path="$folder*"
 #echo "$path"
 
 # création du fichier de concaténation
-concatenationFile="./iTrameur/$foldername-concatenation.txt"
+concatenationFile="./iTrameur/$foldername.txt"
 touch $concatenationFile
 
 for subpath in $path
