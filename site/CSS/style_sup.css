@@ -105,3 +105,12 @@ table {
 .has-text-left{
   width: 45%;
 }
+
+
+ul{
+ margin : 1% 5%;
+}
+
+p{
+  margin : 1% 2.5%;
+}
