@@ -22,11 +22,20 @@ Agathe :
 - Activation des pages git
 - Création du fichier tableau.html
 
+Fanny : 
+- Ajout de liens pour le corpus en portugais. 
+
 ## 26 novembre
 Agathe:
 - Ajout d'URL pour corpus coréen
 - Ajout d'URL pour corpus français
 - Fusion des fichiers README.md et questions.txt
+
+## 30 novembre 
+Fanny : 
+- Modification de la page web => ajout définition + titre. 
+- Modifications sur l'index. 
+
 
 ## 7 décembre 
 Fanny :
@@ -109,6 +118,11 @@ Agathe :
 Agathe :
 - Génération des nuages de mots pour le français et le portugais à partir des dumps-text
 
+Fanny : 
+- Première analyses pour le français et le portugais. 
+- Vérification des mots pour le nuage de mot en portugais. 
+- Recherche de données sur iTrameur. => concordancier avec le mot "feminismo" ... 
+
 ## 5 janvier
 Agathe : 
 - Tokenization des contextes japonais avec script utilisant tokenizer spacy pour génération des nuages de mots
@@ -122,3 +136,9 @@ Florian :
 - Mise à jour de toutes les aspirations, dumps et contextes japonais car ceux-ci n'étaient plus en accord avec les liens japonais
 - Tokenisation des dumps et des contextes japonais
 - Création du corpus `dump-jp` et `contexte-jp` pour itrameur avec les dumps et les contextes tokenisés 
+
+## 7 janvier 
+Fanny : 
+- Mise en ligne des premières analyses sur le français et le portugais. 
+- Modification de la page présentation. 
+
