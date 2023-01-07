@@ -1,3 +1,4 @@
+    Acessibilidade / Reportar erro
 
      * Brasil
           + Lista alfabética de periódicos
@@ -1224,5 +1225,3 @@ Mensagem
    (BUTTON) ×Close
 
 Mensagem
-
-   Acessibilidade / Reportar erro

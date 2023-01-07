@@ -10,7 +10,7 @@ PÚBLICO
        Pesquisar
      * (BUTTON)
 
-   Segunda-feira, 02 Jan 2023
+   Sábado, 07 Jan 2023
    Edição impressa
 
 PÃšBLICO
@@ -24,7 +24,7 @@ PÃšBLICO
      * Público na Escola
      * (BUTTON) Mais
 
-     * Assine já Assine desde 4,54€ / mês Oferecer Oferecer assinatura
+     * Assine já Assine desde 4,96€ / mês Oferecer Oferecer assinatura
      * (BUTTON) Entrar (BUTTON)
 
      * Sociedade ›
@@ -70,16 +70,16 @@ Fale connosco
        Pesquisar
      *
 
-   Segunda-feira, 02 Jan 2023
+   Sábado, 07 Jan 2023
    Edição impressa
    Pesquise no Público ____________________ Pesquisar
    Em destaque
-     * Lula da Silva
-     * Bento XVI
-     * Ano Novo
-     * Marcelo Rebelo de Sousa
-     * Balanço 2022
+     * Covid-19
+     * Governo
+     * Pedro Nuno Santos
+     * Exames nacionais
      * Guerra na Ucrânia
+     * Harry
      * Opinião
 
    Secções
@@ -473,7 +473,7 @@ Em destaque
 
 Edição impressa
 
-02 de janeiro de 2023
+07 de janeiro de 2023
 
    Ver mais
 
@@ -607,12 +607,12 @@ Notificações bloqueadas
      *
      * Em destaque
      *
-          + Lula da Silva
-          + Bento XVI
-          + Ano Novo
-          + Marcelo Rebelo de Sousa
-          + Balanço 2022
+          + Covid-19
+          + Governo
+          + Pedro Nuno Santos
+          + Exames nacionais
           + Guerra na Ucrânia
+          + Harry
           + Opinião
      * Actualidade
      *

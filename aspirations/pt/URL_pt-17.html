@@ -88,6 +88,8 @@
   <body class="journal article">
     <a name="top"></a>
 
+    <a class="btn floatingBtnError" href="#" id="#floatingBtnError">Acessibilidade / Reportar erro</a>
+
     
 
 <header>
@@ -1683,9 +1685,6 @@
           </div>
       </div>
     </div>
-    
-    <a class="btn floatingBtnError" href="#" id="#floatingBtnError">Acessibilidade / Reportar erro</a>
-    <!-- error modal -->
 
     <script src="/static/js/scielo-bundle-min.js"></script>
 
@@ -1742,6 +1741,16 @@
 
 
 <script>
+
+  function splitMulti(str, tokens){
+    var tempChar = tokens[0];
+    for(var i = 1; i < tokens.length; i++){
+        str = str.split(tokens[i]).join(tempChar);
+    }
+    str = str.split(tempChar);
+    return str;
+  }
+
   var scimago_verify = false;
 
   $('#ModalTutors').on('shown.bs.modal', function () {
@@ -1756,10 +1765,10 @@
           $(this).find('div').not(".clearfix").each(function () {
             self = $(this);
 
-            items = self.text().split(',');
+            items = splitMulti(self.text(), ['–', ',', '.', ':'])
 
             // just the first and the second item.
-            items.splice(0, 2).forEach(function (item) {
+            items.forEach(function (item) {
 
               if (!appended) {
                 $.ajax({

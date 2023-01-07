@@ -260,6 +260,7 @@ Seções
                o The Love School - Escola do Amor
                o
                o DRAMATURGIA
+               o A Lei e o Crime
                o Amor Sem Igual
                o Novela Jesus
                o Os Dez Mandamentos
@@ -395,6 +396,7 @@ Institucional
           + The Love School - Escola do Amor
           +
           + DRAMATURGIA
+          + A Lei e o Crime
           + Amor Sem Igual
           + Novela Jesus
           + Os Dez Mandamentos
@@ -619,23 +621,24 @@ R7 Cupons
      * Cupom de desconto MadeiraMadeira
        MadeiraMadeira
 
-Cupom Madeira Madeira Exclusivo com R$15 em todo site
+Exclusivo! Cupom de Desconto MadeiraMadeira com R$15 Off em todo site
      * Cupom Americanas
        Americanas
 
-Compre via APP e leve 10% Off com o cupom Americanas
+Cupom Americanas: produtos com até 60% Off + 70% de cashback
      * Cupom Casas Bahia
        Casas Bahia
 
-Pegue aqui o seu Cupom de Casas Bahia
+Esta seleção de produtos sai com 10% OFF + frete grátis com o cupom Casas
+Bahia
      * Cupom Extra
        Extra
 
-Este cupom Extra oferece até R$2300 Off + frete GRÁTIS
+Este cupom Extra oferece até R$2300 Off + frete Grátis
      * Cupom KaBuM!
        KaBuM!
 
-Aqui tem tem Frete GRÁTIS com o Cupom KaBuM!
+Aqui tem tem Frete Grátis com o Cupom KaBuM!
      * Cupom AliExpress
        AliExpress
 
@@ -644,10 +647,10 @@ Com este cupom AliExpress você garante R$55 Off nos seus pedidos
        Amazon
 
 Use este Cupom Amazon e ganhe 15% Off em Livros
-     * Cupom Cobasi
-       Cobasi
+     * Cupom Madesa
+       Madesa
 
-Leve R$30 Off na primeira compra com o cupom Cobasi
+Você ganhou 8% Off em entregas para Sul e Sudeste com o Madesa cupom
 
    (BUTTON)
 
