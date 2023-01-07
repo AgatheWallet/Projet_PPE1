@@ -145,6 +145,8 @@ Florian :
 Fanny : 
 - Mise en ligne des premières analyses sur le français et le portugais. 
 - Modification de la page présentation. 
+- Modifications URL en portugais, certains n'avaient pas le code 200
+- Éxecution de nouveau du script `base_tableaux_fichiers.sh` pour le mot "feminismo". 
 
 Florian : 
 - Ajout présentation Florian sur la page présentation du site 
