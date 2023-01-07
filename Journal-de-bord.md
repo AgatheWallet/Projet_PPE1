@@ -137,8 +137,15 @@ Florian :
 - Tokenisation des dumps et des contextes japonais
 - Création du corpus `dump-jp` et `contexte-jp` pour itrameur avec les dumps et les contextes tokenisés 
 
+## 6 janvier  
+Florian :  
+- Création du nuage de mot japonais avec le site suivant : [https://www.nuagesdemots.fr/][https://www.nuagesdemots.fr/]. Les _stopwords_ japonais ont été retirés ainsi que tout autres mots ne nous intéressant pas pour l'analyse textométrique.
+
 ## 7 janvier 
 Fanny : 
 - Mise en ligne des premières analyses sur le français et le portugais. 
 - Modification de la page présentation. 
 
+Florian : 
+- Ajout présentation Florian sur la page présentation du site 
+- Ajout de la définition du terme "フェミニズム" en japonais 
