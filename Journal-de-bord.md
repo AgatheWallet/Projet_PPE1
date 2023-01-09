@@ -151,3 +151,13 @@ Fanny :
 Florian : 
 - Ajout présentation Florian sur la page présentation du site 
 - Ajout de la définition du terme "フェミニズム" en japonais 
+
+## 8 janvier 
+Fanny : 
+- Nuage de mots avec le site : https://www.nuagesdemots.fr/
+
+## 9 janvier 
+Fanny
+- Lancement du script make_itrameur_corpus.sh car nvx liens en portugais 
+- Analyse français et portugais
+
