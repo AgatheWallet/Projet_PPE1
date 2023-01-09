@@ -26,10 +26,37 @@
 		
 		<h1 class="title">CONCORDANCIERS</h1>
 		<div class="box">
-			<div>
-				<input id="check01" type="checkbox" name="menu" />
-				<label for="check01" class="subtitle  is-4">Concordancier Coréen</label>
-				<table class="submenu table is-striped">
+			<p> Voici les concordanciers qui ont été générés à partir du même <a href="./scripts.html">scripts</a> que celui des <a href="./tableaux.html">tableaux</a>. Un concordancier est un tableau permettant d'observer un mot dans le contexte dans lequel il se trouve dans le corpus. Pour ce travail, le contexte choisi correspond à la phrase dans laquelle se trouve le mot étudié. Pour ce faire, nous avons simplement selectionné tous les caractères se trouvant autour du mot étudié qui ne correspondaient pas à de la ponctuation de fin de phrase. Ce choix fut possible car dans chacune des quatre langues étudiées, il y a de la ponctuation pour séparer les phrases. Ainsi, nous avons les quatre concordanciers suivant, pour les mots 페미, féminisme, フェミニズム et feminismo :</p>
+			<p>
+				<button class="js-modal-trigger is-primary is-large modal-button" data-target="modal-1" aria-haspopup="true">Concordancier Coréen</button>
+			</p>
+			
+			<p>
+				<button class="js-modal-trigger is-primary is-large modal-button" data-target="modal-2" aria-haspopup="true">Concordancier Français</button>
+			</p>
+			
+			<p>
+				<button class="js-modal-trigger is-primary is-large modal-button" data-target="modal-3" aria-haspopup="true">Concordancier Japonais</button>
+			</p>
+			
+			<p>
+				<button class="js-modal-trigger is-primary is-large modal-button" data-target="modal-4" aria-haspopup="true">Concordancier Portugais</button>
+			</p>
+		</div>
+		<div class="centered_img">
+			<img width = 75% src="./images/index_img.png" />
+		</div>
+		
+		
+		<div id="modal-1" class="modal">
+		  <div class="modal-background"></div>
+		  <div class="modal-card">
+			<header class="modal-card-head">
+			  <p class="modal-card-title">Concordancier Coréen</p>
+			  <button class="delete" aria-label="close"></button>
+			</header>
+			<section class="modal-card-body">
+				<table class="table is-striped">
 					<tr><th>Contexte gauche</th><th class="centre-tableau">페미</th><th>Contexte droit</th></tr>
 					<tr><td class="has-text-right"></td><td class="centre-tableau">페미</td><td class="has-text-left">니스트들의 청주시의회 진출 도전§</td></tr>
 					<tr><td class="has-text-right">   청주시의원 선거에 출마한 청주</td><td class="centre-tableau">페미</td><td class="has-text-left">니스트연대 현슬기 무소속 후보.</td></tr>
@@ -584,6 +611,7 @@
 					<tr><td class="has-text-right"> 두마 씨는 “단체에 들어가지 않고 개인 </td><td class="centre-tableau">페미</td><td class="has-text-left">니스트들이 다수다.</td></tr>
 					<tr><td class="has-text-right">   [INS: :INS]   [INS: :INS]   Tag   #지방 #지역 #청년 #여성 #</td><td class="centre-tableau">페미</td><td class="has-text-left">니즘 #대학 #동아리   저작권자 © 여성신문 무단전재 및 재배포 금지   김민주 기자   김민주 기자 ccmjk52@womennews.</td></tr>
 					<tr><td class="has-text-right">   관련기사[기획-지방 청년여성] “보수적인 지역에선 '</td><td class="centre-tableau">페미</td><td class="has-text-left">니즘' 언급조차 힘들어” [기획-지방 청년여성] “지역에선 ‘여성 서사’   공연 티켓 안팔려요” [기획-지방 청년여성] "여기선 '나'로 인정받기 힘들어" [기획-지방 청년여성] 최저임금에 차별   발언까지…</td></tr>
+					<tr><td class="has-text-right">서울미술관 ‘3650 Storage - 인터뷰’     * 전장연 “5분 내로 지하철 탑승하면 장애인 시민권 보장되나”       전장연 “5분 내로 지하철 탑승하면 장애인 시민권 보장되나”     * 윤석열 대통령 “노동·교육·연금 3대 개혁 더 미룰 수 없어”       윤석열 대통령 “노동·교육·연금 3대 개혁 더 미룰 수 없어”     * 한국판 ‘프라이탁’ 나오려면 명품 브랜딩·정직한 제품부터       한국판 ‘프라이탁’ 나오려면 명품 브랜딩·정직한 제품부터     * [2023년 여성계 과제·소망] 총선서 페미니스트 정치인 대거 출마해야       [2023년 여성계 과제·소망] 총선서 </td><td class="centre-tableau">페미</td><td class="has-text-left">니스트 정치인 대거 출마해야     * [2023년 여성계 과제·소망] 미래 경제 이끌 여성경제인 육성 매진       [2023년 여성계 과제·소망] 미래 경제 이끌 여성경제인 육성 매진§</td></tr>
 					<tr><td class="has-text-right">   [INS: :INS]   [INS: :INS]   (BUTTON) 이전 (BUTTON) 다음   여성신문   [기획-지방 청년 여성] “</td><td class="centre-tableau">페미</td><td class="has-text-left">니즘 활동하지만…</td></tr>
 					<tr><td class="has-text-right">   HOME 사회   [기획-지방 청년 여성] “</td><td class="centre-tableau">페미</td><td class="has-text-left">니즘 활동하지만…</td></tr>
 					<tr><td class="has-text-right">   [지방에서도 청년 여성이 ‘</td><td class="centre-tableau">페미</td><td class="has-text-left">니즘’을 합니다]   3.</td></tr>
@@ -606,6 +634,7 @@
 					<tr><td class="has-text-right"> 두마 씨는 “단체에 들어가지 않고 개인   </td><td class="centre-tableau">페미</td><td class="has-text-left">니스트들이 다수다.</td></tr>
 					<tr><td class="has-text-right"> 별이 사무국장은   “쉽고 가벼운 방식으로 페미니즘을 접할 수 있기 위해 </td><td class="centre-tableau">페미</td><td class="has-text-left">니즘 문화 기획을 늘려야 한다”고 말했다.</td></tr>
 					<tr><td class="has-text-right">   [INS: :INS]   [INS: :INS]   Tag   #지방 #청년 #여성 #페미니스트 #</td><td class="centre-tableau">페미</td><td class="has-text-left">니즘 #전주여성의전화 #로컬플리커   저작권자 © 여성신문 무단전재 및 재배포 금지   김민주 기자   김민주 기자 ccmjk52@womennews.</td></tr>
+					<tr><td class="has-text-right">서울미술관 ‘3650 Storage - 인터뷰’     * 전장연 “5분 내로 지하철 탑승하면 장애인 시민권 보장되나”       전장연 “5분 내로 지하철 탑승하면 장애인 시민권 보장되나”     * 윤석열 대통령 “노동·교육·연금 3대 개혁 더 미룰 수 없어”       윤석열 대통령 “노동·교육·연금 3대 개혁 더 미룰 수 없어”     * 한국판 ‘프라이탁’ 나오려면 명품 브랜딩·정직한 제품부터       한국판 ‘프라이탁’ 나오려면 명품 브랜딩·정직한 제품부터     * [2023년 여성계 과제·소망] 총선서 페미니스트 정치인 대거 출마해야       [2023년 여성계 과제·소망] 총선서 </td><td class="centre-tableau">페미</td><td class="has-text-left">니스트 정치인 대거 출마해야     * [2023년 여성계 과제·소망] 미래 경제 이끌 여성경제인 육성 매진       [2023년 여성계 과제·소망] 미래 경제 이끌 여성경제인 육성 매진§</td></tr>
 					<tr><td class="has-text-right">   [INS: :INS]   [INS: :INS]   (BUTTON) 이전 (BUTTON) 다음   여성신문   여성 유권자들, ‘반</td><td class="centre-tableau">페미</td><td class="has-text-left">니즘 대선’에 대반격     * (BUTTON) 기사공유하기     * (BUTTON) 프린트     * (BUTTON) 메일보내기     * (BUTTON) 글씨키우기          + (*) 가나다라마바사          + ( ) 가나다라마바사          + ( ) 가나다라마바사          + ( ) 가나다라마바사          + ( ) 가나다라마바사          + ( ) 가나다라마바사§</td></tr>
 					<tr><td class="has-text-right">   집회·행진·토론회 잇따라 개최   후보들 ‘반동의 정치’ 비판하고   페미니즘 정치의 전략·비전 제시   한국여성단체연합, 한국여성의전화 등 7개 단체는 ‘2022 </td><td class="centre-tableau">페미</td><td class="has-text-left">니스트 주권자행동’이라는 연대체를 꾸리고 오는 12일 서울 종로구   보신각 앞에서 “차별과 혐오, 증오선동의 정치를 부수자”는 주제로 첫 번째 ‘액션’을 한다.</td></tr>
 					<tr><td class="has-text-right"> ⓒ2022 </td><td class="centre-tableau">페미</td><td class="has-text-left">니스트 주권자행동   [INS: :INS]§</td></tr>
@@ -617,6 +646,7 @@
 					<tr><td class="has-text-right"> “세대와 젠더 분열을 넘는 페미니스트 주권자   행동 포럼 : 미투에서 대선까지”라는 제목으로 진행되는 이번 토론회는 “현재 정치권과 담론장에 만연한 페미니즘에 대한 악의적   공격을 비판하고 </td><td class="centre-tableau">페미</td><td class="has-text-left">니스트 대안 정치의 비전을 모색하기 위해” 마련됐다.</td></tr>
 					<tr><td class="has-text-right">   </td><td class="centre-tableau">페미</td><td class="has-text-left">니스트 주권자행동은 대선 전날인 3월 8일 세계 여성의날까지 온라인 10만 서명운동도 전개한다.</td></tr>
 					<tr><td class="has-text-right">   [INS: :INS]   [INS: :INS]   Tag   #여성유권자 #페미니스트 #반</td><td class="centre-tableau">페미</td><td class="has-text-left">니즘 #대선 #백래시 #성평등 #팀해일 #여성단체 #주권 #투표   저작권자 © 여성신문 무단전재 및 재배포 금지   이하나 기자   이하나 기자 lhn21@womennews.</td></tr>
+					<tr><td class="has-text-right">서울미술관 ‘3650 Storage - 인터뷰’     * 전장연 “5분 내로 지하철 탑승하면 장애인 시민권 보장되나”       전장연 “5분 내로 지하철 탑승하면 장애인 시민권 보장되나”     * 윤석열 대통령 “노동·교육·연금 3대 개혁 더 미룰 수 없어”       윤석열 대통령 “노동·교육·연금 3대 개혁 더 미룰 수 없어”     * 한국판 ‘프라이탁’ 나오려면 명품 브랜딩·정직한 제품부터       한국판 ‘프라이탁’ 나오려면 명품 브랜딩·정직한 제품부터     * [2023년 여성계 과제·소망] 총선서 페미니스트 정치인 대거 출마해야       [2023년 여성계 과제·소망] 총선서 </td><td class="centre-tableau">페미</td><td class="has-text-left">니스트 정치인 대거 출마해야     * [2023년 여성계 과제·소망] 미래 경제 이끌 여성경제인 육성 매진       [2023년 여성계 과제·소망] 미래 경제 이끌 여성경제인 육성 매진§</td></tr>
 					<tr><td class="has-text-right">   페이스북 트위터 네이버블로그   기사제보     * 지금 이슈는     * 차별과 폭력 없는 세상          + </td><td class="centre-tableau">페미</td><td class="has-text-left">니즘·성평등          + 젠더·인권·혐오          + #미투·성범죄·폭력     * 일과 가정          + 취업·워킹맘          + 양육          + 청소년·교육          + 가정경제     * 당당하고 행복하게          + 결혼·비혼·성          + 문화·라이프     * 아름답고 건강하게          + 스타일·뷰티          + 건강          + 환경     * 소비자          + 소비자          + 업계     * Herstory          + 여성 리더십          + 화제의 인물          + 여성계     * 기획·칼럼     * 코로나19     * 낙태죄     * 경제/여성     * 정치/여성§</td></tr>
 					<tr><td class="has-text-right">   (BUTTON) 이전 기사보기 (BUTTON) 다음 기사보기   우먼타임스   [에코 </td><td class="centre-tableau">페미</td><td class="has-text-left">니즘] 팬데믹-기후위기 해법?</td></tr>
 					<tr><td class="has-text-right">[에코 </td><td class="centre-tableau">페미</td><td class="has-text-left">니즘] 팬데믹-기후위기 해법?</td></tr>
@@ -884,11 +914,23 @@
 					<tr><td class="has-text-right">   #페미   #페미니스트   #남페미   #남자</td><td class="centre-tableau">페미</td><td class="has-text-left">니스트   #스윗남   #스윗남뜻   ©(주) 데일리안 무단전재 및 재배포 금지   [profile_33289_1606981731.</td></tr>
 					<tr><td class="has-text-right">   "K트럼프, 반 </td><td class="centre-tableau">페미</td><td class="has-text-left">"…</td></tr>
 				</table>
-			</div>
-			<div>
-				<input id="check02" type="checkbox" name="menu" />
-				<label for="check02" class="subtitle  is-4">Concordancier Français</label>
-				<table class="submenu table is-striped">
+			</section>
+			<footer class="modal-card-foot">
+			  <button class="button">Cancel</button>
+			</footer>
+		  </div>
+		</div>
+
+
+		<div id="modal-2" class="modal">
+		  <div class="modal-background"></div>
+		  <div class="modal-card">
+			<header class="modal-card-head">
+			  <p class="modal-card-title">Concordancier Français</p>
+			  <button class="delete" aria-label="close"></button>
+			</header>
+			<section class="modal-card-body">
+				<table class="table is-striped" width="100px">
 					<tr><th>Contexte gauche</th><th class="centre-tableau">féminisme</th><th>Contexte droit</th></tr>
 					<tr><td class="has-text-right">?   Société   Harcèlement moral et sexuel : L’Assemblée crée une cellule de   prévention pour muscler un dispositif « insuffisant »     * Violences faites aux femmes     * Violences sexuelles     * Féminisme§</td><td class="centre-tableau">féminisme</td><td class="has-text-left">?   Société   Harcèlement moral et sexuel : L’Assemblée crée une cellule de   prévention pour muscler un dispositif « insuffisant »     * Violences faites aux femmes     * Violences sexuelles     * Féminisme§</td></tr>
 					<tr><td class="has-text-right">Écologisme, wokisme, </td><td class="centre-tableau">féminisme</td><td class="has-text-left"> : les leurres de l’hydre§</td></tr>
@@ -1390,11 +1432,22 @@
 					<tr><td class="has-text-right"> Nous ne pouvions pas aller plus loin avec les types de   </td><td class="centre-tableau">féminisme</td><td class="has-text-left"> disponibles, le type conventionnel de marxisme, et nous   devions alors ouvrir une voie vers quelque chose qui ne soit pas aussi   restrictif et incomplet dans sa vision du monde.</td></tr>
 					<tr><td class="has-text-right">   capitalisme, classe, </td><td class="centre-tableau">féminisme</td><td class="has-text-left">, genre, impérialisme, luttes féministes,   socialisme, violences faites aux femmes§</td></tr>
 				</table>
-			</div>
-			<div>
-				<input id="check03" type="checkbox" name="menu" />
-				<label for="check03" class="subtitle  is-4">Concordancier Japonais</label>
-				<table class="submenu table is-striped">
+			</section>
+			<footer class="modal-card-foot">
+			  <button class="button">Cancel</button>
+			</footer>
+		  </div>
+		</div>
+
+		<div id="modal-3" class="modal">
+		  <div class="modal-background"></div>
+		  <div class="modal-card">
+			<header class="modal-card-head">
+			  <p class="modal-card-title">Concordancier Japonais</p>
+			  <button class="delete" aria-label="close"></button>
+			</header>
+			<section class="modal-card-body">
+				<table class="table is-striped">
 					<tr><th>Contexte gauche</th><th class="centre-tableau">フェミニズム</th><th>Contexte droit</th></tr>
 					<tr><td class="has-text-right">一方で、</td><td class="centre-tableau">フェミニズム</td><td class="has-text-left">に反対する男性は50代の約10%に比べ、2   0代は約51%と顕著に多い。</td></tr>
 					<tr><td class="has-text-right">ネット上で反</td><td class="centre-tableau">フェミニズム</td><td class="has-text-left">の言説に触れる機会も多い。</td></tr>
@@ -1849,11 +1902,22 @@
 					<tr><td class="has-text-right">   19世紀の</td><td class="centre-tableau">フェミニズム</td><td class="has-text-left">は男性の特権性に対して声をあげるところから始まりました。</td></tr>
 					<tr><td class="has-text-right"> 密にならずに今、逢うためには？   渋谷に宇宙人を誘致するには？ あなたにとってのコラボレーションとは？ あなたの「問い」は何ですか？ 新しいもの、受け入れられますか？   どんな風に「はみ出す」？ 生活導線に必ず組み込める運動を開発すれば、ほとんどの健康問題は解決するのではないか？ 「問う」ことは生きること？   女性起業家が創り出す「新しい」未来とは？ 「60歳のあなたにとって幸せな暮らしとは？」 130年前の出来事から見る現在・未来とは？   誰一人取り残さない社会の実現（社会的包摂：Social Inclusion）のためには？ ファッションの本質を問う   令和の日本は、江戸のサーキュラーエコノミーをアップデートできるか？   コロナによって生まれた日常の制限を、アート体験としてポジティブに転換できるか？ アフリカの課題解決のアイディアとは？ [Mishmash   シリーズ］茶道具にあそぶ　物質性と現代の「みたて」～QWSアカデミア（東京工業大学）～ この問い、誰に相談しよう？ この問い、誰に相談しよう？   「復造力」を取り戻すには？ 私たちはなぜ、食事をするのか？-バイタルデータで紐解く「食事」- あなたの「問い」は何ですか？   Artが生み出す「未知の価値」とは？ QWSチャレンジとは？ これからのクリエィティブのおわりとはじまりとは？   仕事ができるとはどういうことか？ この問い、誰に相談しよう？ 優しい社会を創るため、</td><td class="centre-tableau">フェミニズム</td><td class="has-text-left">と共に何ができるのだろうか？ New   Normalにおけるプロジェクトの進め方とは？ 世の中に、株式や債権と異なる新しいコミュニティ型の資金調達手段を提供できないか？   あなたの「問い」は何ですか？ 動く照明によって生まれる空間的な時間感覚とは？ おでんとアーティスト？ なぜ今、ブロックチェーン？   デジタル技術を活用した途上国の社会課題解決の最前線とは ただ生きているだけで 最低限の生活を賄うだけの価値を 人は生み出すことが出来るか？   顔を通したコミュニケーションの可能性を広げられるか？ QWSチャレンジとは？ 貧困化の予防、地方創生、経済的持続性を同時に実現するには？   研究から社会的価値を創造するリアルプロジェクトとは？ 腸内細菌はなぜ世界中で注目されているのか？ AIはアーティストの創作活動を支援できるか？   音楽の可能性とは？ この問い、誰に相談しよう？ 海外に行けなくても世界を身近に感じるには？ この問い、誰に相談しよう？   共創による新たな「価値創造のあり方」とは？ 「問い」同士が交差することによって、新しい「問い」は生まれるだろうか？   超高齢化x新型感染症併存の社会とどう向き合うべきか？ 家や場所を「育てる」ことに価値があるのではないか？   「個の時代」本格到来。</td></tr>
 				</table>
-			</div>
-			<div>
-				<input id="check04" type="checkbox" name="menu" />
-				<label for="check04" class="subtitle  is-4">Concordancier Portugais</label>
-				<table class="submenu table is-striped">
+			</section>
+			<footer class="modal-card-foot">
+			  <button class="button">Cancel</button>
+			</footer>
+		  </div>
+		</div>
+
+		<div id="modal-4" class="modal">
+		  <div class="modal-background"></div>
+		  <div class="modal-card">
+			<header class="modal-card-head">
+			  <p class="modal-card-title">Concordancier Portugais</p>
+			  <button class="delete" aria-label="close"></button>
+			</header>
+			<section class="modal-card-body">
+				<table class="table is-striped">
 					<tr><th>Contexte gauche</th><th class="centre-tableau">feminismo</th><th>Contexte droit</th></tr>
 					<tr><td class="has-text-right">§A Revista Crítica de Ciências Sociais e o Feminismo (1978-2017)*§</td><td class="centre-tableau">feminismo</td><td class="has-text-left">§A Revista Crítica de Ciências Sociais e o Feminismo (1978-2017)*§</td></tr>
 					<tr><td class="has-text-right">   cidadania, epistemologia crítica, </td><td class="centre-tableau">feminismo</td><td class="has-text-left">, Revista Crítica de   Ciências Sociais§</td></tr>
@@ -2318,11 +2382,62 @@
 					<tr><td class="has-text-right">§   SCAVONE, Lucila, “Feminismo contemporâneo y Democracia em Brasil” in   Christine Fauré (Org.</td><td class="centre-tableau">feminismo</td><td class="has-text-left">§   SCAVONE, Lucila, “Feminismo contemporâneo y Democracia em Brasil” in   Christine Fauré (Org.</td></tr>
 					<tr><td class="has-text-right">   Ana Carolina dos  Reis Fernandes, «A voz dissonante de Lélia Gonzalez e   o </td><td class="centre-tableau">feminismo</td><td class="has-text-left"> negro no Brasil », Amérique Latine Histoire et Mémoire.</td></tr>
 				</table>
-			</div>
+			</section>
+			<footer class="modal-card-foot">
+			  <button class="button">Cancel</button>
+			</footer>
+		  </div>
 		</div>
-		<div class="centered_img">
-			<img width = 75% src="./images/index_img.png" />
-		</div>
+		
+<!--
+		script en javascript pour que les boutons des concordanciers fonctionnent
+-->
+		<script>
+		document.addEventListener('DOMContentLoaded', () => {
+		  // Functions to open and close a modal
+		  function openModal($el) {
+			$el.classList.add('is-active');
+		  }
+
+		  function closeModal($el) {
+			$el.classList.remove('is-active');
+		  }
+
+		  function closeAllModals() {
+			(document.querySelectorAll('.modal') || []).forEach(($modal) => {
+			  closeModal($modal);
+			});
+		  }
+
+		  // Add a click event on buttons to open a specific modal
+		  (document.querySelectorAll('.js-modal-trigger') || []).forEach(($trigger) => {
+			const modal = $trigger.dataset.target;
+			const $target = document.getElementById(modal);
+
+			$trigger.addEventListener('click', () => {
+			  openModal($target);
+			});
+		  });
+
+		  // Add a click event on various child elements to close the parent modal
+		  (document.querySelectorAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot .button') || []).forEach(($close) => {
+			const $target = $close.closest('.modal');
+
+			$close.addEventListener('click', () => {
+			  closeModal($target);
+			});
+		  });
+
+		  // Add a keyboard event to close all modals
+		  document.addEventListener('keydown', (event) => {
+			const e = event || window.event;
+
+			if (e.keyCode === 27) { // Escape key
+			  closeAllModals();
+			}
+		  });
+		});
+		</script>
 	</body> 
 </html>
 				
