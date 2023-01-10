@@ -232,6 +232,88 @@ do
 done
 			</code></pre>
 			</div>
+			<div>
+				<input id="check03" type="checkbox" name="menu" />
+				<label for="check03" class="subtitle  is-4">Scripts pour la tokenisation des dumps et des contextes pour iTrameur</label>
+				<div class="submenu">
+					<input id="check04" type="checkbox" name="menu"/>
+					<label for="check04" class="subtitle  is-5">Scripts <code>python</code> pour tokeniser un fichier japonais</label>
+					<pre class="submenu">
+						<code class="language-python">
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+Script pour tokeniser un document japonais
+#
+A exécuter ainsi 
+python3 ./scripts/tokenize_japanese.py <chemin du fichier à tokeniser>
+"""
+
+import spacy
+import sys
+import os
+
+entree=sys.argv[1]
+coupe_path=entree.split('/')
+coupe_ext=coupe_path[-1].split('.')
+coupe_path=coupe_path[:len(coupe_path)-1]
+path='/'.join(coupe_path)
+coupe_path='/'.join(coupe_path[-1])
+sortie=path+'/'+coupe_ext[0]+"-tok."+coupe_ext[1]
+
+print(sortie)
+
+nlp = spacy.load("ja_core_news_sm")
+with open (entree, 'r') as rf:
+	with open (sortie, 'w') as wt:
+		for line in rf:
+			doc=nlp(line)
+			for token in doc:
+				wt.write(token.text)
+				wt.write(" ")
+
+						</code>
+					</pre>
+				</div>
+				<div class="submenu">
+					<input id="check05" type="checkbox" name="menu"/>
+					<label for="check05" class="subtitle  is-5">Scripts <code>bash</code> pour appliquer le script python à tous les fichiers</label>
+					<pre class="submenu">
+						<code class="language-bash">
+#!/usr/bin/env bash
+
+#=======================================================================
+# script pour tokeniser les dumps et les contextes du japonais
+# doit être exécuté depuis la racine du projet
+# cela lui permet de récupérer les fichiers dans les bons dossiers
+#
+# Se lancera donc comme ça : ./scripts/tokenisation-jp.sh <dossier>
+#=======================================================================
+
+if [[ $# -ne 1 ]]
+then
+	echo "Un argument attendu: <dossier_de_fichiers_a_tokeniser>"
+	exit
+fi
+
+folder=$1 # dumps-text/jp/ OU contextes/jp/ 
+path="$folder*"
+
+for subpath in $path
+do
+	if [[ $subpath =~ .*tok.* ]]
+	then
+		rm $subpath
+		continue
+	fi
+	python3 scripts/tokenize_japanese.py $subpath
+done
+
+						</code>
+					</pre>
+				</div>
+			</div>
 		</div>
 		<div class="centered_img">
 			<img width = 75% src="./images/index_img.png" />

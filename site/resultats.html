@@ -23,19 +23,29 @@
 			</nav>
 		</header>
 		
-		<h1 class="title">RÉSULTATS</h1>
-		<div class="box">
+		<h1 id="resultat" class="title">RÉSULTATS</h1>
+		<p>Voici pour chacune des quatre langues, une petite analyse des résultats obtenus avec l'analyseur textométrique iTrameur.</p>
+		<div class="anchors">
+			<a class="anchor" href="#coreen">Analyse Coréen</a>
+			<a class="anchor" href="#francais">Analyse Français</a>
+			<a class="anchor" href="#portugais">Analyse Portugais</a>
+			<a class="anchor" href="#japonais">Analyse Japonais</a>
+<!--
+			<a class="anchor" href="global">Analyse globale</a>
+-->
+		</div>
+		<div class="box" id="coreen" >
 			<h3 class="subtitle is-4"><b>CORÉEN</b></h3>
-			<p>Pour réaliser nos analyses sous iTrameur, nous avons utilisé le fichier contenant uniquement les contextes dans lesquels notre mot était employé. Puisque nous avons travaillé jusqu'ici avec le mot "페미" <i>(fémi)</i> au lieu de "페미니즘" <i>(féminisme)</i>, nous avons remplacé toutes les occurrences et toutes les formes de féminisme ou féministe.s par "fémi". Cela permettait ainsi de les concaténer en une forme unique. En effet, le coréen étant une langue agglutinante, la présence de particules en fin de mot aurait pu rendre l'analyse plus compliquée car toutes les formes d'un même mot aurait alors été présentes dans le corpus.</p>
+			<p>Pour réaliser nos analyses sous iTrameur, nous avons utilisé le fichier contenant uniquement les contextes dans lesquels notre mot était employé. Puisque nous avons travaillé jusqu'ici avec le mot "페미" <i>(fémi)</i> au lieu de "페미니즘" <i>(féminisme)</i>, nous avons remplacé toutes les occurrences et toutes les formes de féminisme ou féministe.s par "fémi". Cela permettait ainsi de les concaténer en une forme unique. Le coréen étant une langue agglutinante, la présence de particules en fin de mot aurait pu rendre l'analyse plus compliquée car toutes les formes d'un même mot aurait alors été présentes dans le corpus.</p>
 			<div class="centered_img">
 				<img width=50% src="./images/dico_occ_kr.png" />
 			</div>
-			<p>Sans surprise, notre mot est le plus présent dans notre base, composée des contextes dans lequel apparait 페미 <i>(fémi)</i>. Nous retrouvons également le terme 여성, qui désigne les personnes de sexe féminin. 이, 그 sont des articles définis. 을 수 et 있다 s'associent dans l'expression -을 수 있다 qui indique la possibilité de quelque chose. Pour finir, 대한 signifie "à propos (de)".</p>
+			<p>Sans surprise, notre mot est le plus présent dans notre base, puisqu'elle est composée des contextes dans lequel il apparait. Nous retrouvons également le terme 여성, qui désigne les personnes de sexe féminin. 이, 그 sont quant à eux des articles définis. 을 수 et 있다 s'associent dans l'expression -을 수 있다 qui indique la possibilité de quelque chose. Pour finir, 대한 signifie "à propos (de)".</p>
 			<div class="centered_img">
 				<img width=50% src="./images/cooc_femi_kr.png" />
 				<img width=60% src="./images/graphe_cooc_kr.png" />
 			</div>
-			<p>Nous constatons ici que parmi les mots les plus cooccurrents avec 페미 <i>(fémi)</i>, nous avons notamment les termes "radicalisme", ainsi que le verbe "rejeter" et le sentiment de rejet. Ceci semble dénoter la vision générale qu'a la Corée du Sud du féminisme : un "point de vue" assez violent. On retrouve d'ailleurs parmi les cooccurrents les plus fréquents "être opposé". Nous avons également la notion d'écoféminisme qui semble être assez présente. Il semblerait que le féminisme, en Corée du Sud comme en France, soit assez régulièrement associé également avec un mouvement écologiste.</p>
+			<p>Nous constatons ici que parmi les mots les plus cooccurrents avec 페미 <i>(fémi)</i>, nous avons notamment les termes "radicalisme", ainsi que le verbe "rejeter" et le nom en dérivant. Ceci semble dénoter la vision générale qu'a la Corée du Sud du féminisme : un "point de vue" assez violent. On retrouve d'ailleurs parmi les cooccurrents les plus fréquents "être opposé". Nous avons également la notion d'écoféminisme qui semble être assez présente. Il semblerait que le féminisme, en Corée du Sud comme en France, soit assez régulièrement associé au mouvement pour l'écologie (qui n'est pas non plus très développé en Corée du Sud).</p>
 			<div class="centered_img">
 				<img src="./images/wordcloud_kr.png" />
 			</div>
@@ -59,14 +69,15 @@
 			<p>Si nous regardons un peu la ventilation, c'est-à-dire le nombre d'occurrences de notre mot dans chaque texte, nous constatons que c'est assez inégal. En effet, peu d'articles ne parle que du féminisme en tant que tel. Comme vu précédemment, un certain nombre d'articles aborde notamment les élections présidentielles de mars 2022 et les polémiques autour du président actuel.</p>
 			<div>
 				<h4 class="subtitle is-5"><b>OBSERVATIONS FINALES</b></h4>
-				<p>En France, le féminisme est avant tout perçu comme un mouvement contestataire pour une considération égale des femmes et des hommes par la société. Or, nous constatons que le mot "mouvement" est entièrement absent de notre corpus coréen. Nous avions déjà observé l'absence de ce terme dans la définition du féminisme donnée par plusieurs dictionnaires coréens en ligne. Il semblerait que le féminisme ne soit vu que comme un point de vue, adopté par une minorité de personnes, pouvant avoir des revendications assez violentes pour défendre ce dit point de vue (comme en atteste la présence du terme "radicalisme" ou encore l'emploi du verbe "éliminer" dans la définition).</p>
+				<p>En France, le féminisme est avant tout perçu comme un <b>mouvement</b> contestataire pour une considération égale des femmes et des hommes par la société. Or, nous constatons que le mot "mouvement" est entièrement absent de notre corpus coréen. Nous avions déjà observé l'absence de ce terme dans la définition du féminisme donnée par plusieurs dictionnaires coréens en ligne. Il semblerait que le féminisme ne soit vu que comme un point de vue, adopté par une minorité de personnes pouvant avoir des revendications assez violentes pour défendre ce dit point de vue (comme en atteste la présence du terme "radicalisme" dans les mots très présents dans notre corpus ou encore l'emploi du verbe "éliminer" dans la définition).</p>
 			</div>
 		</div>
-		<div class ="box">
+		<div class ="box" id="francais">
 			<h3 class="subtitle is-4"><b>FRANÇAIS</b></h3>
 			<div class="centered_img">
 			<img width=150% src="./images/wordcloud_fr.png" />
 			</div>
+<<<<<<< HEAD
 			<p>L'analyse ci-dessous est réalisée à partir de l'outil d'analyse textométrique iTrameur. Le fichier entré dans iTrameur est un fichier texte contenant les contextes du mot "féminisme" de toutes les pages d' articles de presses et de blog français traitant dans leurs contenus du féminisme.</p>
 			
 			<p>En utilisant les contextes, on peut grâce à l'outil iTrameur récupérer une liste des mots les plus présents dans notre corpus. Les mots qui reviennent le plus sont "féminisme(s)", "féministe(s)", "femmes", "politique", "mouvement", "socialiste". Ainsi, on observe que le vocabulaire que l'on retrouve en majorité implique l'idée d'une lutte qui est active, en "mouvement". On retrouve aussi beaucoup de mots dont l'étymologie est <i>femina</i> qui signifie femme en latin. En effet, le féminisme se déploit en occident dans une société patricarcal et prône la revalorisation des droits de la femme au sein de la société.</p>
@@ -76,6 +87,11 @@
 			
 		
 		<div class="box">
+=======
+			<p> Ce nuage de mot est généré grâce à partir des contextes...</p>
+		</div>		
+		<div class="box" id="portugais">
+>>>>>>> 8716edea01ffb3c4e8c416e451ac3371da103803
 			<h3 class="subtitle is-4"><b>PORTUGAIS</b></h3>
 			<p> L'analyse ci-dessous est réalisée à partir de l'outil d'analyse textométrique iTrameur. Le fichier entré dans iTrameur est un fichier texte contenant les contextes du mot "feminismo" de toutes les pages d' articles de presses et de blog portugais et brésiliens traitant dans leurs contenus du féminisme.</p>
 			
@@ -111,11 +127,202 @@
 			
 		</div>
 		
-		<div class ="box">
-		<p></p>	
+		<div class ="box" id="japonais">
+			<h3 class="subtitle is-4"><b>JAPONAIS</b></h3>
+			<p>Comme précédemment, l'analyse dont nous parlerons ici a été effectuée avec l'analyseur textométrique iTrameur. L'analyse se portera uniquement sur les contextes d'utilisation du mot フェミニズム (feminizumu) visibles sur la page <a href="./concordances.html">concordances</a>.</p>
+			<div class="columns">
+				<div class="column">
+					<p>Pour commencer, lorsque l'on charge le fichier comportant tous les contextes de notre mot, nous pouvons constater qu'il semble contenir 26 248 occurences (token), incluant 3315 formes différentes. Nous pouvons aussi voir que la forme la plus fréquente est le caractère の (lecture : <em>no</em>) avec 1255 occurences.</p>
+				</div>
+				<div class="column">
+					<div class="centered_img">
+						<img width=70% src="./images/analyse-jp/nbr-forme_itrameur_jp.png" />
+					</div>
+				</div>
+			</div>
+			<p>iTrameur nous donne la possibilité d'obtenir la courbe d'accroissement de vocabulaire.</p>
+			<div class="centered_img">
+				<img width=70% src="./images/analyse-jp/courbe-acc-voc_itrameur_jp.png" />
+			</div>
+			<p>On voit sur cette courbe que le nombre de forme augmente avec la taille du corpus mais qu'une occurence ne correspond pas à une nouvelle forme (on aurait une courbe linéaire de pente égale à 1 sinon), ce qui est attendu.  À partir de cette constatation, nous pouvons regarder le dictionnaire de mot de ces contextes, trié par ordre décroissant d'occurence. Nous pourrons ainsi observer les formes les plus fréquentes.</p>
+			<div class="centered_img">
+				<img width=50% src="./images/analyse-jp/dictionnaire-occ_itrameur_jp.png" />
+			</div>
+			<p>Le tableau précédent nous donne les 10 formes les plus fréquentes dans les différents contextes recencés. Nous pouvons constater sans surprise que la majorités des formes les plus fréquentes sont des formes grammaticales. En effet, sur ces 10 tokens, nous avons :</p>
+			<div class="table-container">
+				<table class="table is-hoverable is-striped">
+					<thead>
+						<tr>
+							<th>Forme</th>
+							<th>Explications</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th>の</th>
+							<td>Particule de l'appartenance</td>
+						</tr>
+						<tr>
+							<th>、</th>
+							<td>Ponctuation, équivalent de la virgule en français</td>
+						</tr>
+						<tr>
+							<th>に</th>
+							<td>Particule du placement spacial ou temporel</td>
+						</tr>
+						<tr>
+							<th>て</th>
+							<td>Une forme finale des verbes, expression de la suspension (entre autres)</td>
+						</tr>
+						<tr>
+							<th>を</th>
+							<td>Particule d'identification du COD</td>
+						</tr>
+						<tr>
+							<th>と</th>
+							<td>Particule de conjonction ou de citation</td>
+						</tr>
+						<tr>
+							<th>が</th>
+							<td>Particule de sujet</td>
+						</tr>
+						<tr>
+							<th>は</th>
+							<td>Particule de thématisation</td>
+						</tr>
+						<tr>
+							<th>。</th>
+							<td>Ponctuation, équivalent au point final en français</td>
+						</tr>
+						
+						<tr class="is-selected">
+							<th>フェミニズム</th>
+							<td>Le mot nous intéressant, équivalent de "féminisme" en français</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<p>Pour étudier comment est utilisé le terme フェミニズム, nous allons faire abstraction de ces termes grammaticaux qui ne porte pas vraiment de sémantique, du point de vue lexical. Ce faisant, nous pouvons faire un nouveau tableau. </p> 
+			<div class="columns">
+				<div class="column">
+					<p>Dans le tableau ci-contre, nous pouvons commencer par remarquer que le token le plus présent est celui du mot que nous étudions, フェミニズム (<em>feminizumu</em>). C'est une bonne chose puisque le corpus a été choisi autour de ce terme.</p>
+					<p>Nous pouvons voir d'après cette liste que le terme que nous étudions semble être lié aux femmes, à la négation, au Japon, à la société, aux hommes, à un mouvement ou des mouvements et aux féministes. La présence du token 私 (<em>watashi</em>) pourrait signifier que ce corpus pourrait possiblement évoquer des points de vue. Mais nous ne pouvons pas en être certain.</p>
+					<p>Le fait que la négation soit présente ne signifie pas que le terme フェミニズム soit forcément lié à la négation puisque celle-ci possède la même forme pour tous les verbes alors que ce n'est pas la cas pour la forme affirmative. Par exemple, les verbes "parler" et "dire" se disent respectivement <em>hanasu</em> et <em>iu</em> en japonais donc avec des terminaison en <em>-su</em> et <em>-u</em>, alors qu'à la forme négative, ils se disent respectivement <em>hanasanai</em> et <em>iwanai</em>. Ils se terminent donc tous les deux avec la terminaison <em>-nai</em>. Cette remarque est importante puisque notre tokenisation a isolé ce morphème, raison pour laquelle il est très présent dans le corpus.</p>
+				</div>
+				<div class="column">
+					<table class="table is-striped is-hoverable">
+						<thead>
+							<tr>
+								<th>Nbr d'occurences</th>
+								<th>Token</th>
+								<th>Équivalent en français</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>591</td>
+								<th>フェミニズム</th>
+								<td>féminisme</td>
+							</tr>
+							<tr>
+								<td>219</td>
+								<th>女性</th>
+								<td>femme, le sexe féminin</td>
+							</tr>
+							<tr>
+								<td>174</td>
+								<th>ない</th>
+								<td>la négation (des verbes notamment)</td>
+							</tr>
+							<tr>
+								<td>113</td>
+								<th>日本</th>
+								<td>le Japon</td>
+							</tr>
+							<tr>
+								<td>99</td>
+								<th>年</th>
+								<td>année</td>
+							</tr>
+							<tr>
+								<td>91</td>
+								<th>社会</th>
+								<td>société</td>
+							</tr>
+							<tr>
+								<td>89</td>
+								<th>男性</th>
+								<td>homme, le sexe masculin</td>
+							</tr>
+							<tr>
+								<td>87</td>
+								<th>運動</th>
+								<td>mouvement</td>
+							</tr>
+							<tr>
+								<td>82</td>
+								<th>フェミニスト</th>
+								<td>féministe</td>
+							</tr>
+							<tr>
+								<td>77</td>
+								<th>私</th>
+								<td>moi, je</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+			<p>À partir de ce tableau sans tokens grammaticaux nous pouvons aussi faire un nuage de mot pour visualiser les mots les plus présents dans nos contextes.</p>
+			<div class="columns is-gapless is-vcentered">
+				<div class="column">
+					<div class="centered_img">
+						<img width=60% src="./images/analyse-jp/wordcloud_jp-contextes.jpg" />
+					</div>
+				</div>
+				<div class="column is-one-third">
+					<p>Nous retrouvons dans ce nuage les mots du tableau précédent mais d'autres apparaissent également. Par exemple, nous pouvons remarquer les tokens suivants :
+					<ul style="list-style-type: disc;">
+						<li>男女 (<em>danjo</em>) : hommes et femmes</li>
+						<li>平等 (<em>byoudou</em>) : égalité</li>
+						<li>解放 (<em>kaihou</em>) : émancipation</li>
+						<li>理由 (<em>riyuu</em>) : raison, motif</li>
+						<li>自由 (<em>jiyuu</em>) : liberté</li>
+						<li>主張 (<em>shuchou</em>) : revendication</li>
+						<li>差別 (<em>sabetsu</em>) : différence, discrimination</li>
+						<li>問題 (<em>mondai</em>) : problème, question</li>
+						<li>自分 (<em>jibun</em>) : soi-même</li>
+						<li>権利 (<em>kenri</em>) : droit, privilèges</li>
+					</ul>
+					</p>
+				</div>
+			</div>
+			<p>Nous allons poursuivre avec les coocurents du mot フェミニズム. Les coocurents sont les mots qui se trouvent dans un périmètre proche du mot que l'on souhaite étudier. Nous définirons ici ce périmètre comme étant 10 termes à gauche et 10 à droite. Nous obtenons, par iTrameur, les résultats suivants :</p>
+			<div class="columns is-gapless is-vcentered">
+				<div class="column">
+					<div class="centered_img">
+						<img width=70% src="./images/analyse-jp/tableau-cooccurence_itrameur_jp1.png" />
+					</div>
+				</div>
+				<div class="column">
+					<div class="centered_img">
+						<img width=100% src="./images/analyse-jp/cooccurence_itrameur_jp.png" />
+					</div>
+				</div>
+			</div>
+			<p>Nous pouvons voir sur la figure de droite tous les coocurents du mot et dans le tableau de gauche, les plus spécifiques. Nous pouvons ainsi remarquer que フェミニズム　semble souvent utilisé avec guillemet 「　et 」qui pourrait indiquer qu'il serait souvent cité (de la forme 「...フェミニズム...」). En regardant l'utilisation de ces guillemets en contexte, on peut voir que c'est effectivement le cas.</p>
+			<div class="centered_img">
+				<img width=70% src="./images/analyse-jp/contexte-guillement_itrameur_jp.png" />
+			</div>
+			<p>Le coocurent le plus spécifique est 本当 (<em>hontou</em>) pouvant signifier "véritable". En contexte, on voit qu'il se lie à notre mot de la façon suivante : 本当 の フェミニズム. Cela signifie dans ce contexte "le véritable/vrai féminisme". En revanche, cette utilisation spécifique n'apparait que 23 fois dans tous les contextes. En regardant les liens dans lesquels cette expression apparaît, on peut remarquer que cette dernière n'est utilisée que dans 3 liens issus du même site. De plus, nous avons une erreur dans notre corpus car le lien 33 et 34 sont les mêmes, ce qui fausse notre résultat. Ce coocurent ne peut donc pas être considéré valable.</p>
+			<div>
+				<h4 class="subtitle is-5"><b>OBSERVATIONS FINALES</b></h4>
+				<p>Nous avons vu dans la <a href="./feminisme.html#definition-feminizumu">définition</a> du mot フェミニズム que ce mot faisait référence à une revendication et un mouvement ayant pour but de rendre les droits des femmes égaux à ceux des hommes. Nous pouvions nous attendre à voir au minimum voir apparaître dans notre corpus les termes "hommes", "égalité", "droits", "mouvement" et "revendication". Cela a effectivement été le cas puisque nous avons pu constater la présence des mots 男性 (<em>dansei</em>),　平等 (<em>byoudou</em>),　権利 (<em>kenri</em>),　運動 (<em>undou</em>),　主張 (<em>shuchou</em>).</p>
+				<p>Nous avons donc pour le japonais un dictionnaire de mots proche de celui du français. La différence se trouve dans les coocurences.</p>
+			</div>
 		</div>
 		
-		
+		<p><a class="anchor" href="#resultat">Haut de la page ↑</a></p>
 	</body> 
 </html>
 

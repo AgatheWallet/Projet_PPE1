@@ -116,7 +116,7 @@ Agathe :
 
 ## 4 janvier
 Agathe :
-- Génération des nuages de mots pour le français et le portugais à partir des dumps-text
+- Génération des nuages de mots pour le français et le portugais à partir des dumps-text via le site : [https://www.wordclouds.com/]
 
 Fanny : 
 - Première analyses pour le français et le portugais. 
@@ -126,7 +126,7 @@ Fanny :
 ## 5 janvier
 Agathe : 
 - Tokenization des contextes japonais avec script utilisant tokenizer spacy pour génération des nuages de mots
-- Génération des nuages de mots pour le français, le portugais, le coréen et le japonais (stopwords encore à supprimer pour portugais et japonais) à partir des contextes → plus pertinent et retire les menus, etc
+- Génération des nuages de mots pour le français, le portugais, le coréen et le japonais (stopwords encore à supprimer pour portugais et japonais) à partir des contextes → plus pertinent et retire les menus, etc via le site : [https://www.wordclouds.com/]
 - Ajout des scripts bash sur le site
 - Ajout de l'image bas-de-page sur toutes les pages du site
 
@@ -141,6 +141,9 @@ Florian :
 Florian :  
 - Création du nuage de mot japonais avec le site suivant : [https://www.nuagesdemots.fr/][https://www.nuagesdemots.fr/]. Les _stopwords_ japonais ont été retirés ainsi que tout autres mots ne nous intéressant pas pour l'analyse textométrique.
 
+Agathe : 
+- Début de rédaction de l'analyse des résultats pour le coréen
+
 ## 7 janvier 
 Fanny : 
 - Mise en ligne des premières analyses sur le français et le portugais. 
@@ -154,10 +157,27 @@ Florian :
 
 ## 8 janvier 
 Fanny : 
-- Nuage de mots avec le site : https://www.nuagesdemots.fr/
+- Nuage de mots avec le site : [https://www.nuagesdemots.fr/]
 
 ## 9 janvier 
-Fanny
+Fanny :
 - Lancement du script make_itrameur_corpus.sh car nvx liens en portugais 
 - Analyse français et portugais
 
+Agathe : 
+- Premier jet des observations faites pour le coréen, à relire.
+
+Florian : 
+- Analyse sur le site [http://www.tal.univ-paris3.fr/trameur/iTrameur/] et récupération de quelques données pour les mettre sur le site
+- Commencement de la rédaction de l'analyse pour le japonais
+- Changement de la page Concordanciers car le tableau du français dépassait de la page sur mon navigateur + introduction aux concordanciers
+
+## 10 janvier
+Agathe :
+- Relecture des résultats pour le coréen
+- Harmonisation de la présentation des tableaux avec celles des concordanciers faite par Florian
+- Ajout du type de documents utilisé pour former le corpus sur `index.html` + intro aux tableaux
+
+Florian : 
+- Poursuite de la rédaction de l'analyse pour le mot japonais
+- Ajout sur le site du script `python` pour tokeniser le japonais et du script bash appliquant ce script pour tous les fichier dumps et contexte du japonais 

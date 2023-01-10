@@ -30,5 +30,3 @@ with open (entree, 'r') as rf:
 			for token in doc:
 				wt.write(token.text)
 				wt.write(" ")
-
-
