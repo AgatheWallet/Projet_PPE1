@@ -180,3 +180,4 @@ Agathe :
 
 Florian : 
 - Poursuite de la rédaction de l'analyse pour le mot japonais
+- Ajout sur le site du script `python` pour tokeniser le japonais et du script bash appliquant ce script pour tous les fichier dumps et contexte du japonais 

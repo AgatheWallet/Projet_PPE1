@@ -41,6 +41,15 @@ input, pre.submenu {
   display: none;
 }
 
+/*hide the inputs/checkmarks and submenu*/
+input, div.submenu {
+  display: none;
+}
+
+div.submenu {
+  text-indent: 50px;
+}
+
 
 /*position the label*/
 div > label::after{
@@ -63,6 +72,9 @@ input:checked~pre.submenu {
   display: block;
 }
 
+input:checked~div.submenu {
+  display: block;
+}
 
 div {
   margin-bottom : 2%;
