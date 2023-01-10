@@ -190,3 +190,24 @@ p{
   border: #ff7a59 solid 1px;
   background:#F6D9F352;
 }
+
+.anchors{
+  width: 100%;
+  text-align: center;
+}
+
+.anchor {
+  color: #403E3E;
+  background-color: #F6D9F3;
+  padding: 2px 10px;
+  margin: 5px;
+  text-align: center;
+  border: 2px solid #A783A3;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.anchor:hover, .anchor:active {
+  background-color: #F6D9F352;
+  color: #ff7a59;
+}

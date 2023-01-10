@@ -23,9 +23,18 @@
 			</nav>
 		</header>
 		
-		<h1 class="title">RÉSULTATS</h1>
+		<h1 id="resultat" class="title">RÉSULTATS</h1>
+		<p>Voici pour chacune des quatre langues, une petite analyses de résultats obtenus avec l'analyseur textométrique iTrameur.</p>
+		<div class="anchors">
+			<a class="anchor" href="#francais">Analyse en français</a>
+			<a class="anchor" href="#portugais">Analyse en portugais</a>
+			<a class="anchor" href="#japonais">Analyse en japonais</a>
+<!--
+			<a class="anchor" href="global">Analyse globale</a>
+-->
+		</div>
 		<div class="box">
-			<h3 class="subtitle is-4"><b>CORÉEN</b></h3>
+			<h3 id="coreen" class="subtitle is-4"><b>CORÉEN</b></h3>
 			<p>Pour réaliser nos analyses sous iTrameur, nous avons utilisé le fichier contenant uniquement les contextes dans lesquels notre mot était employé. Puisque nous avons travaillé jusqu'ici avec le mot "페미" <i>(fémi)</i> au lieu de "페미니즘" <i>(féminisme)</i>, nous avons remplacé toutes les occurrences et toutes les formes de féminisme ou féministe.s par "fémi". Cela permettait ainsi de les concaténer en une forme unique. En effet, le coréen étant une langue agglutinante, la présence de particules en fin de mot aurait pu rendre l'analyse plus compliquée car toutes les formes d'un même mot aurait alors été présentes dans le corpus.</p>
 			<div class="centered_img">
 				<img width=50% src="./images/dico_occ_kr.png" />
@@ -63,7 +72,7 @@
 			</div>
 		</div>
 		<div class ="box">
-			<h3 class="subtitle is-4"><b>FRANÇAIS</b></h3>
+			<h3 id="francais" class="subtitle is-4"><b>FRANÇAIS</b></h3>
 			<div class="centered_img">
 			<img width=60% src="./images/wordcloud_fr.png" />
 			</div>
@@ -73,7 +82,7 @@
 		<div>
 		
 		<div class="box">
-			<h3 class="subtitle is-4"><b>PORTUGAIS</b></h3>
+			<h3 id="portugais" class="subtitle is-4"><b>PORTUGAIS</b></h3>
 			<p> L'analyse ci-dessous est réalisée à partir de l'outil d'analyse textométrique iTrameur. Le fichier entré dans iTrameur est un fichier texte contenant les contextes du mot "feminismo" de toutes les pages d' articles de presses et de blog portugais et brésiliens traitant dans leurs contenus du féminisme.</p>
 			
 			<div class="centered_img">
@@ -105,10 +114,170 @@
 		</div>
 		
 		<div class ="box">
-		<p></p>	
+			<h3 id="japonais" class="subtitle is-4"><b>JAPONAIS</b></h3>
+			<div class="centered_img">
+				<img width=60% src="./images/analyse-jp/wordcloud_jp-contextes.jpg" />
+			</div>
+			<p>Comme précédemment, l'analyse dont nous parlerons ici a été effectuée avec l'analyseur textométrique iTrameur. L'analyse se portera uniquement sur les contextes d'utilisation du mot フェミニズム (feminizumu) visibles sur la page <a href="./concordances.html">concordances</a>.</p>
+			<div class="columns">
+				<div class="column">
+					<p>Pour commencer, lorsque l'on charge le fichier comportant tous les contextes de notre mot, nous pouvons constater qu'il semble contenir 26 248 occurences (token), incluant 3315 formes différentes. Nous pouvons aussi voir que la forme la plus fréquente est le caractère の (lecture : <em>no</em>) avec 1255 occurences.</p>
+				</div>
+				<div class="column">
+					<div class="centered_img">
+						<img width=70% src="./images/analyse-jp/nbr-forme_itrameur_jp.png" />
+					</div>
+				</div>
+			</div>
+			<p>iTrameur nous donne la possibilité d'obtenir la courbe d'accroissement de vocabulaire.</p>
+			<div class="centered_img">
+				<img width=70% src="./images/analyse-jp/courbe-acc-voc_itrameur_jp.png" />
+			</div>
+			<p>On voit sur cette courbe que le nombre de forme augmente avec la taille du corpus mais qu'une occurence ne correspond pas à une nouvelle forme (on aurait une courbe linéaire de pente égale à 1 sinon), ce qui est attendu.  À partir de cette constatation, nous pouvons regarder le dictionnaire de mot de ces contextes, trié par ordre décroissant d'occurence. Nous pourrons ainsi observer les formes les plus fréquentes.</p>
+			<div class="centered_img">
+				<img width=50% src="./images/analyse-jp/dictionnaire-occ_itrameur_jp.png" />
+			</div>
+			<p>Le tableau précédent nous donne les 10 formes les plus fréquentes dans les différents contextes recencés. Nous pouvons constater sans surprise que la majorités des formes les plus fréquentes sont des formes grammaticales. En effet, sur ces 10 tokens, nous avons :</p>
+			<div class="table-container">
+				<table class="table is-hoverable is-striped">
+					<thead>
+						<tr>
+							<th>Forme</th>
+							<th>Explications</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th>の</th>
+							<td>Particule de l'appartenance</td>
+						</tr>
+						<tr>
+							<th>、</th>
+							<td>Ponctuation, équivalent de la virgule en français</td>
+						</tr>
+						<tr>
+							<th>に</th>
+							<td>Particule du placement spacial ou temporel</td>
+						</tr>
+						<tr>
+							<th>て</th>
+							<td>Une forme finale des verbes, expression de la suspension (entre autres)</td>
+						</tr>
+						<tr>
+							<th>を</th>
+							<td>Particule d'identification du COD</td>
+						</tr>
+						<tr>
+							<th>と</th>
+							<td>Particule de conjonction ou de citation</td>
+						</tr>
+						<tr>
+							<th>が</th>
+							<td>Particule de sujet</td>
+						</tr>
+						<tr>
+							<th>は</th>
+							<td>Particule de thématisation</td>
+						</tr>
+						<tr>
+							<th>。</th>
+							<td>Ponctuation, équivalent au point final en français</td>
+						</tr>
+						
+						<tr class="is-selected">
+							<th>フェミニズム</th>
+							<td>Le mot nous intéressant, équivalent de "féminisme" en français</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<p>Pour étudier comment est utilisé le terme フェミニズム, nous allons faire abstraction de ces termes grammaticaux qui ne porte pas vraiment de sémantique, du point de vue lexical. Ce faisant, nous pouvons faire un nouveau tableau. </p> 
+			<div class="columns">
+				<div class="column">
+					<p>Dans le tableau ci-contre, nous pouvons commencer par remarquer que le token le plus présent est celui du mot que nous étudions, フェミニズム (<em>feminizumu</em>). C'est une bonne chose puisque le corpus a été choisi autour de ce terme.</p>
+					<p>Nous pouvons voir d'après cette liste que le terme que nous étudions semble être lié aux femmes, à la négation, au Japon, à la société, aux hommes, à un mouvement ou des mouvements et aux féministes. La présence du token 私 (<em>watashi</em>) pourrait signifier que ce corpus pourrait possiblement évoquer des points de vue. Mais nous ne pouvons pas en être certain.</p>
+					<p>Le fait que la négation soit présente ne signifie pas que le terme フェミニズム soit forcément lié à la négation puisque celle-ci possède la même forme pour tous les verbes alors que ce n'est pas la cas pour la forme affirmative. Par exemple, les verbes "parler" et "dire" se disent respectivement <em>hanasu</em> et <em>iu</em> en japonais donc avec des terminaison en <em>-su</em> et <em>-u</em>, alors qu'à la forme négative, ils se disent respectivement <em>hanasanai</em> et <em>iwanai</em>. Ils se terminent donc tous les deux avec la terminaison <em>-nai</em>. Cette remarque est importante puisque notre tokenisation a isolé ce morphème, raison pour laquelle il est très présent dans le corpus.</p>
+				</div>
+				<div class="column">
+					<table class="table is-striped is-hoverable">
+						<thead>
+							<tr>
+								<th>Nbr d'occurences</th>
+								<th>Token</th>
+								<th>Équivalent en français</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>591</td>
+								<th>フェミニズム</th>
+								<td>féminisme</td>
+							</tr>
+							<tr>
+								<td>219</td>
+								<th>女性</th>
+								<td>femme, le sexe féminin</td>
+							</tr>
+							<tr>
+								<td>174</td>
+								<th>ない</th>
+								<td>la négation (des verbes notamment)</td>
+							</tr>
+							<tr>
+								<td>113</td>
+								<th>日本</th>
+								<td>le Japon</td>
+							</tr>
+							<tr>
+								<td>99</td>
+								<th>年</th>
+								<td>année</td>
+							</tr>
+							<tr>
+								<td>91</td>
+								<th>社会</th>
+								<td>société</td>
+							</tr>
+							<tr>
+								<td>89</td>
+								<th>男性</th>
+								<td>homme, le sexe masculin</td>
+							</tr>
+							<tr>
+								<td>87</td>
+								<th>運動</th>
+								<td>mouvement</td>
+							</tr>
+							<tr>
+								<td>82</td>
+								<th>フェミニスト</th>
+								<td>féministe</td>
+							</tr>
+							<tr>
+								<td>77</td>
+								<th>私</th>
+								<td>moi, je</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+			<p>Nous allons poursuivre avec les coocurents du mot フェミニズム. Les coocurents sont les mots qui se trouvent dans un périmètre proche du mot que l'on souhaite étudier. Nous définirons ici ce périmètre comme étant 10 termes à gauche et 10 à droite. Nous obtenons, par iTrameur, les résultats suivants :</p>
+			<div class="columns is-gapless is-vcentered">
+				<div class="column">
+					<div class="centered_img">
+						<img width=70% src="./images/analyse-jp/tableau-cooccurence_itrameur_jp1.png" />
+					</div>
+				</div>
+				<div class="column">
+					<div class="centered_img">
+						<img width=100% src="./images/analyse-jp/cooccurence_itrameur_jp.png" />
+					</div>
+				</div>
+			</div>
 		</div>
 		
-		
+		<p><a class="anchor" href="#resultat">Haut de la page</a></p>
 	</body> 
 </html>
 
