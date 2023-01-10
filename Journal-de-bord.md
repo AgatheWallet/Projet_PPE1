@@ -167,8 +167,16 @@ Fanny :
 Agathe : 
 - Premier jet des observations faites pour le coréen, à relire.
 
+Florian : 
+- Analyse sur le site [http://www.tal.univ-paris3.fr/trameur/iTrameur/] et récupération de quelques données pour les mettre sur le site
+- Commencement de la rédaction de l'analyse pour le japonais
+- Changement de la page Concordanciers car le tableau du français dépassait de la page sur mon navigateur + introduction aux concordanciers
+
 ## 10 janvier
 Agathe :
 - Relecture des résultats pour le coréen
 - Harmonisation de la présentation des tableaux avec celles des concordanciers faite par Florian
 - Ajout du type de documents utilisé pour former le corpus sur `index.html` + intro aux tableaux
+
+Florian : 
+- Poursuite de la rédaction de l'analyse pour le mot japonais

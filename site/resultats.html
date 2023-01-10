@@ -113,9 +113,6 @@
 		
 		<div class ="box" id="japonais">
 			<h3 class="subtitle is-4"><b>JAPONAIS</b></h3>
-			<div class="centered_img">
-				<img width=60% src="./images/analyse-jp/wordcloud_jp-contextes.jpg" />
-			</div>
 			<p>Comme précédemment, l'analyse dont nous parlerons ici a été effectuée avec l'analyseur textométrique iTrameur. L'analyse se portera uniquement sur les contextes d'utilisation du mot フェミニズム (feminizumu) visibles sur la page <a href="./concordances.html">concordances</a>.</p>
 			<div class="columns">
 				<div class="column">
@@ -260,6 +257,30 @@
 					</table>
 				</div>
 			</div>
+			<p>À partir de ce tableau sans tokens grammaticaux nous pouvons aussi faire un nuage de mot pour visualiser les mots les plus présents dans nos contextes.</p>
+			<div class="columns is-gapless is-vcentered">
+				<div class="column">
+					<div class="centered_img">
+						<img width=60% src="./images/analyse-jp/wordcloud_jp-contextes.jpg" />
+					</div>
+				</div>
+				<div class="column is-one-third">
+					<p>Nous retrouvons dans ce nuage les mots du tableau précédent mais d'autres apparaissent également. Par exemple, nous pouvons remarquer les tokens suivants :
+					<ul style="list-style-type: disc;">
+						<li>男女 (<em>danjo</em>) : hommes et femmes</li>
+						<li>平等 (<em>byoudou</em>) : égalité</li>
+						<li>解放 (<em>kaihou</em>) : émancipation</li>
+						<li>理由 (<em>riyuu</em>) : raison, motif</li>
+						<li>自由 (<em>jiyuu</em>) : liberté</li>
+						<li>主張 (<em>shuchou</em>) : revendication</li>
+						<li>差別 (<em>sabetsu</em>) : différence, discrimination</li>
+						<li>問題 (<em>mondai</em>) : problème, question</li>
+						<li>自分 (<em>jibun</em>) : soi-même</li>
+						<li>権利 (<em>kenri</em>) : droit, privilèges</li>
+					</ul>
+					</p>
+				</div>
+			</div>
 			<p>Nous allons poursuivre avec les coocurents du mot フェミニズム. Les coocurents sont les mots qui se trouvent dans un périmètre proche du mot que l'on souhaite étudier. Nous définirons ici ce périmètre comme étant 10 termes à gauche et 10 à droite. Nous obtenons, par iTrameur, les résultats suivants :</p>
 			<div class="columns is-gapless is-vcentered">
 				<div class="column">
@@ -272,6 +293,16 @@
 						<img width=100% src="./images/analyse-jp/cooccurence_itrameur_jp.png" />
 					</div>
 				</div>
+			</div>
+			<p>Nous pouvons voir sur la figure de droite tous les coocurents du mot et dans le tableau de gauche, les plus spécifiques. Nous pouvons ainsi remarquer que フェミニズム　semble souvent utilisé avec guillemet 「　et 」qui pourrait indiquer qu'il serait souvent cité (de la forme 「...フェミニズム...」). En regardant l'utilisation de ces guillemets en contexte, on peut voir que c'est effectivement le cas.</p>
+			<div class="centered_img">
+				<img width=70% src="./images/analyse-jp/contexte-guillement_itrameur_jp.png" />
+			</div>
+			<p>Le coocurent le plus spécifique est 本当 (<em>hontou</em>) pouvant signifier "véritable". En contexte, on voit qu'il se lie à notre mot de la façon suivante : 本当 の フェミニズム. Cela signifie dans ce contexte "le véritable/vrai féminisme". En revanche, cette utilisation spécifique n'apparait que 23 fois dans tous les contextes. En regardant les liens dans lesquels cette expression apparaît, on peut remarquer que cette dernière n'est utilisée que dans 3 liens issus du même site. De plus, nous avons une erreur dans notre corpus car le lien 33 et 34 sont les mêmes, ce qui fausse notre résultat. Ce coocurent ne peut donc pas être considéré valable.</p>
+			<div>
+				<h4 class="subtitle is-5"><b>OBSERVATIONS FINALES</b></h4>
+				<p>Nous avons vu dans la <a href="./feminisme.html#definition-feminizumu">définition</a> du mot フェミニズム que ce mot faisait référence à une revendication et un mouvement ayant pour but de rendre les droits des femmes égaux à ceux des hommes. Nous pouvions nous attendre à voir au minimum voir apparaître dans notre corpus les termes "hommes", "égalité", "droits", "mouvement" et "revendication". Cela a effectivement été le cas puisque nous avons pu constater la présence des mots 男性 (<em>dansei</em>),　平等 (<em>byoudou</em>),　権利 (<em>kenri</em>),　運動 (<em>undou</em>),　主張 (<em>shuchou</em>).</p>
+				<p>Nous avons donc pour le japonais un dictionnaire de mots proche de celui du français. La différence se trouve dans les coocurences.</p>
 			</div>
 		</div>
 		
