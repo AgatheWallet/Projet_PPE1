@@ -37,10 +37,6 @@ body{
 }
 
 /*hide the inputs/checkmarks and submenu*/
-input, table.submenu {
-  display: none;
-}
-
 input, pre.submenu {
   display: none;
 }
@@ -63,10 +59,6 @@ input:checked~label::after{
 
 
 /*show the submenu when input is checked*/
-input:checked~table.submenu {
-  display: block;
-}
-
 input:checked~pre.submenu {
   display: block;
 }
@@ -122,9 +114,8 @@ p{
 }
 
 .js-modal-trigger.is-primary {
-  background-color: #F6D9F3;
+  background-color: transparent;
   border-color: transparent;
-  color: #403E3E;
 }
 
 .js-modal-trigger.is-large {
@@ -132,10 +123,6 @@ p{
 }
 
 .js-modal-trigger {
-  background-color: #fff;
-  border-color: #dbdbdb;
-  border-width: 1px;
-  color: #363636;
   cursor: pointer;
   justify-content: center;
   padding-bottom: calc(.5em - 1px);
@@ -150,15 +137,6 @@ p{
   -moz-appearance: none;
   -webkit-appearance: none;
   align-items: center;
-  border: 1px solid transparent;
-    border-top-color: transparent;
-    border-top-width: 1px;
-    border-right-color: transparent;
-    border-right-width: 1px;
-    border-bottom-color: transparent;
-    border-bottom-width: 1px;
-    border-left-color: transparent;
-    border-left-width: 1px;
   border-radius: .375em;
   box-shadow: none;
   display: inline-flex;
@@ -186,9 +164,8 @@ p{
 }
 
 .js-modal-trigger:hover {
-  color: #ff7a59;
-  border: #ff7a59 solid 1px;
-  background:#F6D9F352;
+  color: hsl(229, 53%,  53%);
+  background:transparent;
 }
 
 .anchors{
@@ -197,17 +174,13 @@ p{
 }
 
 .anchor {
-  color: #403E3E;
-  background-color: #F6D9F3;
+  color: #000;
   padding: 2px 10px;
   margin: 5px;
   text-align: center;
-  border: 2px solid #A783A3;
   display: inline-block;
-  font-weight: bold;
 }
 
 .anchor:hover, .anchor:active {
-  background-color: #F6D9F352;
-  color: #ff7a59;
+  color: hsl(229, 53%,  53%);
 }

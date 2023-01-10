@@ -26,10 +26,35 @@
 		
 		<h1 class="title">TABLEAUX</h1>
 		<div class="box">
-			<div>
-				<input id="check01" type="checkbox" name="menu" />
-				<label for="check01" class="subtitle  is-4">Tableau Coréen</label>
-				<table class="submenu table is-striped">
+			<p>
+				<button class="js-modal-trigger is-primary is-large modal-button" data-target="modal-1" aria-haspopup="true">Tableau Coréen</button>
+			</p>
+			
+			<p>
+				<button class="js-modal-trigger is-primary is-large modal-button" data-target="modal-2" aria-haspopup="true">Tableau Français</button>
+			</p>
+			
+			<p>
+				<button class="js-modal-trigger is-primary is-large modal-button" data-target="modal-3" aria-haspopup="true">Tableau Japonais</button>
+			</p>
+			
+			<p>
+				<button class="js-modal-trigger is-primary is-large modal-button" data-target="modal-4" aria-haspopup="true">Tableau Portugais</button>
+			</p>
+		</div>
+		<div class="centered_img">
+			<img width = 75% src="./images/index_img.png" />
+		</div>
+		
+		<div id="modal-1" class="modal">
+		  <div class="modal-background"></div>
+		  <div class="modal-card">
+			<header class="modal-card-head">
+			  <p class="modal-card-title">Tableau Coréen</p>
+			  <button class="delete" aria-label="close"></button>
+			</header>
+			<section class="modal-card-body">
+				<table class="table is-striped">
 					<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>aspiration</th><th>dump-text</th><th>occurrences</th><th>contextes</th></tr>
 					<tr><td>1</td><td>200</td><td><a href="https://www.hani.co.kr/arti/area/chungcheong/1042940.html">https://www.hani.co.kr/arti/area/chungcheong/1042940.html</a></td><td>UTF-8</td><td><a href="../aspirations/kr/URL_kr-1.html">aspiration</a></td><td><a href="../dumps-text/kr/URL_kr-1.txt">dump</a></td><td>22</td><td><a href="../contextes/kr/URL_kr-1.txt"> contextes</a></td></tr>
 					<tr><td>2</td><td>200</td><td><a href="https://www.hani.co.kr/arti/economy/economy_general/1066493.html">https://www.hani.co.kr/arti/economy/economy_general/1066493.html</a></td><td>UTF-8</td><td><a href="../aspirations/kr/URL_kr-2.html">aspiration</a></td><td><a href="../dumps-text/kr/URL_kr-2.txt">dump</a></td><td>8</td><td><a href="../contextes/kr/URL_kr-2.txt"> contextes</a></td></tr>
@@ -83,11 +108,21 @@
 					<tr><td>50</td><td>200</td><td><a href="https://www.dailian.co.kr/news/view/1096899/?sc=Daum">https://www.dailian.co.kr/news/view/1096899/?sc=Daum</a></td><td>UTF-8</td><td><a href="../aspirations/kr/URL_kr-50.html">aspiration</a></td><td><a href="../dumps-text/kr/URL_kr-50.txt">dump</a></td><td>35</td><td><a href="../contextes/kr/URL_kr-50.txt"> contextes</a></td></tr>
 
 				</table>
-			</div>
-			<div>
-				<input id="check02" type="checkbox" name="menu" />
-				<label for="check02" class="subtitle  is-4">Tableau Français</label>
-				<table class="submenu table is-striped">
+			</section>
+			<footer class="modal-card-foot">
+			  <button class="button">Cancel</button>
+			</footer>
+		  </div>
+		</div>
+			<div id="modal-2" class="modal">
+		  <div class="modal-background"></div>
+		  <div class="modal-card">
+			<header class="modal-card-head">
+			  <p class="modal-card-title">Tableau Français</p>
+			  <button class="delete" aria-label="close"></button>
+			</header>
+			<section class="modal-card-body">
+				<table class="table is-striped">
 					<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>aspiration</th><th>dump-text</th><th>occurrences</th><th>contextes</th></tr>
 					<tr><td>1</td><td>403</td><td><a href="https://www.ouest-france.fr/medias/ouest-france/courrier-des-lecteurs/feminisme-l-emancipation-de-toutes-les-femmes-71a5158e-6019-11ed-81fe-30b170697b40">https://www.ouest-france.fr/medias/ouest-france/courrier-des-lecteurs/feminisme-l-emancipation-de-toutes-les-femmes-71a5158e-6019-11ed-81fe-30b170697b40</a></td><td></td><td><a href="../aspirations/fr/URL_fr-1.html">aspiration</a></td><td><a href="../dumps-text/fr/URL_fr-1.txt">dump</a></td><td></td><td><a href="../contextes/fr/URL_fr-1.txt"> contextes</a></td></tr>
 					<tr><td>2</td><td>200</td><td><a href="https://www.20minutes.fr/politique/4011690-20221125-violences-sexistes-sexuelles-ca-va-bien-passer-prix-ironiques-piquer-vif-hommes-politiques">https://www.20minutes.fr/politique/4011690-20221125-violences-sexistes-sexuelles-ca-va-bien-passer-prix-ironiques-piquer-vif-hommes-politiques</a></td><td>UTF-8</td><td><a href="../aspirations/fr/URL_fr-2.html">aspiration</a></td><td><a href="../dumps-text/fr/URL_fr-2.txt">dump</a></td><td>1</td><td><a href="../contextes/fr/URL_fr-2.txt"> contextes</a></td></tr>
@@ -141,11 +176,22 @@
 					<tr><td>50</td><td>200</td><td><a href="https://www.contretemps.eu/feminisme-socialiste-barbara-ehrenreich/">https://www.contretemps.eu/feminisme-socialiste-barbara-ehrenreich/</a></td><td>UTF-8</td><td><a href="../aspirations/fr/URL_fr-50.html">aspiration</a></td><td><a href="../dumps-text/fr/URL_fr-50.txt">dump</a></td><td>38</td><td><a href="../contextes/fr/URL_fr-50.txt"> contextes</a></td></tr>
 
 				</table>
-			</div>
-			<div>
-				<input id="check03" type="checkbox" name="menu" />
-				<label for="check03" class="subtitle  is-4">Tableau Japonais</label>
-				<table class="submenu table is-striped">
+			</section>
+			<footer class="modal-card-foot">
+			  <button class="button">Cancel</button>
+			</footer>
+		  </div>
+		</div>
+		
+			<div id="modal-3" class="modal">
+		  <div class="modal-background"></div>
+		  <div class="modal-card">
+			<header class="modal-card-head">
+			  <p class="modal-card-title">Tableau Japonais</p>
+			  <button class="delete" aria-label="close"></button>
+			</header>
+			<section class="modal-card-body">
+				<table class="table is-striped">
 					<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>aspiration</th><th>dump-text</th><th>occurrences</th><th>contextes</th></tr>
 					<tr><td>1</td><td>200</td><td><a href="https://www.asahi.com/articles/ASPDY6X2PPDSUTIL015.html">https://www.asahi.com/articles/ASPDY6X2PPDSUTIL015.html</a></td><td>UTF-8</td><td><a href="../aspirations/jp/URL_jp-1.html">aspiration</a></td><td><a href="../dumps-text/jp/URL_jp-1.txt">dump</a></td><td>3</td><td><a href="../contextes/jp/URL_jp-1.txt"> contextes</a></td></tr>
 					<tr><td>2</td><td>200</td><td><a href="https://www.huffingtonpost.jp/entry/story_jp_5e3cb7f5c5b6b70886fd0627">https://www.huffingtonpost.jp/entry/story_jp_5e3cb7f5c5b6b70886fd0627</a></td><td>UTF-8</td><td><a href="../aspirations/jp/URL_jp-2.html">aspiration</a></td><td><a href="../dumps-text/jp/URL_jp-2.txt">dump</a></td><td>21</td><td><a href="../contextes/jp/URL_jp-2.txt"> contextes</a></td></tr>
@@ -200,11 +246,21 @@
 					<tr><td>51</td><td>200</td><td><a href="https://shibuya-qws.com/project/imI">https://shibuya-qws.com/project/imI</a></td><td>UTF-8</td><td><a href="../aspirations/jp/URL_jp-51.html">aspiration</a></td><td><a href="../dumps-text/jp/URL_jp-51.txt">dump</a></td><td>16</td><td><a href="../contextes/jp/URL_jp-51.txt"> contextes</a></td></tr>
 
 				</table>
-			</div>
-			<div>
-				<input id="check04" type="checkbox" name="menu" />
-				<label for="check04" class="subtitle  is-4">Tableau Portugais</label>
-				<table class="submenu table is-striped">
+			</section>
+			<footer class="modal-card-foot">
+			  <button class="button">Cancel</button>
+			</footer>
+		  </div>
+		</div>
+			<div id="modal-4" class="modal">
+		  <div class="modal-background"></div>
+		  <div class="modal-card">
+			<header class="modal-card-head">
+			  <p class="modal-card-title">Tableau Portugais</p>
+			  <button class="delete" aria-label="close"></button>
+			</header>
+			<section class="modal-card-body">
+				<table class="table is-striped">
 					<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>aspiration</th><th>dump-text</th><th>occurrences</th><th>contextes</th></tr>
 					<tr><td>1</td><td>200</td><td><a href="https://journals.openedition.org/rccs/7709">https://journals.openedition.org/rccs/7709</a></td><td>UTF-8</td><td><a href="../aspirations/pt/URL_pt-1.html">aspiration</a></td><td><a href="../dumps-text/pt/URL_pt-1.txt">dump</a></td><td>56</td><td><a href="../contextes/pt/URL_pt-1.txt"> contextes</a></td></tr>
 					<tr><td>2</td><td>200</td><td><a href="https://www.dn.pt/sociedade/25-anos-de-estudos-sobre-a-luta-pela-igualdade-das-mulheres-em-portugal-14714666.html">https://www.dn.pt/sociedade/25-anos-de-estudos-sobre-a-luta-pela-igualdade-das-mulheres-em-portugal-14714666.html</a></td><td>UTF-8</td><td><a href="../aspirations/pt/URL_pt-2.html">aspiration</a></td><td><a href="../dumps-text/pt/URL_pt-2.txt">dump</a></td><td>3</td><td><a href="../contextes/pt/URL_pt-2.txt"> contextes</a></td></tr>
@@ -258,11 +314,63 @@
 					<tr><td>50</td><td>200</td><td><a href="https://journals.openedition.org/alhim/10346">https://journals.openedition.org/alhim/10346</a></td><td>UTF-8</td><td><a href="../aspirations/pt/URL_pt-50.html">aspiration</a></td><td><a href="../dumps-text/pt/URL_pt-50.txt">dump</a></td><td>21</td><td><a href="../contextes/pt/URL_pt-50.txt"> contextes</a></td></tr>
 					
 				</table>
-			</div>
+			</section>
+			<footer class="modal-card-foot">
+			  <button class="button">Cancel</button>
+			</footer>
+		  </div>
 		</div>
-		<div class="centered_img">
-			<img width = 75% src="./images/index_img.png" />
-		</div>
-	</body> 
+		
+<!--
+		script en javascript pour que les boutons des concordanciers fonctionnent
+-->
+		<script>
+		document.addEventListener('DOMContentLoaded', () => {
+		  // Functions to open and close a modal
+		  function openModal($el) {
+			$el.classList.add('is-active');
+		  }
 
+		  function closeModal($el) {
+			$el.classList.remove('is-active');
+		  }
+
+		  function closeAllModals() {
+			(document.querySelectorAll('.modal') || []).forEach(($modal) => {
+			  closeModal($modal);
+			});
+		  }
+
+		  // Add a click event on buttons to open a specific modal
+		  (document.querySelectorAll('.js-modal-trigger') || []).forEach(($trigger) => {
+			const modal = $trigger.dataset.target;
+			const $target = document.getElementById(modal);
+
+			$trigger.addEventListener('click', () => {
+			  openModal($target);
+			});
+		  });
+
+		  // Add a click event on various child elements to close the parent modal
+		  (document.querySelectorAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot .button') || []).forEach(($close) => {
+			const $target = $close.closest('.modal');
+
+			$close.addEventListener('click', () => {
+			  closeModal($target);
+			});
+		  });
+
+		  // Add a keyboard event to close all modals
+		  document.addEventListener('keydown', (event) => {
+			const e = event || window.event;
+
+			if (e.keyCode === 27) { // Escape key
+			  closeAllModals();
+			}
+		  });
+		});
+		</script>
+	</body> 
 </html>
+				
+				

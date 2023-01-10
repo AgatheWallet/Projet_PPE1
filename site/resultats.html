@@ -24,17 +24,18 @@
 		</header>
 		
 		<h1 id="resultat" class="title">RÉSULTATS</h1>
-		<p>Voici pour chacune des quatre langues, une petite analyses de résultats obtenus avec l'analyseur textométrique iTrameur.</p>
+		<p>Voici pour chacune des quatre langues, une petite analyse des résultats obtenus avec l'analyseur textométrique iTrameur.</p>
 		<div class="anchors">
-			<a class="anchor" href="#francais">Analyse en français</a>
-			<a class="anchor" href="#portugais">Analyse en portugais</a>
-			<a class="anchor" href="#japonais">Analyse en japonais</a>
+			<a class="anchor" href="#coreen">Analyse Coréen</a>
+			<a class="anchor" href="#francais">Analyse Français</a>
+			<a class="anchor" href="#portugais">Analyse Portugais</a>
+			<a class="anchor" href="#japonais">Analyse Japonais</a>
 <!--
 			<a class="anchor" href="global">Analyse globale</a>
 -->
 		</div>
-		<div class="box">
-			<h3 id="coreen" class="subtitle is-4"><b>CORÉEN</b></h3>
+		<div class="box" id="coreen" >
+			<h3 class="subtitle is-4"><b>CORÉEN</b></h3>
 			<p>Pour réaliser nos analyses sous iTrameur, nous avons utilisé le fichier contenant uniquement les contextes dans lesquels notre mot était employé. Puisque nous avons travaillé jusqu'ici avec le mot "페미" <i>(fémi)</i> au lieu de "페미니즘" <i>(féminisme)</i>, nous avons remplacé toutes les occurrences et toutes les formes de féminisme ou féministe.s par "fémi". Cela permettait ainsi de les concaténer en une forme unique. En effet, le coréen étant une langue agglutinante, la présence de particules en fin de mot aurait pu rendre l'analyse plus compliquée car toutes les formes d'un même mot aurait alors été présentes dans le corpus.</p>
 			<div class="centered_img">
 				<img width=50% src="./images/dico_occ_kr.png" />
@@ -71,18 +72,15 @@
 				<p>En France, le féminisme est avant tout perçu comme un mouvement contestataire pour une considération égale des femmes et des hommes par la société. Or, nous constatons que le mot "mouvement" est entièrement absent de notre corpus coréen. Nous avions déjà observé l'absence de ce terme dans la définition du féminisme donnée par plusieurs dictionnaires coréens en ligne. Il semblerait que le féminisme ne soit vu que comme un point de vue, adopté par une minorité de personnes, pouvant avoir des revendications assez violentes pour défendre ce dit point de vue (comme en atteste la présence du terme "radicalisme" ou encore l'emploi du verbe "éliminer" dans la définition).</p>
 			</div>
 		</div>
-		<div class ="box">
-			<h3 id="francais" class="subtitle is-4"><b>FRANÇAIS</b></h3>
+		<div class ="box" id="francais">
+			<h3 class="subtitle is-4"><b>FRANÇAIS</b></h3>
 			<div class="centered_img">
 			<img width=60% src="./images/wordcloud_fr.png" />
 			</div>
 			<p> Ce nuage de mot est généré grâce à partir des contextes...</p>
-		</div>
-			
-		<div>
-		
-		<div class="box">
-			<h3 id="portugais" class="subtitle is-4"><b>PORTUGAIS</b></h3>
+		</div>		
+		<div class="box" id="portugais">
+			<h3 class="subtitle is-4"><b>PORTUGAIS</b></h3>
 			<p> L'analyse ci-dessous est réalisée à partir de l'outil d'analyse textométrique iTrameur. Le fichier entré dans iTrameur est un fichier texte contenant les contextes du mot "feminismo" de toutes les pages d' articles de presses et de blog portugais et brésiliens traitant dans leurs contenus du féminisme.</p>
 			
 			<div class="centered_img">
@@ -113,8 +111,8 @@
 			
 		</div>
 		
-		<div class ="box">
-			<h3 id="japonais" class="subtitle is-4"><b>JAPONAIS</b></h3>
+		<div class ="box" id="japonais">
+			<h3 class="subtitle is-4"><b>JAPONAIS</b></h3>
 			<div class="centered_img">
 				<img width=60% src="./images/analyse-jp/wordcloud_jp-contextes.jpg" />
 			</div>
