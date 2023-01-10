@@ -166,3 +166,9 @@ Fanny :
 
 Agathe : 
 - Premier jet des observations faites pour le coréen, à relire.
+
+## 10 janvier
+Agathe :
+- Relecture des résultats pour le coréen
+- Harmonisation de la présentation des tableaux avec celles des concordanciers faite par Florian
+- Ajout du type de documents utilisé pour former le corpus sur `index.html` + intro aux tableaux
