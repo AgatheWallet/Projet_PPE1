@@ -7,7 +7,7 @@ Agathe Wallet (Inalco)
 Fanny BACHEY (Inalco)
 
 ## Lien du site
-[https://agathewallet.github.io/Projet_PPE1_Feminisme/][https://agathewallet.github.io/Projet_PPE1_Feminisme/]
+[https://agathewallet.github.io/Projet_PPE1_Feminisme/](https://agathewallet.github.io/Projet_PPE1_Feminisme/)
 
 ## Langues
 Coréen, Français, Japonais, Portugais
