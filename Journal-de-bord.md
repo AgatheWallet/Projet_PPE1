@@ -184,3 +184,9 @@ Florian :
 
 Fanny : 
 - Écriture des analyses pour le français et le portugais. 
+
+## 11 janvier
+Florian :
+- Fin de la rédaction de l'analyse pour le mot japonais
+- Rédaction des particularités de traduction pour le japonais dans la page sur le féminisme du site
+- ajout du lien d'accès au site sur le `README.md`
